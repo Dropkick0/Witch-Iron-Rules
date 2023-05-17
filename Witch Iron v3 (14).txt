@@ -1,0 +1,534 @@
+﻿	10s
+	+1
+	-
+	Brutal 1
+	–Ammo: Bolt–
+	Bolt x20
+	1
+	5s
+	-
+	-
+	-
+	Hardened bolt x20
+	1
+	10s
+	+1
+	-
+	Brutal 1
+	–Ammo: Bullet–
+	Lead bullet x20
+	1
+	10s
+	-
+	-
+	Stun 1
+	Stone bullet x20
+	1
+	-
+	-
+	-
+	-
+	Dmg: Damage Roll Modifier | W: Inflicted Wounds
+Armor
+Armor
+	Enc
+	Cost
+	Hit Location
+	AV
+	Qualities & Flaws
+	–Gambeson–
+	Arming Cap
+	0
+	20s
+	Head
+	+1
+	Under-Layer, Weak-Spot 1
+	Arming Trousers
+	1
+	20s
+	Legs
+	+1
+	Under-Layer
+	Gambeson
+	1
+	20s
+	Arms, Torso
+	+1
+	Under-Layer, Obstruct 1
+	–Chain–
+	Chain Chausses
+	1
+	30s
+	Legs
+	+2
+	Under-Layer
+	Chain Coat
+	2
+	40s
+	Arms, Torso
+	+2
+	Under-Layer, Obstruct 1
+	Chain Coif
+	1
+	30s
+	Head
+	+2
+	Under-Layer, Weak-Spot 2
+	–Brigandine–
+	Brigandine Bracer
+	3
+	50s
+	Arms
+	+3
+	Scaled 2, Stiff, Obstruct 2
+	Brigandine Chausses
+	3
+	50s
+	Legs
+	+3
+	Scaled 2, Stiff
+	Brigandine Vest
+	3
+	50s
+	Torso
+	+3
+	Scaled 2, Stiff
+	–Steel–
+	Steel Bracer
+	2
+	30s
+	Arms
+	+2
+	Weak-Spot 2, Obstruct 2
+	Steel Breastplate
+	2
+	30s
+	Torso
+	+2
+	Weak-Spot 2
+	Steel Greaves
+	2
+	30s
+	Legs
+	+2
+	Weak-Spot 2
+	Steel Helm
+	2
+	30s
+	Head
+	+2
+	Weak-Spot 2
+	–Misc–
+	Bear Cloak
+	3
+	40s
+	Arms, Torso
+	+1
+	Beastskin, Weather-Proof 1
+	Skull Trophies
+	0
+	-
+	Any
+	+0
+	Fear 1, Ugly 1
+	Tournament Bracer
+	4
+	40s
+	One Arm
+	+3
+	Built-In (Heater Shield), Obstruct 3
+	AV: Armor Value for Soak
+
+
+Armor Qualities
+Armor Value (Rating)        RP:3+3
+This Armor has (Rating) Armor Value for Soak.
+Beastskin        RP:+0
+This cloak may be worn over any other armor, providing the AV of the creature and the Qualities of its hide to the Torso and Arms.
+Built-In (Item)        RP:+5
+This armor includes a weapon or tool that cannot be removed.
+Fear (Rating)        RP:+2+2
+This armor grants (Rating) Hits to any Checks to intimidate.
+Hit Location (Rating)        RP:0+3
+This Armor protects (Rating) hit locations. (A pair of Arms, as well as a pair of Legs, count as one hit location).
+Scaled (Rating)        RP:+2+2
+This armor gains (Rating) AV when struck from a  ranged attack, (non-stacking).
+Weather-Proof        RP:+1
+This armor grants its wearer a +1 Hit to Checks against the weather
+Under-Layer         RP:+2
+This armor may be worn under one layer of armor.
+Obstruct (Rating)        RP:-2-1
+This armor grants its wearer a (Rating) Hits penalty for Checks involving fine motor skills.
+Stiff        RP:-4
+This armor cannot be worn with Under-Layer armor.
+Weak-Spot (Rating)        RP:-2-1
+When a wearer suffers a Fumble while defending, ignore (Rating) Armor Value. (Rating up to Armor Value)
+Ugly (Rating)        RP:-2-1
+This armor grants its wearer a (Rating) Hits penalty for Checks to coerce.
+________________
+
+
+Miscellaneous Trappings
+Trapping
+	Enc
+	Cost
+	Trapping
+	Enc
+	Cost
+	Trapping
+	Enc
+	Cost
+	–Miscellaneous–
+	Air Bladder
+	0
+	1s
+	Ink
+	0
+	5s
+	Tinderbox
+	1
+	5s
+	Bedroll
+	1
+	2s
+	Instrument
+	1
+	20s
+	Torch
+	1
+	1s
+	Block & Tackle
+	1
+	3s
+	Ladder, 10 ft
+	3
+	15s
+	Bottle, Empty
+	0
+	3s
+	Book, Blank
+	1
+	10s
+	Lantern
+	1
+	10s
+	Waterskin
+	1
+	1s
+	Book, Reading
+	1
+	20s
+	Lantern, Oil
+	1
+	5s
+	Whistle
+	0
+	1s
+	Book, Spell (Blank)
+	1
+	100s
+	Lard
+	1
+	1s
+	
+
+	
+
+	
+
+	Caltrop, Bag
+	1
+	5s
+	Lock
+	1
+	10s
+	
+
+	
+
+	
+
+	Candle
+	0
+	1s
+	Manacles
+	1
+	15s
+	
+
+	
+
+	
+
+	Chain, per foot
+	1
+	2s
+	Map, Regional
+	1
+	50s
+	
+
+	
+
+	
+
+	Chalk, Pack
+	0
+	1s
+	Map, Local
+	1
+	15s
+	
+
+	
+
+	
+
+	Clothing, Rich
+	1
+	20s
+	Mirror
+	1
+	30s
+	
+
+	
+
+	
+
+	Clothing, Normal
+	1
+	5s
+	Nails, Bag
+	1
+	1s
+	
+
+	
+
+	
+
+	Clothing, Poor
+	1
+	1s
+	Paper, Stack
+	1
+	5s
+	
+
+	
+
+	
+
+	Clothing, Winter
+	2
+	10s
+	Pipe
+	1
+	5s
+	
+
+	
+
+	
+
+	Cooking Pot
+	1
+	5s
+	Pole, 10 ft
+	2
+	5s
+	
+
+	
+
+	
+
+	Crampons
+	1
+	5s
+	Rope, 50 ft
+	2
+	3s
+	
+
+	
+
+	
+
+	Demon Root
+	1
+	20s
+	Scroll Case
+	1
+	5s
+	
+
+	
+
+	
+
+	Drill
+	1
+	5s
+	Soap, Brick
+	1
+	3s
+	
+
+	
+
+	
+
+	Fishing Pole
+	1
+	5s
+	Spike, Bundle
+	1
+	5s
+	
+
+	
+
+	
+
+	Grappling Hook
+	1
+	10s
+	Spyglass
+	1
+	250s
+	
+
+	
+
+	
+
+	Holy Symbol
+	1
+	50s
+	Tent, Pavilion
+	20
+	50s
+	
+
+	
+
+	
+
+	Holy Water
+	1
+	25s
+	Tent, Personal
+	2
+	10s
+	
+
+	
+
+	
+
+	Hourglass
+	1
+	100s
+	Tent, Regular
+	5
+	20s
+	
+
+	
+
+	
+
+	________________
+
+
+Followers
+Example
+	Cost*
+	Ability +Hits
+	Assists With
+	Limits
+	Porter
+	50s +20s
+	30% +1 Hit
+	Carries 10 Enc
+	Will not risk life or Provide Light
+	Torchbearer
+	50s +20s
+	30% + 1 Hits
+	Provides Light & Carries up to 10 Torches
+	Will not risk life
+	Laborer
+	100s +50s
+	30% + 1 Hits
+	Excavation & Construction
+	Will not risk life
+	Crew
+	100s +50s
+	30% + 1 Hits
+	Crews Vessels
+	Will not risk life
+	Bondsman
+	250s
+	30% + 1 Hits
+	Bonded Service
+	Will try to run away
+	Barber-Surgeon
+	200s +100s
+	50% + 2 Hits
+	Medical Care
+	Will not risk life
+	Mercenary
+	250s +150s
+	50% + 2 Hits
+	Combat, Owns Side-Sword & Gambeson
+	Will not enter Dungeons
+	Delver
+	250s +1 Share
+	50% + 2 Hits
+	Anything, Needs Trappings
+	None
+	Coachman
+	250s +150s
+	50% + 2 Hits
+	Travel, Carries 50 Enc
+	Will not risk life
+	Captain
+	1000s +1000s
+	50% + 2 Hits
+	Travel, Carries 200 Enc
+	Will not risk life
+	Light Horse
+	250s +100s
+	30% + 1 Hits
+	Travel, Carries 20 Enc
+	Will not risk life
+	War Horse
+	500s +200s
+	50% + 2 Hits
+	Travel, Combat, Carries 20 Enc
+	None
+	Small & Vicious Dog
+	20s
+	30% + 1 Hits
+	Fighting Rats, Barking
+	None
+	War Dog
+	200s +20s
+	50% + 2 Hits
+	Watch Dog, Combat
+	None
+	Cost: Hiring Cost + Weekly Upkeep | Share: an equal share of all treasure
+________________
+
+
+________________
+
+Anchorite
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+

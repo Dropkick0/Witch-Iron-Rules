@@ -1,0 +1,429 @@
+﻿	Flaw
+	Obsessed (Horses)
+Focuses only on obtaining horses when in their presence.
+	
+
+	*Already Modified
+________________
+Hydra
+Ability
+	66%
+	Attacks
+	3†
+	Speed
+	30
+	Wound
+	5
+	Damage Roll
+	Dealt Wounds
+	Soak
+	18 (2)
+	d6 +16
+	2
+	Specialized
+	            * Stalking
+* Being in Shallow Water
+* Reckless Combat
+	+3 Hits
+	Inept
+	            * Patience
+* Spotting Traps
+* Co-operation
+	-10%
+	Qualities
+	Huge Sized*
++10 Damage & Soak, has 5 Max Wounds.
+Hydra Heads†
+Lose one Attack for every 2 Wounds missing.
+Regeneration (Fire)
+Heals 2 Wounds per turn, Fire halts.
+Hydra Weapon
+Attacks inflict Entangle 1 & Poison 3.
+	Flaw
+	Ashwood
+
+
+	*Already Modified
+Jabbervrack
+Ability
+	55%
+	Attacks
+	2
+	Speed
+	30
+	Wound
+	5
+	Damage Roll
+	Dealt Wounds
+	Soak
+	18 (3)
+	d6 +16
+	2
+	Specialized
+	            * Feasting on the Wicked
+* Sensing the Wicked
+* Terrorizing the Wicked
+	+2 Hits
+	Inept
+	            * Hiding
+* Traveling Far
+* Self Preservation
+	-10%
+	Qualities
+	Huge Sized*
++10 Damage & Soak, has 5 Max Wounds.
+Flight
+Can fly 30ft per round.
+Black Blood
+Inflict Poison 1 to all engaged when it takes damage.
+Maddening Form
+Inflict Stress 2 to everyone who can see it every round.
+Jabbervrack Weapons
+Attacks have Brutal 1 & inflict Pain 2.
+	Flaw
+	Innocents
+Cannot harm an innocent soul.
+	
+
+	*Already Modified
+________________
+Manticore
+Ability
+	55%
+	Attacks
+	2
+	Speed
+	30
+	Wound
+	5
+	Damage Roll
+	Dealt Wounds
+	Soak
+	18 (3)
+	d6 +15
+	2
+	Specialized
+	            * Hunting Humans
+* Mountain Navigation
+* Ambushing
+	+2 Hits
+	Inept
+	            * Fighting to the Death
+* Breaking Promises
+* Restraining Itself
+	-10%
+	Qualities
+	Huge Sized*
++10 Damage & Soak, has 5 Max Wounds.
+Flight
+Can fly 90 ft per round.
+Spike Shot
+Can attack at Long Range with Brutal 1
+Manticore Tail
+Can make another attack if it inflicts Wounds, once per round.
+	Flaw
+	Meteoric Iron (Bleed 1)
+Suffers Bleed 1 when in contact with Meteoric Iron.
+	*Already Modified
+Pegasus
+Ability
+	33%
+	Attacks
+	1
+	Speed
+	30
+	Wound
+	4
+	Damage Roll
+	Dealt Wounds
+	Soak
+	8 (0)
+	d6 +8
+	2
+	Specialized
+	            * Long Distance Travel
+* Human-like Thought
+* Being a Mount
+	+1 Hit
+	Inept
+	            * Spotting a Trap
+* Staying in a Fight
+* Fighting Starvation
+	-10%
+	Qualities
+	Large Sized*
++5 Damage & Soak, has 4 Max Wounds.
+Flight
+Can fly 120 ft per round.
+Long Stride
+Can move up to 3 x Speed with a Sprint action.
+	Flaw
+	Tell-Tale Sign (Large Feathers)
+Leaves Large Feathers behind, making it easily tracked.
+	*Already Modified
+
+
+________________
+
+
+Troll
+Ability
+	55%
+	Attacks
+	2
+	Speed
+	30
+	Wound
+	4
+	Damage Roll
+	Dealt Wounds
+	Soak
+	12 (2)
+	d6 +10
+	3
+	Specialized
+	            * Consume Anything
+* Survive Anywhere
+* Fight Anyone
+	+2 Hits
+	Inept
+	            * Independent Thought
+* Carrying out Plans
+* Learning from Mistakes
+	-10%
+	Qualities
+	Large Sized*
++5 Damage & Soak, has 4 Max Wounds.
+Regeneration (Fire)
+Heals 2 Wounds per turn, Fire halts.
+Unkillable (Fire)
+Returns to life in 2d6 rounds unless fully Burned.
+Wields (Troll Club)
+Attacks with a Troll Club, which has Massive 1, Rend 2, Inaccurate 2 & inflicts 3 Wounds
+	Flaw
+	Stupid
+If there is no adjacent ally, each round roll d6:  1-2 stand & drool, 3-6 act normal.
+	*Already Modified
+Wyvern
+Ability
+	60%
+	Attacks
+	1
+	Speed
+	30
+	Wound
+	5
+	Damage Roll
+	Dealt Wounds
+	Soak
+	19 (3)
+	d6 +16
+	2
+	Specialized
+	            * Smell
+* Opportunistic Hunter
+* Escaping by Any Means
+	+3 Hits
+	Inept
+	            * Sight
+* Fighting for Territory
+* Defending its Own
+	-10%
+	Qualities
+	Huge Sized*
++10 Damage & Soak, has 5 Max Wounds.
+Flight
+Can fly 90 ft per round.
+Wyvern Poison Tail
+Can make another attack if it inflicts Wounds, once per round.
+Wyvern Weapon
+Attacks inflict Poison 3.
+	Flaw
+	Terrified (Larger Foes)
+Runs from terror when it sees Larger Foes.
+	*Already Modified
+
+
+________________
+
+
+Quick OSR Stat Conversion
+- Monster Stats-
+Hit Dice
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
+	Ability
+	30%
+	33%
+	40%
+	44%
+	50%
+	55%
+	60%
+	66%
+	70%
+	77%
+	Damage Roll
+	d6 +3
+	d6 +3
+	d6 +4
+	d6 +4
+	d6 +5
+	d6 +5
+	d6 +6
+	d6 +6
+	d6 +7
+	d6 +7
+	Soak (AV)
+	+3(0)
+	+3(0)
+	+4(0)
+	+4(0)
+	+5(0)
+	+5(0)
+	+6(0)
+	+6(0)
+	+7(0)
+	+7(0)
+	+Hits*
+	+1
+	+1
+	+1
+	+2
+	+2
+	+2
+	+3
+	+3
+	+3
+	+4
+	Hit Dice
+	11
+	12
+	13
+	14
+	15
+	16
+	17
+	18
+	19
+	20
+	Abilities
+	80%
+	88%
+	90%
+	99%
+	100%
+	105%
+	110%
+	115%
+	120%
+	125%
+	Damage Roll
+	d6 +8
+	d6 +8
+	d6 +9
+	d6 +9
+	d6 +10
+	d6 +10
+	d6 +11
+	d6 +11
+	d6 +12
+	d6 +12
+	Soak (AV)
+	+8(0)
+	+8(0)
+	+9(0)
+	+9(0)
+	+10(0)
+	+10(0)
+	+11(0)
+	+11(0)
+	+12(0)
+	+12(0)
+	+Hits*
+	+4
+	+4
+	+5
+	+5
+	+5
+	+6
+	+6
+	+6
+	+7
+	+7
+	*Use for checks they are specialized in | (AV) Armor Value
+- Armor & Damage-
+AC
+	Leather
+	Chain
+	Plate
+	Weapons
+	Light
+	Medium
+	Heavy
+	d12
+	AV*
+	+2
+	+5
+	+7
+	Wounds
+	1
+	2
+	3
+	3
+	*Armor Value (Adds to Soak)
+- Size & Mob Modification-
+Size Scale:
+	Tiny
+	Small
+	Medium
+	Large
+	Huge
+	Gigantic
+	Max Wounds:
+	1
+	2
+	3
+	6
+	12
+	18
+	Damage Roll:
+	-10 (Min 1)
+	-5 (Min 1)
+	+0
+	+5
+	+10
+	+20
+	Mob Scale:
+	Small
+	Medium
+	Large
+	Huge
+	Mob Special Rules
+	# of Units:
+	5+ Units
+	20+ Units
+	50+ Units
+	100+ Units
+	            * A Mob’s scale is reduced when its Max Wounds is equal to a lower scale value
+* May attack all engaged & ignore Overwhelm
+	Max Wounds:
+	x5
+	x20
+	x50
+	x100
+	Attack:
+	x2
+	x4
+	x6
+	x8
+	            * Attacks: Roll extra Damage Rolls on a successful attack.
+* Area attacks, multiply all Wounds inflicted by 1 + 1 for every 5ft(r)

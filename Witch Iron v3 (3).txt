@@ -1,0 +1,463 @@
+﻿	Dimwitted
+	Increased/decreased Intelligence by 10%.
+	25-32
+	Natural-Leader
+	Beta
+	Increased/decreased Personality by 10%.
+	33-40
+	Hearty
+	Sickly
+	Increased/decreased Robustness by 10%.
+	41-48
+	Light-Touch
+	Fat-Fingered
+	Increased/decreased Finesse by 10%.
+	49-56
+	Longevity
+	Heart disease
+	Longer/shorter Lifespan by 10%.
+	57-64
+	Nimble
+	Clumsy
+	Increased/decreased Agility by 10%.
+	65-72
+	Quick
+	Slow
+	Increased/decreased Quickness by 10%.
+	73-80
+	Fate-Marked
+	Ill-Omened
+	Increased/decreased Luck by 10%.
+	81-88
+	Strong-Willed
+	Impressionable
+	Increased/decreased Willpower by 10%.
+	89-96
+	Sprinter
+	Asthmatic
+	Increased/decreased Speed by 10.
+	97-00
+	Warp-Blood
+	Null
+	Increase/decrease Magick or Faith by 1.
+	*Gain on Odd Number; Use the second effect; Cancels out base Trait.
+Passing Genes
+The laws of nature are written in runes of flesh and blood. You cannot change these laws. For the first Descendant in a Line of Lineage or when a Descendant is indirectly related, roll three Genetic Traits (rerolling duplicates) and record these in order in Genetic Trait slots 1, 2 & 3.
+
+
+A Descendant has a 50% chance of gaining their Progenitor’s Genetic Trait for slots 1, 2 & 3. Otherwise, roll a random Genetic Trait for that slot.
+
+
+When rolling for a Genetic Trait, check if the roll is even or odd. When even, gain the Base Trait, and when odd, gain the Duality Trait.
+________________
+
+
+
+
+________________
+
+
+Step 3: Lines of Lineage
+
+
+Select two Lines of Lineage, add +10% to every Ability from each of your Lineages.
+
+
+Each Line of Lineage begins with two Lineages unlocked.
+- Starting Lineages-
+	Academic
+	Organizing Chaos
+	+10%
+	Fin
+	Intel
+	Will
+	Luck
+	Alchemist
+	Potions & Poisons
+	+10%
+	Rob
+	Fin
+	Intel
+	Per
+	Black-Thumb
+	Building & Modding
+	+10%
+	Mus
+	Quick
+	Fin
+	Intel
+	Pit-Born
+	Scrappy Survivor
+	+10%
+	Mus
+	Rob
+	Agi
+	Quick
+	Ordained
+	Anointed Servant
+	+10%
+	Rob
+	Intel
+	Will
+	Per
+	Shadow
+	Sneaking & Thieving
+	+10%
+	Agi
+	Quick
+	Per
+	Luck
+	Witch
+	Uncontrolled Magick
+	+10%
+	Agi
+	Will
+	Per
+	Luck
+	Workhorse
+	Strength & Labor
+	+10%
+	Mus
+	Rob
+	Fin
+	Will
+	Writing Your Book of Bones
+Starting with the first Descendant in a Line of Lineage, record their name and a Title based on one of their notable deeds, aspect of their life or their death.
+
+
+The Descendant comes into play as soon as possible; you do not have to know the exact family dynamic.
+Unlockable Lineages
+- Unlockable Lineages-
+	Anchorite
+	Divine Survivalist
+	Arcanist
+	Tamed Magick
+	Beast
+	Unleashed Power
+	Berserker
+	Rage & Violence
+	Blood
+	Predatory Leech
+	Crusader
+	Holy War
+	Curseling
+	Twisted Fugitive
+	Demon
+	Dark Pacts
+	Dreadnaught
+	Welded Flesh
+	Druid
+	Savage Nature
+	Flesh-Sculptor
+	Reconstruct Anatomy
+	Inquisitor
+	Torches & Truth
+	Musician
+	Artist Virtuoso
+	Noble
+	Prestige & Manipulation
+	Occultist
+	Unknowable Magick
+	Red-Hand
+	Cold-Blooded Killer
+	Revenant
+	Tenacious Grudges
+	Rune-Carver
+	Forged Magick
+	Veteran
+	Banners & Battle
+	Warden
+	Frontier Protector
+	Unlocking a Lineage
+To unlock a Lineage for your Line you must do one of the following:
+* Have a single Descendent gain all five Lineage Talents.
+* Go on a Quest for the Lineage; see Places of Interest for Quest ideas.
+Academic
+Starting Abilities:
+Gain +10% to the following Abilities:
+Finesse, Intelligence, Willpower, Luck
+
+
+Starting Trappings:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lineage Talents:
+Forbidden Inspiration
+You have delved into the dark arts, learning secrets that are better left unknown. Once per session, you may reroll any check or table, but each time you use this ability, you suffer 1 point of stress.
+Polyglot
+You are fluent in a variety of languages, and can quickly learn new ones. You are fluent in any language you have been exposed to, and it takes you only 1 day to learn a new language with the help of a speaker or written text.
+Sage Advice
+You are skilled at giving advice, and can help others make the most of their actions. Once per turn, you may spend an action instructing another character, granting them an additional action to use on their turn. If the target ignores your instruction, you may make a verbal attack roll to try and persuade them, using your net hits as the bonus to the additional action if successful.
+________________
+Just As Planned
+You have a gift for seeing the future, and can prepare for any situation that may arise. Once per session, you may make a research check modified by the likelihood of the solution. If successful, your preparations take effect perfectly. If you fail, your preparations still take effect, but at a cost. The likelihood of success and the cost of failure are as follows:
+* Likely: +20% & suffer 1 Stress
+* Unlikely: +0% & suffer 2 Stress
+* Absurd: -20% & suffer 3 Stress
+Augmented Limb
+You have learned how to fashion a limb into a multifunctional research assistant that sometimes acts on its own. This new limb replaces any of your existing limbs or missing limbs, and retains all normal functions. Once per session, you may allow the limb to reverse one of your failed research checks. Any future lost limbs may be replaced by spending 1 month researching and fashioning a new one.
+________________
+Unlocking the Academic
+The Academic Lineage is added to your Line if you do one of the following tasks:
+* Becoming accredited at a University by finding forgotten history.
+* Die in defense of or conquer a University.
+Project, University
+You Line begins constructing a home for knowledge and learning. Gain the following stacking benefit for your Line:
+* Academic Descendants can earn +1 Tier by spending double training time (I.e. a Tier 2 descendant would be 17 years & 6 months old).
+
+
+Any Descendant with the Academic Lineage may add to the University. Use the following table for the cost of each Rating of the University & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	Humble Village School
+	2
+	2,000
+	Mediocre
+	3
+	4,000
+	Modest
+	4
+	8,000
+	Adequate
+	5
+	16,000
+	Stately
+	6
+	32,000
+	Imposing
+	7
+	64,000
+	Venerable
+	8
+	128,000
+	Majestic
+	9
+	256,000
+	Grandiose
+	10
+	512,000
+	Peak of Global Academia
+	
+
+________________
+
+
+University Names
+d6
+	Name
+	1
+	College of Gore Valley
+	2
+	Darkwood University
+	3
+	Hangman Institute
+	4
+	Stonehell Academy
+	5
+	The Black Conservatory
+	6
+	University of the Immortal
+	Project, Grand Library
+A Descendant can dedicate their life to a project for their lineage; an Academic builds a massive collection of research and study.
+
+
+This collection of knowledge can be used to answer any question by rolling against a 10% per Rating of the library & takes one week per Rating. Only one Library can be consulted for any given question.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	
+
+________________
+
+
+Alchemist
+Lineage Abilities
+Gain +10% to the following Abilities:
+Robustness, Finesse, Intelligence, Personality
+
+
+
+
+
+
+Lineage Talents:
+Devil’s Brew
+You are skilled at creating powerful, but dangerous potions. You may add your Tier in +Hits to brewing for a new Concoction. For each Concoction brewed this way suffer one Stress, +one for each previous Devil’s Brew.
+Rapid Alchemy
+Your alchemical skills are unmatched, allowing you to create new potions quickly. Once per session, you may create a new potion in just 1 minute per character tier, instead of the usual 1 week.
+Precise Dilution
+You have mastered the art of diluting potions, poisons, and other alchemical substances without diminishing their potency. This process takes 1 week of work and 1 relevant ingredient per copy (such as tree sap for healing potions or mercury for metal acids). In addition, you may brew any potion you have a recipe for with a check that is one tier lower than your own. You can also create a recipe for any potion you brew, detailing all of its effects and toxicity.
+________________
+
+
+Hidden Stockpile
+You have a secret stash of alchemical substances that you can draw upon in a pinch. Once per session, you may spend the cost in silver and make a trade check to pull out a commonly known potion or one that you have created. If you fail, the potion evaporates harmlessly in your hand.
+Grafted Limb
+You have grown a new limb using strange alchemical concoctions. This new limb replaces any existing limb or missing limb, and retains all normal functions. You may secrete any commonly known potion or one that you have created once per limb, each session. Any future lost limbs may be replaced by spending 1 month growing and grafting a new one.
+________________
+Unlocking the Alchemist
+The Alchemist Lineage is added to your Line if you do one of the following tasks:
+* Become inducted into an Alchemist Guild by presenting a unique and powerful concoction.
+* Die in defense of or conquer an Alchemist Guild.
+Project, Alchemist Guild
+You Line begins forming a guild of brewing and harvesting. Gain the following stacking benefit for your Line:
+* Alchemist Descendants can earn +1 Tier by spending double training time (I.e. a Tier 2 descendant would be 17 years & 6 months old).
+
+
+Any Descendant with the Alchemist Lineage may add to the Alchemist Guild. Use the following table for the cost of each Rating of the Alchemist Guild & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	Poultice Hut
+	2
+	2,000
+	Herbalist's Shop
+	3
+	4,000
+	Herbalist's Guild
+	4
+	8,000
+	Advanced Brewery
+	5
+	16,000
+	Tonic Collective
+	6
+	32,000
+	City Apothecary Guild
+	7
+	64,000
+	Provincial Apothecary Guild
+	8
+	128,000
+	Master Alchemist's Guild
+	9
+	256,000
+	Royal Apothecary Guild
+	10
+	512,000
+	Globally Renowned Guild
+	
+
+________________
+
+
+Alchemist Guild Names
+d6
+	Name
+	1
+	Order of the Hermetics
+	2
+	Trial of the Mage Sage
+	3
+	Burden of the Elements
+	4
+	Volatile Solutions
+	5
+	The Golden Draft Company
+	6
+	The Elixir Guild
+	Project, Laboratory
+A Descendant can dedicate their life to a project for their lineage; an Alchemist builds a dark lab full of beakers, glass tubes & exotic reagents.
+
+
+This elaborate laboratory can be used by an Alchemist to create a Master Concoction, a two x Rating Concoction is automatically created without any Toxicity and can be a higher Tier than your; this takes one week per Rating. An Alchemist may only make one Master Concoction in their lifetime; while they can rebrew this Concoction, it cannot be passed down.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	
+
+________________
+
+
+Black-Thumb
+Lineage Abilities
+Gain +10% to the following Abilities:
+Muscle, Quickness, Finesse, Intelligence
+
+
+
+
+
+
+
+
+
+
+Lineage Talents:
+Prosthetic Limb
+You have created a fully functioning prosthetic limb, complete with steam-powered pistons. This new limb replaces any existing limb or missing limb, and retains all normal functions. Once per session, you may allow the limb 

@@ -1,0 +1,407 @@
+﻿	The wind flows around you in a perfect and harmonious dance.
+	+5
+	You can control and manipulate any wind of magic with precision and ease.
+	+10
+	You can create effects with any wind of magic, such as summoning a storm or transmuting helmets into lead.
+	+15
+	You can combine different winds of magic to create new and unique effects, such as creating a wall of fire that also reflects attacks.
+	+20
+	You can summon powerful constructs and creatures that embody the essence of the winds.
+	+25
+	You can manipulate the very fabric of reality with the winds of magic, warping and shaping it to your will.
+	+30
+	You can harness the full potential of the winds of magic, becoming a godlike being with immense power and control over the elements.
+	+35
+	You can create new and unique winds of magic, bending the laws of reality to your will.
+	+40
+	You can transcend the physical realm and exist as a being of pure magic.
+	+45
+	You can reshape the world and create new realities with the winds of magic.
+	+50
+	You can become one with the winds of magic, becoming an embodiment of their power.
+	________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Faith
+When you want to cast a spell, you must request the power of your God and channel it to your desired effect. Using an action to Cast, roll up to your Magick/ Faith in d10s. If the result is equal to or greater than the miracle’s Casting Hits, it is cast successfully. If the result is less than the miracle’s CH, you may continue to make Cast Checks in an Extended Check until a miracle is finished.
+Cruel Gods
+When a die rolls a ten, you Overcast, reroll the die, and add to the total. You escalate your Divine Wrath by one step for each Casting Check rolled after the first This accumulates until you have cast your miracle or ended it prematurely.
+1. Petty Wrath
+2. Great Wrath
+3. Cataclysmic Wrath, adding +5 to the roll on the table for each additional step
+An Impatient Lord
+If all of your dice roll a one, your miracle automatically fails, and worse still, you escalate your Divine Wrath by three steps.
+The Stress of Sinners
+If you decide you do not want to roll your Divine Wrath, you gain Stress equal to double the steps of your Divine Wrath.
+Miracle Working Modifiers
+If any effects would hamper speech but not mute (i.e., being Deafened), receive a minus one to each casting Check; for every -10%, you would have to Check.
+________________
+Spontaneous Miracles
+The Gods are not to be trifled with. To create a Spontaneous Miracle, begin by making a sentence with one of the three techniques, and combine it with a Presence of a God you Worship.
+* “I Bless …”
+* e.i. Empower or Revitalize
+* “I Curse …”
+* e.i. Weaken or Expel
+* “I Commune …”
+* e.i. Enlighten or Forsee
+
+
+Spontaneous casting starts at CH 0; with every ten Hits rolled, you may add effect.
+________________
+
+
+Divine Wrath
+When you roll Divine Wrath that includes Presence in its description, replace it with one of your God’s Presences.
+
+
+
+
+Example: a Divine Eruption would erupt with a cleansing flame for Dominus, or Divine Backlash would lash out with hunting trophies for Bygorr.
+
+
+d10
+	-Petty Wrath-
+	d10
+	-Great Wrath-
+	01
+	Tried, for your next Miracle, take d6 damage & gain +1 Faith
+	01
+	Tested, for your next Miracle, take 2d6 damage & gain +2 Faith
+	02
+	Abandoned? The miracle is delayed for six rounds.
+	02
+	Pray, you see Presence visions, suffer a Stun Condition.
+	03
+	Kneel, you buckled under Presence, Fall Prone
+	03
+	Conceited, break anything you’re holding.
+	04
+	Vain, you drop anything you're holding.
+	04
+	Visions, your mind is filled with Presence gain 1 Stress.
+	05
+	Witness Me, your God controls your miracle and uses it unexpectedly (i.e., target someone else).
+	05
+	I Tire of You, your God controls your miracle and uses it least beneficially (i.e., benefits an enemy).
+	06
+	Grand Display, a Presence explosion discharges from you, all within short range, beholding you but unharmed.
+	06
+	Shared Burden, roll Petty Wrath  all within short range, yourself included, suffer from it, or take 3d6 damage.
+	07
+	Divine Feedback, you suffer Presence feedback take d6 damage or a Condition from this Presence.
+	07
+	Divine Backlash, you suffer a Presence backlash, take 2d6 damage or d6 Conditions from this Presence.
+	08
+	Tribute, your God takes d6 random consumable items or d6 x 10 silver (i.e., torches, rations, potions).
+	08
+	The Dark Gods Intercept, d6 5 Hit Dice Lesser Demons are summoned.
+	09
+	Penance, lose 1 Faith until you repent for 10 min.
+	09
+	Atonement, lose 2 Faith until you repent for one day.
+	00
+	It’s Worse, roll Great Wrath
+	00
+	It’s Even Worse, roll Cataclysmic Wrath
+	d10
+	-Cataclysmic Wrath-
+	01
+	Evaluated, for your next Miracle, take 3d6 damage & gain +3 Faith
+	02
+	Overwhelming Torment, you are flooded with visions of Presence, suffer d6 Helpless Conditions.
+	03
+	Maddening, apocalyptic messages of Presence replace your thoughts, gain d6 Stress.
+	04
+	Narcissistic, you are bathed in Presence and lose all items on your person. Any magic items you had on you can be found at the nearest holy location related to your God.
+	05
+	Punishment, lose 3 Faith until you repent for one month.
+	06
+	Fade Away, a Limb is slowly amputated by Presence. Roll  d6 1-3: Arm, 4-6: Leg; even= left, odd= right.
+	07
+	Allotted Suffering, roll Great Wrath  all within short range, yourself included, suffer from it, or take 5d6 damage to the head if no one is within short range.
+	08
+	Divine Eruption, your body erupts with a Presence for d6 rounds, you suffer Stun for that time. During this time all within short range suffer 2d6 damage or d6 Conditions from this Presence, each round.
+	09
+	Feel My Wrath, A Presence storm is summoned, causing destruction and hysteria for d6 hours in the local area.
+	00
+	The Dark Gods Answer, a Gigantic Sized 15 Hit Dice Greater Demon is summoned.
+	God-Stained
+The Gods leave a stain on their devotees, Gain one God-Stain for every two miracles you learn. Each God-Stain is based on a  Presence of your God.
+If you roll the same God-Stain twice, increase its potency. For example, if you gain a +1 Skill Specialization from a God-Stain, it becomes a +2 Skill Specialization.
+
+
+d10
+	-God-Stain Descriptions-
+	01
+	Spurned, you are stained with sensitivity from your cruel lord. You lose -1 Faith Ability when you are in a location antithetical to your God.
+* Examples: Bygorr: Tamed Lands; Corvis: Tightly Controlled Locations; Dominus: Uncontrolled Locations; Furnos: Summer; Minera: Filthy Locations; Nox: Places of Birth; Thonjun: Dry Land; Ynir: Wild Lands.
+	02
+	Cursed, you are stained with the displeasure of your lord. You lose -10% to an Ability of your God’s choosing.
+* Examples: Bygorr: Intelligence; Corvis: Muscle; Dominus: Agility; Furnos: Quickness; Minera: Finesse; Nox: Robustness; Thonjun: Personality; Ynir: Willpower.
+	03
+	Strange Obsession, you are stained with an odd obsession from your God. You must keep a handful of material related to your God.
+* Examples: Bygorr: Trophies; Corvis: Dice or Cards; Dominus: Metal Bands; Furnos: Wolf Teeth; Minera: Herbs; Nox: Bones; Thonjun: Seaweed; Ynir: Wheat.
+	04
+	Divine State of Mind, your mind is stained by your God. You gain a lingering quarrel against 30% +1 Hits, and its goal is to make you perform actions related to your God, triggering once per session.
+* Examples: Bygorr: Hunt; Corvis: Gamble; Dominus: Command; Furnos: Fight; Minera: Charity; Nox: Lay to Rest; Thonjun: Sail; Ynir: Nourish.
+	05
+	General Physical Trait, your body is stained by your God you grow or shrink in a way related to your God. You gain a +10 bonus, +1 Hits to a type of Check, d6 as your Hits for special abilities, special weapons or armor, or anything else you can think of.
+* Examples: Bygorr: Thick Body Hair; Corvis: Slender; Dominus: Imposing; Furnos: Well Musclabled; Minera: Innocent; Nox: Skeletal; Thonjun: Waterproof; Ynir: Plump.
+	06
+	Specific Physical Trait, you are stained with a locational transformation from God. You gain a physical feature related to your God. You gain a +10 bonus, +1 Hits to a type of Check, d6 as your Hits for special abilities, special weapons or armor, or anything else you can think of.
+* Examples: Bygorr: Clawed Hands; Corvis: Cat Eyes; Dominus: Booming Voice; Furnos: Hardened Fangs; Minera: Healing Hands; Nox: Dead Eyes; Thonjun: Webbed Feet; Ynir: Plant Growth.
+	07
+	Holy Presence, you are stained with an unmistakable aura from your God. You gain a +10% bonus to social Checks with followers of your God.
+* Examples: Bygorr: Wild Musk; Corvis: Attract Cats; Dominus: Natural Leadership; Furnos: Wolf Friend; Minera: Calming Presence; Nox: Attract Ravens; Thonjun: Seawater Smell; Ynir: Baked Bread Smell.
+	08
+	Enlightened, you are stained with a skill of your God. You gain a +1 Skill Specialization related to your God.
+* Examples: Bygorr: Survival (Hunt); Corvis: Carouse (Gamble); Dominus: Leadership (Command); Furnos: Athletics (Wrestle); Minera: Heal (Treat Disease); Nox: Steel (Resist Horror); Thonjun: Operate (Sailing); Ynir: Husbandry (Animal Care).
+	09
+	Blessed, you are stained with a boon from your God. You gain +10% to an Ability of your God’s choosing.
+* Examples: Bygorr: Quickness; Corvis: Agility; Dominus: Personality; Furnos: Muscle; Minera: Intelligence; Nox: Willpower; Thonjun: Robustness; Ynir: Finesse.
+	00
+	Anointed, you are stained with a glowing symbol of your God. You gain +1 Faith Ability when you are in a location related to your God.
+* Examples: Bygorr: Wild Lands; Corvis: Uncontrolled Locations; Dominus: Tightly Controlled Locations; Furnos: Winter; Minera: Places of Healing; Nox: Graveyards;  Thonjun: The Sea; Ynir: Tamed Lands.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bygorr, the God Hunter
+Presence: Survival & Wild Nature
+- Miracles of Bygorr-
+Commonly used miracles for Bygorr’s devotees.
+Bygorr’s Armory
+CH: 20
+Bygorr grants the weapons of the wild. A target in short range gains the fangs and claws of a great beast for d6 rounds, which inflicts 2d6+PB+2 as a Damage Roll & inflicts d6 Bleed.
+Hunter’s Eye
+CH: 20
+Bygorr grants the senses of the wild. A target in short range gains a +20% bonus to all Checks related to hunting, for d6 x 10 minutes.
+Race to Survive
+CH: 25
+Bygorr grants unnatural speed. A target in short range doubles its Speed for d6 minutes.
+The Wild Remembers
+CH: 20
+Bygorr commands the wild. Ask any wild location or animal a question, and make a Quarrel with 3d6 as your Hits, against your target to determine the accuracy of the answer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Miracle-
+CH
+	Examples
+	+0
+	Bygorr whispers in your ear, offering a small piece of advice on survival and hunting.
+	+5
+	Bygorr creates a temporary heightened sense in you, allowing you to see and hear better in the wild.
+	+10
+	Bygorr creates sharper and more deadly weapons for you.
+	+15
+	Bygorr creates temporary speed and agility in you, allowing you to move quickly and easily through rough terrain.
+	+20
+	Bygorr creates a pack of wolves or a flock of birds to aid you in your hunt.
+	+25
+	Bygorr transforms you into a powerful beast, granting you the fangs and claws of a great predator.
+	+30
+	Bygorr creates a massive storm or tornado to ravage your enemies.
+	+35
+	Bygorr grants you complete control over the wild, allowing you to command and manipulate animals and natural elements at will.
+	+40
+	Bygorr creates an entire ecosystem of animals to fight by your side.
+	+45
+	Bygorr grants you the ability to see the memories and thoughts of the wild, allowing you to gain insight and knowledge from the natural world.
+	+50
+	Bygorr grants you god-like powers of survival and hunting, allowing you to survive in any environment and hunt any prey with ease.
+	
+
+
+
+
+
+Corvis, the God Thief
+Presence: Luck & Trickery
+- Miracles of Corvis-
+Commonly used miracles for Corvis’s devotees.
+Great Gamble
+CH: 15
+Corvis tricks a target into doing what you want. Force a target within short range to take an additional action of your choice, but if it is unwanted make a Quarrel with 2d6 as your Hits against your target.
+Luck of Corvis
+CH: 25
+Corvis grants their blessing. Four targets within short range may Reverse a Check they make, within d6 min.
+Must be Nothing
+CH: 25
+Corvis forbids others from noticing you. For d6 x 10 min, if someone attempts to, Quarrel with 2d6 as your Hits, against them.
+Trick Latch
+CH: 20
+Corvis’ blessing allows you to pop open any closed chest or door. Open a target within a short range, however, you must make a Quarrel using 3d6 Hits against your target to determine how obvious it is.
+________________
+
+
+
+
+
+
+
+
+- Spontaneous Miracle-
+CH
+	Examples
+	+0
+	Corvis whispers in your ear, offering a small piece of advice on luck and trickery.
+	+5
+	Corvis creates temporary good luck for you, allowing you to roll better on checks and rolls.
+	+10
+	Corvis creates more deadly and accurate weapons for you.
+	+15
+	Corvis creates temporary invisibility in you, allowing you to move unseen and unheard.
+	+20
+	Corvis creates the ability to manipulate others with ease in you, convincing them to do your bidding.
+	+25
+	Corvis transforms you into a creature of luck and trickery, granting you the abilities of a fox or a raven.
+	+30
+	Corvis creates the power of luck and trickery to ravage your enemies, causing them to suffer misfortunes and setbacks.
+	+35
+	Corvis grants you complete control over luck and trickery, allowing you to bend fate and probability to your will.
+	+40
+	Corvis creates an entire region to be plagued by bad luck, accidents, and misfortunes
+	+45
+	Corvis grants you the ability to see the thoughts and intentions of others, allowing you to predict and manipulate their actions with ease.
+	+50
+	Corvis grants you god-like powers of luck and trickery, allowing you to control the outcome of any situation and outwit any.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dominus, the God King
+Presence: Rulership & Cleansing Corruption
+- Miracles of Dominus-
+Commonly used miracles for Dominus’s devotees.
+Cleansing Flame
+CH: 20
+Domnius brutally cleanses corruption. A target in short range loses d6 Corruption Conditions and gains Aflame Conditions equal to twice this amount.
+For Dominus!
+CH: 25
+Dominus grants the blessing of an indomitable will. You and all allies within 20ft cannot be routed for d6 minutes.
+Shackled in Witch Irons
+CH: 10
+Dominus shackles any witch or heretic. Inflict d6 Deaf & Entangle Conditions on a target within short range.
+War Hammer of Dominus
+CH: 20
+Domnius bestows his weapon of judgment. A target in short range gains a mighty war hammer for d6 rounds, which inflicts 2d6 as a Damage Roll to deal 2 Wounds & inflicts d6 Stun.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	Dominus whispers in your ear, offering a small piece of advice on strategy and tactics.
+	+5
+	Dominus creates temporary strength and endurance in you, allowing you to fight harder and longer.
+	+10
+	Dominus creates more deadly and durable weapons for you.
+	+15
+	Dominus creates temporary armor and protection for you, making you harder to harm and kill.
+	+20
+	Dominus creates the ability to rally and inspire others to fight in you, granting them temporary strength and courage.
+	+25
+	Dominus transforms you into a powerful warrior, granting you the abilities of a knight or a berserker.
+	+30
+	Dominus creates the power of war to ravage your enemies, causing them to suffer great losses and defeat.
+	+35

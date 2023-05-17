@@ -1,0 +1,427 @@
+﻿to reverse one of your failed trade checks. Any future lost limbs may be replaced by spending 1 month engineering and constructing a new one.
+Quick Fixer
+Your skills in invention and engineering are unparalleled, allowing you to create and prototype new inventions quickly. Once per session, you may research and prototype new inventions at a rate of 1 research point per minute and round, respectively, instead of the usual 1 week and 1 day.
+________________
+
+
+Contingency Plan
+You always have a backup plan ready in case of emergencies. Once per session, you may spend the cost in silver and make a trade check to pull out any item up to one encumbrance. If you fail, the item falls apart in your hand.
+Explosive Device
+You are skilled at creating powerful, but dangerous weapons. Once per session, you may double your effective research points when creating a new single-use weapon invention. You may have up to 3 Explosive Device inventions built at any given time.
+Perfectionist
+You are an obsessive inventor, and will stop at nothing to create the perfect invention. You may add your Tier in +Hits to crafting for a new Invention. For each Invention crafted this way suffer one Stress, +one for each previous Perfect Invention.
+
+
+
+
+________________
+Unlocking the Black-Thumb
+The Black-Thumb Lineage is added to your Line if you do one of the following tasks:
+* Prove yourself to a League by submitting a unique & impressive invention.
+* Die in defense of or conquer a League.
+Project, League
+You Line begins forming a league of soot-covered inventors & blacksmiths. Gain the following stacking benefit for your Line:
+* Black-Thumb Descendants can earn +1 Tier by spending double training time (I.e. a Tier 2 descendant would be 17 years & 6 months old).
+
+
+Any Descendant with the Black-Thumb Lineage may add to the League. Use the following table for the cost of each Rating of the League & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	Village Blacksmithy
+	2
+	2,000
+	Mediocre Workshop
+	3
+	4,000
+	Town Workshop
+	4
+	8,000
+	Advanced Workshop
+	5
+	16,000
+	Artisan's Collective
+	6
+	32,000
+	City Craftsmen's Guild
+	7
+	64,000
+	Provincial Craftsmen's Guild
+	8
+	128,000
+	Master Craftsmen's Guild
+	9
+	256,000
+	The Darkforge
+	10
+	512,000
+	The Peak of Industry
+	
+
+________________
+
+
+League Names
+d6
+	Name
+	1
+	The Cinder Guild
+	2
+	The Steamworks Syndicate
+	3
+	The Brass Brotherhood
+	4
+	The Iron Alliance
+	5
+	The Forge of Shadow
+	6
+	The Anvil of Fire
+	Project, Workshop
+A Descendant can dedicate their life to a project for their lineage, a Black-Thumb builds a workshop full of steam, brass & metal-working tools.
+
+
+This intricate workshop can be used by a Black-Thumb to create a Master Invention, a two x Rating Invention that is automatically created without any Quirks and can be a higher Tier than your Black-Thumb; this takes one week per Rating. A Black-Thumb may only create one Master Invention in their lifetime; this invention cannot be reproduced.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Pit-Born
+Lineage Abilities
+Gain +10% to the following Abilities:
+Muscle, Robustness, Agility, Quickness
+
+
+
+
+
+
+
+
+Lineage Talents:
+Back-Alley Hooks
+You are skilled at using makeshift prosthetics and controlling them with great precision. This new limb replaces any existing limb or missing limb, and retains all normal functions. Once per combat, you may use the limb to perform a special deed, such as disarming an opponent or knocking them prone. Any future lost limbs may be replaced by spending 1 month constructing and attaching a new one.nth constructing and attaching a new one.
+Bar Fighter
+Anything’s a weapon in your hands. You may ignore the Superficial weapon quality and always access Improvised Weapons in combat.
+Tough as Nails
+You are tough and resilient, able to recover from even the most severe injuries. Once per session, you may heal all wounds after suffering a critical injury.
+________________
+
+
+Underhanded Tactics
+You will do whatever it takes to win, even if it means resorting to dirty tricks. On a successful attack, you may spend hits to add extra effects to your attack, such as dirt in the eyes or a groin shot. The number of hits required and the possible effects are as follows:
+Hits
+	Example
+	1
+	Dirt in Eyes, or Knock Down
+	2
+	Groin Shot, or Disrobe
+	3
+	Gouge Eye or Break Weapon
+	4
+	Force them to attack an opponent
+	6
+	Despicable Execution
+	Weapon Misuse
+You are willing to go to any lengths to win, even if it means damaging your own weapons. You gain +1 attack, and may break your weapon on a successful attack to gain an additional d6E for Injury Rolls. This can be combined with battle wear.
+________________
+Unlocking the Pit-Born
+The Pit-Born Lineage is added to your Line if you do one of the following tasks:
+* Become champion of a Pit by kicking the shit out of the current champion.
+* Die in defense of or conquer a Pit.
+Project, Pit
+You Line festers in the underbelly of society, expanding its hold. Gain the following stacking benefit for your Line:
+* Pot-Born Descendants can earn +1 Tier by spending double training time (I.e. a Tier 2 descendant would be 17 years & 6 months old).
+
+
+Any Descendant with the Pit-Born Lineage may add to the Pit. Use the following table for the cost of each Rating of the Pit & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	The Local Brawl
+	2
+	2,000
+	The Underground Circuit
+	3
+	4,000
+	The Fighting Pit
+	4
+	8,000
+	The Blood Pit
+	5
+	16,000
+	The Iron Fist
+	6
+	32,000
+	The Shadow Pit
+	7
+	64,000
+	The Crimson Arena
+	8
+	128,000
+	The Thunderdome
+	9
+	256,000
+	The Gladiatorial Coliseum
+	10
+	512,000
+	The Dreaded Black Pit
+	________________
+
+
+Pit Names
+d6
+	Name
+	1
+	Blank
+	2
+	Blank
+	3
+	Blank
+	4
+	Blank
+	5
+	Blank
+	6
+	Blank
+	Project, Uprising
+A Descendant can dedicate their life to a project for their lineage; a Pit-Born prepares their dirty hole in the ground for an uprising.
+
+
+This revolution comes in the form of bodies, dirty, angry bodies. A Pit-Born may spark this uprising in one of two ways. First, the people of the pit may destroy a Project of equal or lower Rating. Second, the people of the pit could gather in a Warband with 50 members per Rating. A Pit-Born may only use this Project once, after which the Uprising is spent.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Ordained
+Lineage Abilities
+Gain +10% to the following Abilities:
+Robustness, Intelligence, Willpower, Personality
+
+
+
+
+
+
+Lineage Talents:
+Anointment*
+You have been blessed by your deity with the power to channel their divine energy through anointed symbols. You gain a +1 Faith and the ability to create an anointed mark on a target as an action. This mark allows you to reroll a d10 during any Casting Checks that affect the marked target..
+Blessed Gift
+Your faith has granted you a god-touched limb, imbued with holy scripture and the power of your deity. This new limb replaces any of your limbs that are present or missing, retaining all normal functions. You gain a +1 to Casting Checks for each limb you possess. If you lose a limb in the future, you may replace it by spending one month in prayer and devotion.
+Mad Enlightenment*
+You have embraced the madness that lies within you, allowing you to tap into the power of your deity more fully. You gain a +1 Faith and the ability to add a bonus to any Casting Check equal to the number of Stress Conditions you currently have.
+________________
+I Beg you, Lord
+You are able to call upon the power of your deity to bring life to the slain. When you come across a descendant that has been killed, you may allow them to make a Luck Check. If they succeed, they are miraculously brought back to life, retaining all lasting injuries such as broken bones and lost limbs, but their Luck characteristic is set to zero. If they fail, they are forever lost to the gods.
+True Devotion
+Your unwavering faith and devotion to your deity has allowed you to tap into their divine power more fully. You gain a +1 Faith and become a devotee of your deity. You can memorize IB Miracles and may cast Miracles from your deity that are recorded in Holy Scriptures (one Enc, consumed by casting).
+- Sample Gods-
+	Bygorr, the God Hunter
+	Corvis, the God Thief
+	Dominus, the God King
+	Furnos, the God Wolf
+	Thonjun, the God Whale
+	Minera, the God Tonic
+	Nox, the God Tomb
+	Ynir, the God Harvest
+	Unlocking the Ordained
+The Ordained Lineage is added to your Line if you do one of the following tasks:
+* Become ordained by donating a lost holy relic.
+* Die in defense of or conquer a Temple.
+Project, Temple
+You Line begins construction of a . Gain the following stacking benefit for your Line:
+* Ordained Descendants can earn +1 Tier by spending double training time (I.e. a Tier 2 descendant would be 17 years & 6 months old).
+
+
+Any Descendant with the Ordained Lineage may add to the Temple. Use the following table for the cost of each Rating of the Temple & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	Village Shrine
+	2
+	2,000
+	Modest Convent
+	3
+	4,000
+	Adequate Chapel
+	4
+	8,000
+	Stately Temple
+	5
+	16,000
+	Imposing Temple
+	6
+	32,000
+	Venerable Basilica
+	7
+	64,000
+	Majestic Cathedral
+	8
+	128,000
+	Grandiose Cathedral
+	9
+	256,000
+	The Heart of All Faith
+	10
+	512,000
+	The Seat of the Divine
+	________________
+
+
+Temple Names
+d6
+	Name
+	1
+	The House of the Divine
+	2
+	The Holy Shrine
+	3
+	The Temple of the Gods
+	4
+	The Sacred Convent
+	5
+	The Basilica of the Divine
+	6
+	The Cathedral of the Faithful
+	Project, Sainthood
+A Descendant can dedicate their life to a project for their lineage, an Ordained prepares a holy relic to be used by their followers.
+
+
+You create a relic from one of your favorite items or body parts. A devotee of your God may invoke your name and use the relic to cast a miracle that you knew in life with Faith equal to the tier of your sainthood; this cannot cause a Divine Wrath unless all 1’s are rolled. After the relic is used, it must be blessed again in your temple to be used again.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Shadow
+Lineage Abilities
+Gain +10% to the following Abilities:
+Agility, Quickness, Personality, Luck
+
+
+
+
+Lineage Talents:
+Astonishment
+You possess a gift for deception and are able to perform feats of incredible agility and speed, such as hiding in plain sight or stealing someone's armor without being noticed. However, these feats come at a cost, as you suffer 2 Stress Conditions each time you use this ability.
+Connected
+Your network of contacts extends far and wide, and you have a loyal NPC at your beck and call who has a particular area of expertise. This NPC can make a Check for you with a 70% chance of success, plus an additional 3 Hits, a number of times per session equal to your Personality Bonus.
+The Knack
+You have a natural talent for making the most of your luck, and are able to spend it more efficiently when modifying rolls. You gain +1 Attack, and whenever you spend Luck to modify a roll, you get a 2:1 exchange instead of the usual 1:1. You can also use your Luck to modify other people's rolls in the same way.
+________________
+
+Mastermind
+You have a reputation as a mastermind, always one step ahead of your foes and able to anticipate and prepare for any situation. As an Action, you can make a Cunning Check modified by the likelihood of the solution, suffering Stress in the process. If you succeed, the change takes effect perfectly, but if you fail, it comes at a cost.
+* Likely: +20% & suffer 1 Stress
+* Unlikely: +0% & suffer 2 Stress
+* Absurd: -20% & suffer 3 Stress
+Prized Possession
+You have acquired a unique and highly prized possession - a new limb of extraordinary design. This limb replaces any of your existing limbs or any that are missing, and retains all of its normal functions. You can use this limb once per session to open a door or lock of moderate difficulty (similar to the difficulty of a merchant's door or a strongbox) without making a Check. If you lose this limb in the future, you can replace it by spending one month recovering.
+________________
+Unlocking the Shadow
+The Shadow Lineage is added to your Line if you do one of the following tasks:
+* Become initiated into a syndicate by performing an impressive & lucrative job.
+* Die in defense of or conquer a Syndicate.
+Project, Syndicate
+You Line begins building a network of thieves, smugglers, and other criminal organizations. Gain the following stacking benefit for your Line:
+* Academic Descendants can earn +1 Tier by spending double training time (I.e. a Tier 2 descendant would be 17 years & 6 months old).
+
+
+Any Descendant with the Shadow Lineage may add to the Syndicate. Use the following table for the cost of each Rating of the Syndicate & which takes one week per 500s.
+
+
+Rating

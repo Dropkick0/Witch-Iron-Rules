@@ -1,0 +1,482 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Combat & Injury
+Rounds & Initiative
+Bloodthirsty warriors are circling your flanks, the life-sapper and his demonic allies look on eagerly. At the start of Combat roll d6.
+* On a 1-3 the opponents go first.
+* On a 4-6 the party goes first.
+
+
+In any order, every combatant on a side may take one Action (Attacking, Sprinting (x2 Move), Casting, etc…) & Move (up to your Speed Ability).
+Melee Combat
+The sound of steel clashing, the blinding flurry of metal. When attacking while you’re Engaged, make a Melee Quarrel. Your opponent may defend against you with Melee or Light-Foot.
+* If your Net Hits are +0 or more, you Injure your opponent.
+* If your Net Hits are -1 or less, your opponent Injures you when using Melee or simply dodges the blow when using Light-Foot.
+Ranged Combat
+The iron arrowhead pierced the flesh, sending a shower of blood over the walls before it slumped to the ground. When attacking while you’re not Engaged, make a Ranged Quarrel. Your opponent may defend with Light-Foot.
+* If your Net Hits are +0 or more, you Injure your opponent.
+* If your Net Hits are -1 or less, they dodge.
+Hit Location
+A silky, spiked needle pierces your skin, the warped metal tip embedding in your arm. When you strike someone with an attack, the defender decides the hit location. The attacker may spend two Hits to move the attack one hit location away.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Injury
+The blade drives deep into their flesh, causing blood to gush from the open wound. Use the following steps when inflicting an injury:
+* Consult the appropriate hit location table.
+* Determine the Injury location using the Units die of your attack or roll d10
+* Determine severity of the Injury with your Net Damage: (Weapon Dmg + Net Hits) - (AV+RB).
+Critical Hit
+A satisfying Crack sounds as your hammer smashes their skull. If you roll a Critical Hit, use +6 Hits as the roll or gain +1 Hit for your Check. Also, increase the Injury you inflict by d6E.
+Fumbles
+The cold, spattering mud was everywhere, clinging to your legs like a skin. If you roll a Fumble, use -6 Hits as the roll for your Check, you also fall Prone.
+Battle Wear
+Your blade is starting to blunt and your armor is covered in battle scars. You may increase the Damage of a single attack by clipping your weapon’s damage by one for one Damage. You may also increase your Soak for a single attack by dentting your armor’s AV by one for +d6 AV.
+Advanced Combat
+Giving Ground
+You dive to the side, narrowly avoiding the crashing axe. When dodging an attack, you may give ground to your opponent, this grants you a +2 Hits bonus to Light-Foot Checks, but you move ten feet away from them in the direction of their choice. If you do this on two Checks in a row, you fall Prone instead.
+Example Actions:
+Charge
+When you charge in a straight line to an opponent & howl a battle cry, you +2 Hits to your Attack.
+Brace
+When you use an action to take a defensive stance, you gain a  +2 Hits to defensive Checks until your next round. However, you cannot inflict damage.
+Sprinting
+When you use an action to run faster, you may move up to x2 your Speed instead of x1 your Speed.
+Fall Damage
+The ground drops below your feet and you're falling. Your heart thuds in your chest as you try to comprehend what just happened, but it's too late. When you fall, every 10ft inflicts a cumulative d6 damage to the body part that strikes the ground first.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cover
+Laying low in a hidden position, you clutch your metal shield. When a hit location is behind cover, any attack that would strike this hit location hits the cover instead.
+Engagement & Overwhelm
+A foul smell emerges, as the undead swarm around you. You are outnumbered and surrounded by your enemies.
+* You are Engaged if you are within 5ft of an opponent.
+* Disengaging gives an opponent a free attack, or you may take action to disengage freely.
+* You Overwhelm opponents when your side has more combatants in an engagement.
+* 2:1 grants a +20% bonus.
+* 3:1 grants a +40% bonus.
+* 4:1 grants a +60% bonus.
+Mounted Combat
+Your steed thunder across the battlefield, it’s hooves trampling the corpses of the slain. When you are mounted, use the following rules:
+* Gain your mount’s Size bonus to Damage Roll & Cavalry Weapon Qualities on a Charge.
+* Use your mount’s Speed instead of your own.
+* You may defend against attacks to your mount with a -20% penalty.
+________________
+Conditions
+Each Condition takes up one Enc & is removed with a type of action. Conditions from a Lingering source cannot be removed until the source is dealt with.
+Aflame / Bleed / Poison (Rating)
+Smoldering Flesh, Deep Gashes & Vile Toxins. After receiving this Condition, roll a d6 at the end of each round. On a result of less than or equal to (Rating) make a Hardship Quarrel vs (Rating) Hits to remove all Aflame, Bleed, Poison or die. All Aflame, Bleed, Poison Conditions are combined for this Quarrel.
+Removed by:
+* Washing or rolling it out (Aflame).
+* First aid or bandages (Bleed).
+* Antidote or bloodletting (Poison).
+Blind / Deaf / Pain (Rating)
+Retina Overload, Ringing in Ears & Agony. This Condition inflicts a (Rating) x 10% Check penalty. Passively reduce by one each hour.
+Impairs:
+* Sight-based Checks (Blind).
+* Hearing-based Checks (Deaf).
+* All Checks (Pain).
+Removed by:
+* Cleaning out the eyes (Blind).
+* Removing blockage (Deaf).
+* A form of painkiller (Pain).
+Corruption / Stress (Rating)
+Tratious Flesh & Profane Thoughts. Whenever you gain three stacks of this Condition, make a Hardship or Steel Quarrel vs (Rating) Hits or become changed.
+Changes:
+* Mutation (Corruption).
+* Madness (Stress).
+Remove by:
+* Painful purification (Corruption).
+* Indulging in Vices (Stress).
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+Fatigue
+Muscle Exhaustion & Burning Lungs. This Condition only takes up Enc slots.
+Remove by:
+* A good night’s rest.
+Entangle / Helpless / Stun (Rating)
+Grapples, Nets, Knock Outs & Discombulation. This Condition prevents Actions and/or Movement. Passively reduce by one each round.
+Prevents:
+* Movement (Entangle).
+* Actions, Movement & all melee attacks can deal any Critical of the opponent's choice (Helpless).
+* Actions (Stun).
+Remove by:
+* Slipping or breaking out (Entangle).
+* Receiving Damage (Helpless).
+* Smelling salts (Stun).
+Prone
+Pinned in Armor & Slipping in Mud. This Condition inflicts a -20% Check penalty to you and a +20% Check bonus to your opponents.
+Remove by:
+* Spending an action to stand up.
+Trauma (Rating) (Location)
+Broken Bones & Torn Muscles. This Condition inflicts a (Rating) x 20% penalty on your Checks involving (Location).
+Remove by:
+* Resting one month per Rating.
+
+
+Injuries: Head
+* Determine the Injury location using the Units die of your attack or roll d10.
+* Determine severity of the Injury with your Net Damage: (Weapon Dmg + Net Hits) - (AV+RB).
+- Injuries: Head-
+	†
+	Location: 1, Nose
+	†
+	Location: 2, Jaw
+	†
+	Location: 3L-4R, Ear
+	1+
+	Swollen, Pain 1
+	1+
+	Swollen Cheek, Pain 1
+	1+
+	Tenderized, Deaf 2
+	2+
+	Nose Slash, Bleed 1
+	2+
+	Missing Teeth, Pain 2|d10 Lost
+	2+
+	Ear Infection, Pain 1
+	3+
+	Lose Smell, Trauma 2
+	3+
+	Gushing Mouth, Bleed 1
+	3+
+	Cauliflower Ear, Deaf 3
+	4+
+	Nostril Ripped, Pain 2
+	4+
+	Hard Hit, Fall Prone
+	4+
+	Discombobulated, Stun 1
+	5+
+	Bridge Gash, Bleed 2
+	5+
+	Dislocated, Pain 2*
+	5+
+	Tinnitus, Deaf 2‡
+	6+
+	Bent & Broken, Pain 2‡
+	6+
+	Tongue Cut, Speechless*
+	6+
+	Half-Severed, Bleed 2
+	7+
+	Split Down Middle, Bleed 3
+	7+
+	Broken, Trauma 3‡
+	7+
+	Ear Drum Burst, Stun 2
+	8+
+	Mangled, Lost Nose|Pain 2‡
+	8+
+	Out Cold, Helpless 3
+	8+
+	Ripped Off, Lost Ear|Bleed 2
+	9+
+	Removed, Lost Nose|Bleed 3
+	9+
+	Detached, Lost Jaw‡|Bleed 3
+	9+
+	Hearing Loss, Deaf 6‡
+	10+
+	Driven into Brain, Dead
+	10+
+	Straight to Brain Stem, Dead
+	10+
+	…And Out the Other, Dead
+	†
+	Location: 5L-6R, Eye
+	†
+	Location: 7-8, Neck
+	†
+	Location: 9-10, Skull
+	1+
+	Black Eye, Blind 1
+	1+
+	Bruised, Pain 1
+	1+
+	Vision Blurred, Blind 1
+	2+
+	Sliced Brow, Bleed 1
+	2+
+	Nicked, Bleed 2
+	2+
+	Shocked, Stun 1
+	3+
+	Double-Vision, Blind 2
+	3+
+	Whiplash, Pain 2
+	3+
+	Brain Bruised, Pain 2
+	4+
+	Cut Orbit, Bleed 2
+	4+
+	Gashed, Bleed 3
+	4+
+	Amnesia, Stun 2|Forget d6 min
+	5+
+	Swollen Shut, Blind 3
+	5+
+	Gasping, Stun 1
+	5+
+	Black Out, Helpless 1
+	6+
+	Lid Removed, Pain 2*
+	6+
+	Open Wound, Bleed 4
+	6+
+	Concussion, Stun 3
+	7+
+	Severe Injury, Blind 3*
+	7+
+	Larynx Shut, Speechless‡
+	7+
+	Out Cold, Helpless 2
+	8+
+	Popped Out, Lost Eye‡
+	8+
+	Trachea Injury, Suffocate*
+	8+
+	Brain Damage, Pain 5‡
+	9+
+	Destroyed, Lost Eye|Bleed 4
+	9+
+	Broken, Helpless 5‡
+	9+
+	Skull Fracture, Helpless 5‡
+	10+
+	Run Through, Brain Dead
+	10+
+	Head Torn Off, Dead
+	10+
+	Brain Destroyed, Dead
+	*Requires Healing to Remove ‡ Requires Surgery to Remove
+
+
+________________
+
+
+Injuries: Torso
+* Determine the Injury location using the Units die of your attack or roll d10.
+* Determine severity of the Injury with your Net Damage: (Weapon Dmg + Net Hits) - (AV+RB).
+- Injuries: Torso-
+	†
+	Location: 1L-2R, Shoulder
+	†
+	Location: 3-4, Pelvis
+	†
+	Location: 5-6, Rib Cage
+	1+
+	Tenderized, Pain 1
+	1+
+	Bruised, Pain 1
+	1+
+	Throbbing Hit, Pain 1
+	2+
+	Beaten, Disarm
+	2+
+	Checked, Fall Prone
+	2+
+	Organ Press, Fall Prone
+	3+
+	Chipped, Pain 2
+	3+
+	Chipped, Trauma 1
+	3+
+	Fractured Rib, Trauma 1
+	4+
+	Torn Rotator Cuff, Trauma 1
+	4+
+	Nerve Struck, Stun 1
+	4+
+	Nerve Struck, Stun 1
+	5+
+	Nerve Damage, Disarm|Pain 3
+	5+
+	Hairline Fracture, Trauma 2
+	5+
+	Few Broken Ribs, Trauma 2
+	6+
+	Fractured, Trauma 2
+	6+
+	Smashed Groin, Stun 2
+	6+
+	Vessel Rip, Bleed 2
+	7+
+	Dislocated, Lost Arm*
+	7+
+	Major Break, Trauma 3
+	7+
+	Many Broken Ribs, Trauma 3
+	8+
+	Shattered, Lost Arm‡
+	8+
+	Torn Artery, Bleed 3
+	8+
+	Bone Shrapnel, Bleed 4
+	9+
+	Torn Off, Lost Arm|Bleed 5
+	9+
+	Shattered, Lost Legs‡ Pain 5
+	9+
+	Severed Spine, Helpless 5‡
+	10+
+	Deflect into Neck, Dead
+	10+
+	Cut Abdominal Aorta, Dead
+	10+
+	Chopped in Half, Dead
+	†
+	Location: 7-8, Guts
+	†
+	Location: 9, Liver/Kidney
+	†
+	Location: 10, Heart/Lung
+	1+
+	Bruised, Pain 1
+	1+
+	Bruised, Pain 1
+	1+
+	Knocked out Wind, Stun 1
+	2+
+	Checked, Fall Prone
+	2+
+	Shocked, Fall Prone
+	2+
+	Heart Bounce, Fall Prone
+	3+
+	Internal Bleed, Bleed 1
+	3+
+	Nick, Bleed 1
+	3+
+	Interrupt Breathing, Stun 2
+	4+
+	Vomiting, Stun 1
+	4+
+	Spasmed, Stun 1
+	4+
+	Bruised Heart, Trauma 1
+	5+
+	Punctured Gut, Bleed 2
+	5+
+	Profuse Bleeding, Bleed 2
+	5+
+	Paralyzed Diaphragm, Stun 3
+	6+
+	Lining Damage, Pain 3
+	6+
+	Organ Leak, Poison 2
+	6+
+	Heart Damage, Trauma 2
+	7+
+	Ripped Abs, Pain 2‡|Bleed 2
+	7+
+	Rupture, Bleed 3
+	7+
+	Bleeding Lung, Bleed 5
+	8+
+	Exposed Intestine, Bleed 4
+	8+
+	Toxic Shock, Poison 4
+	8+
+	Nicked Heart, Bleed 7
+	9+
+	Fecal Seep, Poison 5
+	9+
+	Extraction, Bleed 5
+	9+
+	Punctured Lung, Suffocate‡
+	10+
+	Disemboweled, Dead
+	10+
+	Lacerated Vena Cava, Dead
+	10+
+	Heart Ripped Out, Dead
+	*Requires Healing to Remove ‡ Requires Surgery to Remove
+________________
+
+
+Injuries: Arms & Legs
+* Determine the Injury location using the Units die of your attack or roll d10.

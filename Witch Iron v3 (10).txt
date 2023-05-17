@@ -1,0 +1,453 @@
+﻿- Spells of The Green Wind-
+Commonly used spells for Green Wind practitioners.
+Bramble Whip
+CH: 10
+The Green Wind lashes out. A target in short range suffers  2d6 as a Damage Roll to deal 2 Wounds & d6 Entangle.
+Divert River
+CH: 45
+The Green Wind briefly moves a river. If you are standing in a river, target an 80ft area(r) within artillery range (½ mile) & make a Quarrel with 3d6 as your Hits to wreck & wash away structures, objects, and people.
+Green Blood
+CH: 20
+The Green Wind bubbles a life-giving pool from the earth. Create a pool within short range for d6 rounds; anyone who drinks from the pool gains 3 Wounds.
+Nature’s Guardian
+CH: 25
+The Green Wind concentrates local natural growth into a powerful construct. Summon a 5 HD, Large Sized Umfell Man for d6 x 10 min. Ability: 55% +2 Hits|Dmg: 2d6+10|Soak: 10
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	The wind whispers through the leaves of trees.
+	+5
+	You can cleanse small amounts of spoiled or poisoned food.
+	+10
+	You can become invisible to animals by merging with nature.
+	+15
+	You can control plants and vines to entangle enemies.
+	+20
+	You can heal small wounds with the power of nature.
+	+25
+	You can summon a small creature or plant to your side.
+	+30
+	You can restore balance to a small area of nature, healing all plants and animals within it.
+	+35
+	You can summon a large creature or plant to your side, such as a giant tree or elephant.
+	+40
+	You can control and manipulate entire ecosystems, shaping and reshaping them as desired.
+	+45
+	You can summon a massive creature or plant, such as a giant dragon or kraken.
+	+50
+	You can restore balance to entire regions, healing all plants and animals and creating a utopia of nature.
+	________________
+
+
+The Gray Wind
+Domains: Shadow & Thought
+- Spells of The Gray Wind-
+Commonly used spells for Gray Wind practitioners.
+Dagger of Thought
+CH: 20
+The Gray Wind weaponizes the mind. A target in short range gains a shadowy blade for d6 rounds, which deals 2d6 as a Damage Roll to deal 2 Wounds & ignores AV.
+False Face
+CH: 20
+The Gray Wind transforms your appearance. You are identical to someone else for d6 x 10 min. Make a Quarrel with 3d6 as your Hits against someone identifying you.
+Shadow Puppet
+CH: 20
+The Gray Wind controls thought & action. Force a target within short range to take an action of your choice for d6 rounds, and make a Quarrel with 3d6 Hits against them.
+The Gray Behemoth
+CH: 35
+The Gray Wind falsifies a huge illusion. Create  a mobile house-sized illusion within short range of d6 x 10 min; it is compelling but harmlessly passes through anything physically.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	The wind whispers through the shadows.
+	+5
+	You can create small illusions, such as a false wall or door.
+	+10
+	You can create a small shadow weapon, such as a dagger.
+	+15
+	You can move unseen through shadows.
+	+20
+	You can control and manipulate the thoughts of a nearby creature.
+	+25
+	You can create a larger illusion, such as a false building or landscape.
+	+30
+	You can create a powerful shadow construct, such as a golem or elemental.
+	+35
+	You can control and manipulate the thoughts of multiple creatures.
+	+40
+	You can bend reality with your illusions, creating impossible landscapes and structures.
+	+45
+	You can control and manipulate entire crowds with your illusions.
+	+50
+	You can create a massive illusion that covers entire regions, creating a false world that is indistinguishable from reality.
+	________________
+The Purple Wind
+Domains: Death & Time
+- Spells of The Purple Wind-
+Commonly used spells for Purple Wind practitioners.
+Dust to Dust
+CH: 20
+The Purple Wind moves the wheel of time. Make a Quarrel with 3d6 as your Hits against a living or non-living target within short range, or it is aged by d6 years, fully healing & suffers the Helpless Condition.
+Grim Watcher
+CH: 15
+The Purple Wind infuses a skull. Connect yourself to a skull you’re holding for d6 x 10 min. You may see, speak and cast spells through the skull during this time, wherever it is. You suffer 1 Stress if it is destroyed during this time.
+Purple Torrent
+CH: 25
+The Purple Wind slices through the area. Target a 20ft area(r) within short range; for d6 rounds, it inflicts 3d6 as a Damage Roll to deal 3 Wounds to all within each round.
+Welcomed with Open Arms
+CH: 10
+The Purple Wind opens death’s door. You & everyone in a 20ft area(r) around you suffer 2d6 Poison Conditions.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	The wind carries the faint scent of decay.
+	+5
+	You can instill a sense of fear in a single target.
+	+10
+	You can exude an aura of fear that affects those around you.
+	+15
+	You can cause a group of targets to flee in terror.
+	+20
+	You can age a small object or creature to dust.
+	+25
+	You can cause a massive group of targets to flee in terror.
+	+30
+	You can age an entire structure or object to dust.
+	+35
+	You can cause a target to experience a rapid aging process, causing them to rapidly weaken and die.
+	+40
+	You can manipulate time, causing a target to experience a time loop or reversing a moment in time.
+	+45
+	You can open a rift in time and space, allowing you to travel through time and space at will.
+	+50
+	You can manipulate death itself, causing a target to die instantly or bringing the dead back to life.
+	________________
+
+
+The Red Wind
+Domain: Fire & Passion
+- Spells of The Red Wind-
+Commonly used spells for Red Wind practitioners.
+Burning Fury
+CH: 20
+The Red Wind instills a red rage. Target a 10ft area(r) within short range. All targets Charge & fight any enemy they’re aware of; if there are none, they attack their allies. They gain +1 Attack & which lasts for d6 rounds.
+Hellfire
+CH: 40
+The Red Wind burns hot enough to melt bone. Target a 20ft area(r) within medium range and inflict 4d6 as a Damage Roll to deal 4 Wounds & 2d6 Aflame Conditions.
+The Red Brand
+CH: 15
+The Red Wind manifests as a fiery blade. A target in short range gains a flaming longsword for d6 rounds, which inflicts 2d6 as a Damage Roll to deal 2 Wound & d6 Aflame Conditions.
+Unburning
+CH: 20
+The Red Wind protects against flame. You and all allies within 20ft cannot suffer Aflame Conditions for d6 min.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	The wind crackles with energy.
+	+5
+	You can summon a small flame, such as a campfire or torch.
+	+10
+	You can ignite small objects or create a small burst of fire.
+	+15
+	You can control the intensity and spread of a fire.
+	+20
+	You can summon a large ball of fire, such as a fireball or a flame strike.
+	+25
+	You can ignite the passions of others, inspiring them to act with more fervor and intensity.
+	+30
+	You can ignite entire structures or landscapes, causing massive fires and destruction.
+	+35
+	You can control the fires of the underworld, summoning demons and other creatures of flame.
+	+40
+	You can manipulate the power of fire, shaping it into any form or shape you desire.
+	+45
+	You can create new forms of fire, such as a flame that cannot be extinguished or a fire that freezes instead of burns.
+	+50
+	You can control the very essence of fire, shaping the world and all living things as you see fit.
+	________________
+
+
+The White Wind
+Domain: Light & Purification
+- Spells of The White Wind-
+Commonly used spells for White Wind practitioners.
+Begone!
+CH: 15
+The White Wind turns back a demon or spirit. Target a demon or undead within short range and make a Quarrel with 4d6 as your Hits against them or banish them.
+Cleanse the Mind
+CH: 20
+The White Wind rids impure thoughts. Target someone within short range and make a Quarrel with 3d6 as your Hits against them to rid them of any mental state of your choice for d6 x 10 minutes.
+White Light
+CH: 10
+The White Wind creates light. Target an object or someone within short range and creates a bonfire light for d6 x 10 min, which can inflict d6 Blind Conditions.
+Irradiant Column
+CH: 30
+The White Wind casts a pillar of brutal light. Target a 10ft area(r) within medium range outdoors and inflict 4d6 as a Damage Roll to deal 4 Wounds & d6 Blind Conditions.
+________________
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	The wind carries a warm and comforting light.
+	+5
+	You can create a small sphere of light that cannot be doused.
+	+10
+	You can create a flask of holy water that can harm undead and demons.
+	+15
+	You can create a shield of holy energy that protects against magical attacks.
+	+20
+	You can banish a small demon or undead creature.
+	+25
+	You can create a powerful beam of holy light that can harm undead and demons.
+	+30
+	You can banish a large demon or undead creature.
+	+35
+	You can create a powerful aura of holy light that purifies and heals those around you.
+	+40
+	You can banish an entire horde of demons or undead.
+	+45
+	You can create a powerful wave of holy energy that purifies and heals entire regions.
+	+50
+	You can banish entire armies of demons or undead, purifying entire areas of their presence.
+	________________
+
+
+The Defiled Winds
+How to Learn: A Gift with the Dark Gods.
+Special Rule: Spells are researched with -10 CH & the caster always suffers a Corruption Condition.
+Domains: Every Wind Twisted & Corrupted
+- Spells of The Defiled Winds-
+Commonly used spells for Defiled Winds practitioners.
+Corrupt Strength
+CH: 10
+The Defiled Winds strengthen you with a great command over the Wicked Winds. For the next d6 x 10 min, gain +2 Magick. The caster suffers a Corruption Condition.
+Demonic Command
+CH: 15
+The Defiled Winds rule over demons. Issue a command to a Demon within short range that they will follow suicidally. They must make a Quarrel against 6 Hits against them. The caster suffers a Corruption Condition.
+The Dread Verse
+CH: 25
+The Defiled Winds resonates a foul note. All within long range, excluding the caster, are racked with horrendous pain & torment. They suffer WB+6 Damage & 2d6 Pain Conditions. The caster suffers a Corruption Condition.
+________________
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	The wind howls with a twisted and corrupted energy.
+	+5
+	You can summon a small, twisted and corrupted version of a spell from any other wind.
+	+10
+	You can create a small area of twisted and corrupted nature, such as plants or animals.
+	+15
+	You can twist and corrupt a small object, such as turning a sword into a demonic version of itself.
+	+20
+	You can summon a twisted and corrupted version of a wild animal, such as a wolf or bear.
+	+25
+	You can create a twisted and corrupted version of a storm, such as a tornado or hurricane.
+	+30
+	You can twist and corrupt a person's mind, causing them to act according to your will.
+	+35
+	You can summon a twisted and corrupted version of a mythical creature, such as a dragon or griffin.
+	+40
+	You can control and manipulate entire ecosystems, to your will.
+	+45
+	You can create twisted and corrupted versions of entire regions, turning them into horrific versions of themselves.
+	+50
+	You can summon a twisted and corrupted version of a god, giving you godlike power and control over the damned world.
+	________________
+
+
+The Refined Winds
+How to Learn: Learn eight spells from 8 Winds.
+Special Rule: Spells are researched with -10 CH.
+Domains: Every Wind Concentrated & Perfected
+- Spells of The Refined Winds-
+Commonly used spells for refined Winds practitioners.
+Step Through the Veil
+CH: 40
+The Refined Winds send you through the veil. You travel across the void to any location you’ve been to before. The journey takes d6 rounds, during which you must defend yourself against the horrors of the void.
+Roll d6 for your encounter in the void.
+* 1-5, a 5 Hit Dice Lesser Demon
+* 6-9, d6 5 Hit Dice Lesser Demons
+* 10, a Gigantic Sized 15 Hit Dice Greater Demon
+Sunder Magick
+CH: 25
+The Refined Winds can shatter any Wicked Wind. Immediately end all spells affecting a target or destroy any handheld magic item within short range by using the galeforce power of the Refined Winds.
+Theurgic Grounding
+CH: 10
+The Refined Winds ground you from the harmful backlash of the Wicked Winds. For the next d6 x 10 min, prevent the next 3 Miscast steps.
+________________
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0

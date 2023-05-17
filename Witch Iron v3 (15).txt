@@ -1,0 +1,387 @@
+﻿
+F
+Y
+________________
+J
+M
+________________
+Arcanist
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+
+
+F
+Y
+________________
+J
+M
+________________
+Beast
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+True Skin
+Your true form lurks just beneath your skin. You may take your true form as an action, it last d6 x 10 min, and you must consume one full-grown human worth of meat during this time to state your hunger. Every two Tiers, gain one of the following benefits:
+* Become Large-Sized, but your transformation is uncontrollable.
+* Have two Actions & Moves each round, but you gain a weakness to silver
+* Rapidly regenerate all injuries inflicted by mundane weapons, but gain a weakness to fire
+* Gain a climb speed of +60 ft per round, but you always transform in the light of a full moon.
+Wolf's Instincts
+You have a heightened sense of smell and can track your prey with ease. If you have smelled a creature before, you gain knowledge of the location of any single creature within a mile of your current location .
+________________
+
+
+Lunar Energy
+You have mastered the ability to tap into the power of the moon, granting you enhanced strength, speed, and senses. As an action, you may make a Willpower Check modified by your Tier. On a success, you gain Damage and Soak bonuses equal to your Hits on the Check, up to your Tier, for a d10 round.
+
+
+________________
+
+
+Berserker
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lineage Talents:
+Unbridled Rage
+You are able to tap into a primal rage, increasing your strength, speed, and endurance, but also causing you to act recklessly. You gain +2 Hits to all attacks and double charge range for d6 rounds, but this does not apply to defending, also you must make a +0 Willpower Check to resist attacking indiscriminately.
+Brutal Strength
+Your body is larger and more muscular than most. Gain +1 Attack, you ignore the Two-Handed weapon quality as well as up to three Ratings of the Tiring weapon quality, reducing this effect by one per Armor Point on your most armored location.
+Savage Attacks
+You are able to unleash a barrage of attacks, striking multiple enemies at once. When making a successful attack, you may choose to target all enemies within reach, making a single attack roll, subtracting 1 damage for each target beyond the first.
+________________
+Death or Dishonor
+You have an unquenchable thirst for battle, making you immune to all effects that would cause you to back down from a fight. You may ignore anything that would cause you to retreat, surrender, or otherwise end the fight, even your own survival instinct.
+Rage Limb
+Your dedication to murder and violence has bestowed you with a gift from The Bloody Axe. This limb replaces any of your limbs present or missing while retaining all normal functions. You can tear the muscles in this limb to bend swords, shatter teeth or rip shields in half. This can only be done once per limb, each session. Lost limbs can be replaced by spending one month.
+________________
+Blood
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Blood Feast
+You are gifted with the night’s maw. Gain +1 Attack, & you may make a Melee attack inflicting d6E+MB Damage, additionally you may heal or ignore one future Bleed per Bleed inflicted by this attack.
+Midnight Ascension
+You are no longer a mere mortal, and your body demands a sacrifice. You gain a +20% to all Primary Abilities and no longer need food or water, but you must consume one full-grown human worth of blood each week. You cannot die of old age as long as you state this hunger, but you also suffer three random Monster Flaws.
+- Random Monster Flaw-
+	1- Fire, Aflame 2
+	4- Silver, Poison 2
+	2- Religious Symbols
+	5- Sunlight, Aflame 2
+	3- Running Water
+	6- Threshold
+	Eyes of the Night
+You have developed enhanced senses or abilities to detect hidden objects or people due to your vampiric nature. You have darkvision, allowing you to see in complete darkness up to a range of 30 feet. You are also able to detect hidden objects or people, gaining a +5% bonus to all Perception checks related to detecting hidden objects or people. You may use this ability once per encounter.
+________________
+Monstrous Visage
+Your true form lurks just beneath your skin. You may take your true form as an action, it last d6 x 10 min and you must consume one full-grown human worth of blood during this time to state your hunger. Every two Tiers, gain one of the following benefits:
+* Become Large-Sized (non-stacking).
+* Have two Actions & Moves each round (non-stacking).
+* Gain +2 Magick/Faith & ignore one Miscast/Wrath step each Casting Check.
+* Gain a flight speed of +60 ft per round.
+Predatory Limb
+You have regrown lost arms and legs with a gift from the night.  This limb replaces any of your limbs present or missing while retaining all normal functions. You gain the ability to deliver ruthless strikes, attacks with these weapons deal 2d6E+MB. You may attack one target per limb with these weapons. Future lost limbs may be replaced by spending one month.
+________________
+Crusader
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Aura of Devotion
+Your very presence exudes an intense aura that affects those around you. Choose one of the following options when you learn this talent:
+* Aura of Courage, Allies within 10 feet gain +1 to checks and max Hits. Enemies within 10 feet suffer -1 to checks and max Hits.
+* Aura of Protection, you radiate an aura of protection. Allies within 10 feet gain +1 to Soak and +1 to checks to resist harmful effects.
+* Aura of Serenity, you radiate an aura of serenity and peace that calms the emotions and thoughts of those around them. Allies within 10 feet gain +1 to checks to resist stress or fear, -1 to checks to cause stress or fear to others.
+Divine Magic
+You are able to tap into the power of your deity and use it to cast a wide range of magical spells and abilities. Choose three divine spells from the list below:
+* Healing Hands: You are able to channel divine energy to heal injuries and ailments. You may spend an action to Touch target to restore Faith score in Hits.
+* Protective Barrier: You are able to create a protective barrier around a target that absorbs incoming damage. You may spend an action to Touch target to grant Faith score in Soak for Faith score in rounds.
+Holy Weapon
+You are able to imbue your weapon with holy energy, making it more effective against enemies of your deity. Your Weapon gains Holy quality, deals Faith score in extra Hits against enemies of deity.
+________________
+Divine Judgement
+You are able to call upon your deity to judge and punish enemies who have committed heinous acts or turned against your deity. As an action, you may make a You are able to channel divine energy to smite enemies with holy energy. You may spend an action to make a Ranged attack against an enemy within 50 feet, deals Faith score in extra Hits on hit.
+Crusader’s Limb
+You have a limb that has been imbued with holy or divine energy, granting you additional strength, speed, or other abilities. Choose one of the following options when you learn this talent:
+
+
+Enhanced Strength: Your limb is imbued with divine strength, allowing you to perform feats of superhuman strength. You gain a +1 bonus to all checks to perform physical tasks or make attacks and a +1 bonus to your maximum Hits.
+Enhanced Speed: Your limb is imbued with divine speed, allowing you to move at superhuman speeds. You gain a +1 bonus to all checks to move or make ranged attacks and a +1 bonus to your maximum Hits.
+Curseling
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Corrupt Flesh
+You are one with the Dark Gods’ gifts to your mortal coil. When you gain a Mutation reduce your Willpower by -5% instead of -10%. Also, gain a mutation with twice the normal benefit, so Extra Arm could be 2 extra arms, or Snake Musk could give you +2 Hits to snake charming or intimidating.
+Twisted Clarity
+You thank the Dark Gods for their gifts to your touched mind. When you gain a Madness, reduce your Willpower by -5% instead of -10%. Also, gain a madness with twice the normal benefit, so Fire Obsession could give you a +2 to burn things, or Light Fear could give you +10 ft Speed when running away from light.
+Adaptability
+You have the ability to adapt to new environments and situations with ease due to your mutated biology. Your body can withstand extreme temperatures and harsh conditions, allowing you to survive in any environment. You can breathe and survive underwater or at high altitudes as if they were normal for you. You are a skilled survivor, able to thrive in any environment.
+________________
+Resistance to Harm
+Your mutated biology gives you a high level of resistance to harm, making you difficult to kill or injure. Your skin is thick and durable, providing you with a natural armor rating that helps protect you from incoming damage. You are a formidable opponent, able to withstand even the most deadly attacks.
+Corrupting Limb
+Your corrupted limb is a weapon of malevolent energy, twisting your body and mind. You emit a corrupting aura that affects those around you, making them more susceptible to your influence. When you use this limb to attack an opponent, you may choose to add +2 Hits to your attack but must also suffer a -5% penalty to all checks for the rest of the encounter. If you defeat your opponent, you may also choose to corrupt their mind, forcing them to attack one of their allies (determined by the GM). This ability may be used once per encounter. Your corrupting limb is a deadly weapon, able to not only defeat your enemies, but also corrupt their minds and turn them against their own allies.
+________________
+Demon
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lineage Talents:
+Defiler's Blessing*
+You are one with The Serpent of Vice, you may:
+* Demonic Grace:  While wearing no Armor you may use your Move to leap 30ft. Also, you may dodge attacks using d6 Hits but suffer 1 Stress.
+* Temptation: You may Quarrel against someone by tempting them over one week to turn them into a suicidally fanatic follower of yours. You may only attempt this once per person.
+Leper’s Blessing*
+You are one with The Smiling Sickness, you may:
+* Spread Rot: You may use an attack to inflict 2 Poison & Pain to all Engaged with you.
+* Resilience: Gain +2 Soak & whenever you suffer Poison or Pain, receive two less.
+Murderer’s Blessing*
+You are one with The Bloody Axe, you may:
+* Breath Fire: You may telegraph for one round then target a 10ft area(r) within Medium range, and inflict 2d6+MB as a Damage Roll to deal 2 Wounds & 2 Aflame.
+* Savage Killer: You may gain d6 to Damage Rolls & target all Engaged opponents with each attack while in melee but suffer 1 Stress.
+________________
+Traitor’s Blessing*
+You are one with The Cackling God, you may:
+* Bend Fate: You may change the result of any Check up or down this chain: Fumble- Failure- Success- Critical Hit. You suffer one Corruption or each step moved on this chain. You may do this three times, each session.
+* Impossible Knowledge: You may ask the GM any question which they must answer with a truth and a lie, then suffer d6 Corruption. You may do this three times, each session.
+Sacrificial Limb*
+Your limb’s branded for sacrifice, forging a dark pact that retains all
+
+
+This new limb replaces any of your limbs present or missing while retaining all normal functions. You gain a Demon contact, they can make a Check for you with 70% +3 Hits, twice per rank, each session. Future lost limbs may be replaced by spending one month.
+* Lose d6 years from your Lifespan.
+________________
+Dreadnaught
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lineage Talents:
+Deflecting Plates
+You are outfitted with additional hardened plates in the form of shoulder pauldrons, thigh plates, or a chest slab. When you suffer an attack you may take it to a deflecting plate to completely ignore the attack, while breaking the plate. You may fix one plate with 10 min of repairs.
+Iron Skin
+You thick slabs of steel permanently into your flesh. This armor has the the following benefits:
+* Gain 6 AV to all locations, but you can no longer wear any other armor.
+* It is fully repaired with a night’s rest.
+Sealed in Steel
+If you are fully enclosed in metal armor you ignore all Basic Need.
+________________
+
+
+Artillery:
+You gain two of the following weapons:
+* Tree Chopper: a two-handed axe or sword that deals 3d6+MB+4 & can chop down trees up to 3 feet in width
+* Rock Breaker: a two-handed hammer or maul that deals 2d6+MB+6 & can smash boulders the size of a small child
+* The Cannon: a two-handed musket that deals 3d6+QB+8 & has reload 6
+* Gatling Gun: a two-handed musket that deals 3d6+QB+4 & has reload 6 & multi-barrel 3
+Heathen’s Limb
+Selecting from the finest cadavers you could get a hold of, you’ve improved on the gods’ creation in every way.
+
+
+This new limb replaces any of your limbs present or missing while retaining all normal functions. You may when you take a critical wound you may lose this limb instead, each session. Future lost limbs may be replaced by spending one month.
+________________
+Unlocking the Dreadnaught
+The Dreadnaught Lineage is added to your Line if you do one of the following tasks:
+* Join a Club by passing a trial of strength & toughness.
+* Die in defense of or conquer a Club.
+Project, Armory
+You Line begins construction of a . Gain one of the following benefits each Rating, which may stack:
+* Your Descendants start with +5% to Robustness
+* You Descendants start with +1 Hardship, Labor or Imbibe Skill Specialization
+* Your Descendants start with 500 silver.
+
+
+Any Descendant with the Dreadnaught Lineage may add to the Club. Use the following table for the cost of each Rating of the Club & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	
+
+	2
+	2,000
+	Mediocre
+	3
+	4,000
+	Modest
+	4
+	8,000
+	Adequate
+	5
+	16,000
+	Stately
+	6
+	32,000
+	Imposing
+	7
+	64,000
+	Venerable
+	8
+	128,000
+	Majestic
+	9
+	256,000
+	Grandiose
+	10
+	512,000
+	
+
+	________________
+
+
+Armory Names
+d6
+	Name
+	1
+	
+
+	2
+	
+
+	3
+	
+
+	4
+	
+
+	5
+	
+
+	6
+	
+
+	Project, Monument
+A Descendant can dedicate their life to a project for their lineage, a Workhorse.
+
+
+
+
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies, use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Druid
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Old Magic
+You have the ability to harness the power of nature and use it to cast a variety of magical spells and abilities. The ability to naturally understand and use nature magic. Your abilities may include the control of elements, communication with and control of animals, or the ability to shapeshift into different forms.
+Plant Control
+You have the ability to control and manipulate plants to your will. As an action, you may spend a number of Hits equal to the desired effect to control plants within a radius of your level x 10 feet. You may use this ability to perform the following effects:
+Hits
+	Example
+	1
+	Plants to grow or wither, or bend in shapes.
+	2
+	Plants to entangle or constrict a target, dealing 1d6+1W damage each round until they escape.
+	3
+	Plants to form a protective barrier, granting a +1 Soak bonus to all allies within the radius.
+	4
+	Plants to attack a target, dealing 1d6+2 dmg.
+	Animal Communication

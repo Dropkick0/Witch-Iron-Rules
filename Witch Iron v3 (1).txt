@@ -1,0 +1,452 @@
+﻿________________
+Contents
+________________
+
+
+
+
+Credits
+
+
+Design, Layout & Writing: Ethan Rowe
+Illustration & Cover Generation: Ethan Rowe, made possible by Midjourney AI.
+Editing: Nick G.
+Play Testing: Dayton R; Josh W; Nick G; Zach G.
+
+
+Inspirations: The NSR & OSR Communities, Zweihander, Dungeon Crawl Classics, The Burning Wheel, Ars Magica, Pendragon, Maze Rats, Cairn & other legendary works from an Older World…
+
+
+Creative Commons Attribution 4.0 International License:
+You are free to share and adapt this material for any purpose,
+including commercially, as long as you give attribution.
+
+
+
+Dedicated to Nikki, for putting up with my obsession.
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+
+
+________________
+
+Conflict Resolution
+There are three main methods of resolving conflicts.
+* Whatever’s Reasonable: If a conflict does not have a meaningful consequence or the solution would reasonably work, then don’t roll; it just works.
+* Ability or Skill Check: If a conflict has a binary outcome or brevity is desired, make a Check, possibly modified by the situation.
+* Quarrel: If a conflict has many possible outcomes or a detailed outcome is desired, make a Quarrel.
+Dice Terminology
+* + Hits: After succeeding on a Check, add Hits to the total.
+* Doubles: Rolling the same number for the units and tens dice.
+* ExplodingE: When you roll the maximum result on a die, roll it again and use the total.
+* Extended Check: Multiple linked checks, building up to a number of Hits.
+* Reverse: Swaps the tens and units die before roll modifications from Luck.
+Scope of Checks
+When you make a Check, use whatever the result is for all related checks until the situation meaningfully changes. Basically, you should only roll once for a given Check (i.e., Picking a Lock, you either pick it or you can’t).
+
+
+There are some obvious exceptions to this rule, for example, combat.
+Player Agency
+After a Check that fails, the player should be given the choice of at least two potential outcomes (I.e., vs. Picking a Lock, failure: I can’t pick this lock, or I can but I alert enemies).
+Checks
+You succeed on a Check by rolling percentile dice (d100 or 2d10) using one for the ten’s die and the other for the unit’s die, equal to or under a Skill or Ability; if you roll over, you fail.
+
+On a success, use the result of the tens die as your number of hits on success. So, if you passed a check with a roll of 42, you score +4 Hits.
+
+On a failure, subtract the result of the tens die from the tens unit of your Skill or Ability as your number of Hits. So, if you failed a check with a roll of 63 and had a 56 in the Skill, you scored -1 Hit.
+
+Doubles are Critical Hits on a successful check and are Fumbles on a failed check.
+
+If you roll 01-05, you always get a Critical Hit, and if you roll 95-00, you always get a Fumble.
+
+
+Critical Hits and Fumbles always grant a total of +/-6 Hits for your Check.
+- Difficulty Scale-
+Difficulty
+	Modifier
+	Very Easy
+	+40%
+	Easy
+	+20%
+	Normal
+	+0%
+	Hard
+	-20%
+	Very Hard
+	-40%
+	
+
+________________
+
+
+Quarrels
+A system to resolve conflicts quickly. This can be any dispute, such as bartering, preventing a wolf attack, finding a new contact, interrogation, swaying an audience, manipulation, chases, or even combat.
+* Agree to Terms,
+“If I win, you'll do ... If you win, I'll do...“
+* Make a Contested Check
+* Resolve the Argument
+* Net Hits: -1, Failure
+* Net Hits: 0 to 2, Victory at a Cost
+* Net Hits: 3+, Victory
+LingeringL Quarrels
+If a Quarrel is Lingering, record its name, ability percentage & Hit bonus. It will then instigate a Quarrel at set intervals.
+Lingering
+	Set Interval
+	Removed By:
+	Disease
+	When you Sleep.
+	Defeating in a Quarrel, Cure
+	Need Deprived*
+	After Time Interval.
+	Fulfilling Needs
+	*Also escalates by 20% & +1 Hits at each interval.
+Scope of Quarrels
+When making a Quarrel, use whatever the result is for all related checks until the situation changes. You should only roll once for a given Quarrel (i.e., vs. Cliff, “If I win, I’ve climbed up”; use this for the entire climb).
+Player Agency
+After a Quarrel that ends in a Compromis, the player should always be given the choice of at least two potential outcomes (I.e., vs. Cliff on a -2 Hits the choice between falling part way down, suffering 2d6 damage, or losing their sword).
+Compromise Examples
+Here are examples to help you adjudicate Quarrels. Don’t take these as hard rules; make them your own.
+- Compromise Examples-
+	Methods
+	Victory at a Cost
+	Failure
+	Break Equipment
+	Low Value (Torch)
+	High Value (Weapon)
+	Condition
+	+Two Fatigue
+- or-
++One Stress
+	+Four Fatigue
+- or-
++Two Stress
+	Encounter
+	Neutral Encounter
+	Hostile Encounter
+	Escalate
+	Quarrel Gains 10% & +0 Hits
+	Quarrel Gains 20% & +1 Hits
+	Force Action
+	Inconvenience
+	Detriment
+	Get You Lost
+	d6* Delay
+	2d6* Delay
+	Infect
+	Two with a  Minor Disease
+	Eight with a Minor Disease
+	Injure
+	Inflict d6 dmg
+	Inflict 2d6 dmg
+	Kill
+	N/A
+	Kills after a final action
+	Take Your Silver
+	d6 x 10 Silver
+	d6 x 50 Silver
+	*Delayed by Days / Weeks / Months depending on the length of the journey.
+Group Quarrels
+When a group is involved in a Quarrel, you have two ways of resolving it.
+* Each character in the group individually Checks against a single opposed Check (i.e., vs. Cliff “If I win, I climbed up”).
+
+
+________________
+
+
+Everything Wants to Kill You
+The Environment as an Enemy. Give the world a malign intelligence, clawing toward its own goals.
+- Hazards-
+	Goals
+	Methods
+	Minor Quarrel:
+vs. +2 Hits
+	Moderate Quarrel:
+vs. +4 Hits
+	Major Quarrel:
+vs. +6 Hits
+	Enemies
+	Get the Upper Hand
+	Force Action, Injure
+	A Dreg
+	A Professional
+	An Expert
+	Wilderness
+	Chew You Up
+	Fatigue,
+Break Equipment
+	Travel 1 - 7 Days Journey
+	Travel 1 - 4 Weeks Journey
+	Travel 1 - 12 Months Journey
+	Spit You Out
+	Get You Lost,
+Encounter
+	Just Outside Town
+	Dangerous Wildness
+	Deepest Wilderness
+	Storm
+	Wreck
+	Injure, Break Equipment
+	Heavy Rain or High Winds
+	Heavy Rain & High Winds
+	Maelstrom
+	City
+	Drag You Down
+	Take Your Silver, Injure, Stress
+	Finding a Common Contact
+	Finding a Specialist Contact
+	Finding a Master Contact
+	Keep You Down
+	Encounter, Infect, Stress
+	The Bad Side of Town
+	The Slums or Sewers
+	The Prison or Stocks
+	DiseaseL
+	Spread
+	Escalate, Infect
+	Chronic Sneezing
+	Wet Cough
+	Plague
+	Consume
+	Pain, Injure
+	Sleepless Chills
+	Oozing Pox
+	Consummation
+	Surgery
+	Kill Patient
+	Stress, Kill
+	Shut Larynx
+	Broken Neck
+	Skull Fracture
+	Harm Patient
+	Infect, Stress
+	Mangled Hand
+	Rent Forearm
+	Maimed Arm
+	Chaos
+	Your Body
+	Corruption
+	Direct Contact with a Mutant
+	Effected by a Foul Spell
+	Contact with Lodestone
+	Your Mind
+	Stress
+	Running in Terror
+	Undergoing Surgery
+	Being Tortured
+	Heat
+	Bake
+	Fatigue, Injure
+	Day of Field Work
+	Travel in a Heat Wave
+	Desert Journey
+	Cold
+	Freeze
+	Fatigue, Injure
+	Winter Cart Ride
+	Travel in a Blizzard
+	Tundra Journey
+	Air DeprivedL
+	Suffocate
+	Fatigue, Kill
+	1 Round (+RB with Held Breath)
+	2 Rounds (+RB with Held Breath)
+	3+ Rounds (+RB with Held Breath)
+	Water DeprivedL
+	Dehydrate
+	Fatigue, Kill
+	Thirsty, 1 Day Without
+	Parched, 2 Days Without
+	Dehydrated, 3+ Days Without
+	Food DeprivedL
+	Starve
+	Fatigue, Kill
+	Hungry, 1 Day Without
+	Ravenous, 1 Week Without
+	Starving, 3+ Weeks Without
+	Sleep DeprivedL
+	Pass Out
+	Fatigue, Sleep
+	Tired, 1 Day Without
+	Exhausted, 2 Days Without
+	Corpse-Like, 3+ Days Without
+	Light
+DeprivedL
+	Hide Horrors
+	Force Action, Stress
+	10 Min Without in a Dangerous Place
+	1 Hour Without in a Dangerous Place
+	1 Day Without in a Dangerous Place
+	L = Lingering Quarrel
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+The Dark Descent
+Your lineage is doomed to corruption by one of the many demons of the dark gods. You choose which demon will corrupt their lineage, each one with their own unique powers and goals. Each generation, the players have the opportunity to learn a part of the demon's true name. The ultimate goal of the lineage is to either serve the dark gods or to truly defeat the demon by learning its true name and manifesting it.
+Why?
+The demon seeks to corrupt the descendants to gain their loyalty and use them as pawns in their eternal struggle against the other dark gods. The demon may be seeking to escape its own prison or curse, and corrupting the descendants is a way of doing so. The demon may also see the descendants as a way to gain access to the mortal realm.
+The Exchange
+Players can choose to use The Exchange to reroll any check, but it comes at a cost. You will not be able to use the exchange again until you roll on your demonic influence table.
+Naming the Beast
+Each generation, players can go to the edges of sanity and overcome challenges to gain a part of the demon's true name. The challenges are based on the type of demon the player's character has chosen. If you’re successful, roll on your true name table & demonic trait table tied to that word. Each generation can gain one part of the demon’s name.
+Channel the Name
+If a descendant knows a part of the demon’s true name, they can channel the demon for special abilities based on the type of demon it is. Each word of the demon's true name is tied to one of the demon’s powers, and these powers can be used by making a Quarrel against one Hit per word known, or roll on your demonic influence table.
+Damnation
+Damnation comes in two forms: losing one's mind or body to corruption or madness, or becoming an abomination. The abomination transformation is a powerful form granted by the demon, offering a boost of short-term power but at the cost of the descendant's soul. You may transform at any time, this is irreversible, and the descendant is damned forever. As an abomination, they have full access to all known demonic traits and use 5 Hits as their roll for any Check. If a descendant is damned, they can be used by the demon beyond their natural lifespan.
+The Ultimate Outcome
+The lineage is doomed to serve the dark gods or to truly defeat the demon by learning its true name and gaining control over it. Once your line has learned all eight parts of the demon's true name, you may shout its full name, summoning the demon to overcome it directly. This will be a battle between the player's character and the demon, the outcome of which will determine the fate of the lineage.
+
+
+There are two ways this battle can happen:
+
+
+1. The demon will claim the line if eight of the descendants are corrupted. Manifesting itself to directly claim the last descendant. If the demon wins, the line is damned, but if you defeat it, your line’s fate is delayed until the next descendant falls to the darkness.
+2. You may choose to fight the demon using the true name, if you win, the line dominates the demon, gaining full access to its powers and never having to roll on the demonic influence table again. If the descendant loses, they become damned.
+
+
+The end result will depend on the choices the player's character makes throughout the game.
+________________
+The Bloody Axe
+The Demon of the Bloody Axe boasts searing flames that incinerate all who dare stand in its path. Its raw power and unparalleled might make it a respected emblem of martial prowess, revered by warriors everywhere. Rumors say those of the Demon's bloodline inherit its savage qualities, granting them unmatched dominance in battle. Its flaming blades strike fear into the hearts of foes, cementing its reputation as a fearsome weapon of destruction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Demonic Traits
+	
+
+	 Demonic Influence
+	1
+	Rage: Tap into immense anger and fury.
+	1
+	Become excessively competitive all the time.
+	2
+	Savage: Bestow brutal and primal behavior.
+	2
+	Refuse to compromise or back down in any situation.
+	3
+	Maim: Flay, rip and tear your foes.
+	3
+	Constantly be on the brink of violence.
+	4
+	Killing Instinct: Kill with incredible speed.
+	4
+	Value honor above all else, especially in battle.
+	5
+	Warrior's Honor: Instill unshakable honor.
+	5
+	Cannot distinguish between right and wrong.
+	6
+	Battle Frenzy: Enter a berserk state in battle.
+	6
+	Disregard the consequences of your actions in battle.
+	7
+	Fire Breath: Breathe fire, incinerating enemies.
+	7
+	Your sweat and tears are replaced with blood
+	8
+	Endurance: Endure intense exertion and trials.
+	8
+	Become obsessed with ever greater challenges.
+	9
+	Bloodlust: Gorge on the blood of your enemies.
+	9
+	Are willing to sacrifice everything for victory.
+	10
+	Unstoppable: Ignore all wounds and keep fighting.
+	10
+	Create your own or choose any of the above.
+	
+
+	True Name*
+	
+
+	Where the Name Hides
+	1
+	Gorn- | Cleaver | Supreme
+	1
+	By participating in a brutal and violent ritual
+	2
+	Fel- | Maul | Warbringer
+	2
+	By making a bargain with a powerful warlord
+	3
+	Drog- | Rend | Regent
+	3
+	By seeking out and destroying a powerful weapon
+	4
+	Tornax- | Fury | Overlord
+	4
+	By traveling to a distant land for a powerful warrior
+	5
+	Vor- | Mangle | Ravager
+	5
+	By finding an ancient sacrificial altar or bloody stone
+	6
+	Brax- | Rage | Master
+	6
+	By burning the ancient texts in a forbidden library
+	7
+	Jorn- | Blood | Duke
+	7
+	By sacrificing a loved one or a thing of great value
+	8
+	Vor- | Axe | Destroyer
+	8
+	By making a deal with the demon itself
+	9
+	Wrax- | Ruthless | Conqueror
+	9
+	By seeking out and defeating a powerful demon
+	10
+	Nixx- | Brutal | Vanquisher
+	10
+	By participating in and winning a tournament
+	*Choose one of the options, adding “of” and “The” when it makes sense
+The Cackling God
+The Demon of the Cackling God is infamous for its haunting laughter and control over fate and magic. Those who follow it gain access to forbidden powers, making them a force to be reckoned with. Its intelligence is unparalleled, and those who oppose it face severe consequences. Despite its ominous reputation, many still seek its favor in exchange for ultimate power. Use caution when dealing with this ominous entity.
+
+
+
+

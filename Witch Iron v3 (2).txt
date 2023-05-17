@@ -1,0 +1,501 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Demonic Traits
+	
+
+	 Demonic Influence
+	1
+	Fate Bending: Alter an outcome to suit your will.
+	1
+	Split your personality, you don’t share memories.
+	2
+	Treachery: Use deceit and betrayal to manipulate.
+	2
+	Betray those closest to you for personal gain.
+	3
+	Puppet: Bend the thoughts and actions of others.
+	3
+	Believe that you are a misunderstood genius.
+	4
+	Chaos: Induce confusion and disorder.
+	4
+	Answer questions with a truth and a lie.
+	5
+	Arcane Mastery: Complete control over a spell
+	5
+	You always laugh at the suffering of others.
+	6
+	Shadow Walker: Move unseen in shadows.
+	6
+	Develop a god complex, believing you’re invincible.
+	7
+	Unseen: Influence events from behind the scenes.
+	7
+	Be consumed by paranoia for everyone around you.
+	8
+	Far Sight: See the possible outcomes of an event.
+	8
+	Plot and scheme to eliminate all who cross your path.
+	9
+	Dark Power: Overcharge magic beyond control.
+	9
+	Become addicted to manipulating others.
+	10
+	Unravel: Cause unnatural misfortune to any scheme.
+	10
+	Create your own or choose any of the above.
+	
+
+	True Name*
+	
+
+	Where the Name Hides
+	1
+	Hax- | Cackle | Grand
+	1
+	By discovering a hidden portal to the demon's realm
+	2
+	Lor- | Betrayer | Arch
+	2
+	By making a deal with a manic or crazed prophet
+	3
+	Nith- | Bender | High
+	3
+	By seeking out and destroying a talisman of fate
+	4
+	Veld- | Deceiver | King
+	4
+	By destabilizing a city or large community
+	5
+	Bael- | Fate | Warlock
+	5
+	By infiltrating and disrupting a secret cult
+	6
+	Mag- | Spell | Prophet
+	6
+	By deciphering ancient texts in a forbidden library
+	7
+	Yorn- | Guffaw | Trickster
+	7
+	By betraying a loved one or a thing of great value
+	8
+	Zeph- | Magic | Renegade
+	8
+	By making a deal with the demon itself
+	9
+	Xorn- | Traitor | Sorcerer
+	9
+	By seeking out and defeating a powerful demon
+	10
+	Krag- | Laugh | Lord
+	10
+	By surviving a deadly game of chance and cunning
+	*Choose one of the options, adding “of” and “The” when it makes sense
+Serpent of Vice
+The Demon of the Serpent of Vice is infamous for its seductive power, corrupting its victims through temptation and indulgence. With its mastery of excess and debauchery, the demon bestows upon its descendants an unearthly grace and charm that is unmatched. Its influence is felt far and wide, and many fear the power that it wields. This demon is a force to be reckoned with, and those who fall under its spell are often unable to break free.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Demonic Traits
+	
+
+	 Demonic Influence
+	1
+	Lure: Entice others with pleasure and excess.
+	1
+	Develop a new addiction to a vice.
+	2
+	Indulgence: Overindulgence in vices.
+	2
+	Betray friends and loved ones in pursuit of power.
+	3
+	Corruption: Corrupt others with promises of power.
+	3
+	Become addicted to luxury and opulence.
+	4
+	Charm: Charm and beguile others.
+	4
+	The player to your right owns one of your senses.
+	5
+	Envy: Incite envy in others.
+	5
+	Completely lose your sense of empathy.
+	6
+	Deception: Deceive and manipulate others.
+	6
+	Try to corrupt others with your toxic influence.
+	7
+	Lust: Incite an insatiable desire in others.
+	7
+	Believe that you are entitled to whatever you want.
+	8
+	Gluttony: Incite a bottomless hunger or thirst.
+	8
+	All choices are made within 5 seconds of planning.
+	9
+	Greed: Feed a burning desire for wealth.
+	9
+	Delegate tasks instead of doing them yourself.
+	10
+	Sloth: Beraid of others with laziness and idleness.
+	10
+	Create your own or choose any of the above.
+	
+
+	True Name*
+	
+
+	Where the Name Hides
+	1
+	Sed- | Tempt | Grace
+	1
+	By committing a heinous act for a secret sect
+	2
+	Tyl- | Debauch | Archfiend
+	2
+	By participating in a secret debauched ritual
+	3
+	Vex- | Excess | Enchanter
+	3
+	By making a bargain with a malevolent dealer
+	4
+	Sla- | Vice | Corruptor
+	4
+	By ingesting an archaic and potent intoxicant
+	5
+	Lux- | Charm | Majesty
+	5
+	By traveling to a distant land for a exotic connection
+	6
+	Nyth- | Entice | Sovereign
+	6
+	By corrupting the ancient texts in a forbidden library
+	7
+	Ven- | Indulge | Decadent
+	7
+	By sacrificing a loved one or a thing of great value
+	8
+	Aph- | Seducer | Emperor
+	8
+	By making a deal with the demon itself
+	9
+	Ryl- | Enrapture | Siren
+	9
+	By seeking out and defeating a powerful demon
+	10
+	Cor-  | Taint | Serpent
+	10
+	By becoming the victor of a perverted ball of masks
+	*Choose one of the options, adding “of” and “The” when it makes sense
+Smiling Sickness
+The Demon of the Smiling Sickness is a malevolent force, causing chaos and spreading destruction with its never-ending thirst for death. Its decaying grin, a byproduct of its eternally slothing flesh, scars those who witness it as it unleashes deadly plagues on all those who dare to challenge it. Possessing unmatched virulence, no one is safe from its wrath and those who succumb to its sickness are doomed to suffer a slow and painful demise.
+________________
+
+
+
+
+
+
+
+
+	Demonic Traits
+	
+
+	 Demonic Influence
+	1
+	Rot: Spread disease and decay with a touch
+	1
+	Develop a messianic belief that you’re a savior.
+	2
+	Resilience: Ignore wounds and illnesses
+	2
+	See illness as a way to bring joy to others.
+	3
+	Delusional Laughter: Spread mad exuberance
+	3
+	Have an irrational fear of health and cleanliness.
+	4
+	Plague: Create and cultivate virulent plague
+	4
+	Disregard personal boundaries and privacy.
+	5
+	Contagion: Rapidly fester wounds
+	5
+	Cultivate affiliations and treat them as pets.
+	6
+	Pestilence: summon swarms of vermin
+	6
+	Believe you are immune to all diseases and sickness.
+	7
+	Foul Breath: Breath flesh melting decay
+	7
+	Become overly trusting of everyone.
+	8
+	Madness: Drive others mad with a glance
+	8
+	Never stop smiling, even in your sleep.
+	9
+	Tumorous: Growth blobs of new flesh with a touch
+	9
+	Address others by their illness or make up a new one.
+	10
+	Fly Mater: Choke the area with flies
+	10
+	Create your own or choose any of the above.
+	
+
+	True Name*
+	
+
+	Where the Name Hides
+	1
+	Gel- | Sickness | Bringer
+	1
+	By contaminating a sacred well or a holy spring
+	2
+	Lir- | Decay | Harbinger
+	2
+	By making a deal with a mad plague doctor
+	3
+	Nith- | Plague | Prophet
+	3
+	By seeking out and consuming a forbidden fruit
+	4
+	Vald- | Rot | Decaybringer
+	4
+	By traveling to a distant land for a mysterious herb
+	5
+	Xir- | Delusion | Lord
+	5
+	By finding and activating an ancient cursed artifact
+	6
+	Smyth- | Disease | Plaguebearer
+	6
+	By infecting a loved one with the demon
+	7
+	Mith- | Laughter | Tyrant
+	7
+	By reading the intestines patient zero of a plague
+	8
+	Grick- | Resilience | Carrier
+	8
+	By making a deal with the demon itself
+	9
+	Wyrn- | Decay | Regent
+	9
+	By seeking out and defeating a powerful demon
+	10
+	Xern- | Plague | Contaminer
+	10
+	By participating in a ritual to spread the sickness
+	*Choose one of the options, adding “of” and “The” when it makes sense
+
+
+Character Creation
+The gods are cruel, and danger is everywhere. Here are the three steps for creating a Descendent. It is recommended to roll your next Descendent as well.
+
+
+* Step 1: Roll Starting Abilities. Roll d20 ten times; then assign to any ability requiring a d20.
+* Step 2: Gain three Genetic Traits.
+* Step 3: Select two Lineages available to your line, and add +10% to every listed Ability from each of your Lineages.
+Luck
+The fates are capricious, callous, as likely to grant you success in your endeavors as they are to consign you to a terrible fate. Luck is spent in two ways:
+1. After a Check is rolled, you may spend it at a one-to-one ratio to raise or lower your roll.
+2. You may spend 50 Luck to safely escape the situation.
+
+
+Luck Checks may be rolled to decide random events. At the end of every session, you gain a d10 Luck, up to 100.
+Max Encumbrance
+Your back is killing you and your limbs are slow. You need to drop some weight before you move. When you exceed your Max Encumbrance in carried items, you suffer the following effects.
+* Past 1x Enc: 1/2 Speed, -20% to all Checks.
+* Past 2x Enc: No Speed, -40% to all Checks.
+Instant Access Items
+You pull the dagger out of its sheath with a swift motion, before driving it into their eye socket. You may wield these items without using an action.
+Magick / Faith
+Beware the horrors of this ancient and eldritch power. You may only have one of these two abilities.
+________________
+Starting Abilities
+Primary Ability
+	AB*
+	Base Score
+	Modifies
+	Muscle
+	MB
+	d20+10
+	+Melee Damage
+	Robustness
+	RB
+	d20+10
+	Soak Damage
+	Agility
+	AB
+	d20+10
+	+5 Speed every 40
+	Quickness
+	QB
+	d20+10
+	+Ranged Damage
+	Finesse
+	FB
+	d20+10
+	Instant Access Items
+	Intelligence
+	IB
+	d20+10
+	Read & Write at 40
+	Willpower
+	WB
+	d20+10
+	Resists the Dark Gods
+	Personality
+	PB
+	d20+10
+	Max Contacts / Followers
+	Luck
+	LB
+	d20+10
+	Modifies Rolls & Saves from Death
+	Secondary Ability
+	Base Score
+	Measures
+	Max Encumbrance
+	(MB + RB) x 2
+	Total Carrying Capacity
+	Speed
+	30
+	Movement in ft.
+	Attacks
+	1
+	Attacks per Round
+	Magick or Faith
+	0
+	Supernatural Power
+	Lifespan
+	d20+30
+	Natural Expectancy
+	*Ability Bonus= 1/10th of an ability rounded down
+Max Contacts /  Followers
+The select few you trust, like you couldn't trust anyone else. You may not exceed the combined amount of Contacts (NPCs that indirectly assist you) and Followers (NPCs that directly assist you). When you gain a Contact or Follower record the following:
+* Name.
+* Their Ability Score & +Hits.
+* What they assist with.
+* Any costs or limits of their assistance.
+Skills
+This is a list of every skill in the game. It also includes examples for Specializations that show the scope of Checks covered by the skill.
+Skill Specialization
+You gain +One Hit per Rating on a successful Check within the scope of your Specialization. Your Specializations may have a Rating up to the Skill Specialization Max of your current Tier.
+
+
+Ability
+	Skill
+	Specialization Examples
+	Muscle
+	Athletics
+	Climb, Jump, Sprint, Swim, Wrestle
+	Intimidate
+	Strong Arm, Scare Off, Threaten
+	Melee
+	Yeoman Weapons, Dockside Weapons, Common Weapons, Aristocratic Weapons, Battlefield Weapons, Tournament Weapons
+	Robustness
+	Hardship
+	Resist Mutation, Fight Disease, Ignore Basic Need, Hold Breath
+	Labor
+	Lift, Row, Carry, Pull
+	Imbibe
+	Alcohol, Poison, Potions, Graywater
+	Agility
+	Light-Foot
+	Acrobatics, Balance, Dance, Dodge, Land
+	Ride
+	Horse, Boar, Bear, Griffon
+	Skulk
+	Ambush, Hide, Scout, Shadow
+	Quickness
+	Cunning
+	Bribery, Deception, Handle Trap, Lock Pick, Sleight of Hand
+	Perception
+	Inspect Details, Listen, Tracking, Survey Area
+	Ranged
+	Frontier Arms, Common Arms, Urban Arms, Battlefield Arms, Prototype Arms
+	Finesse
+	Art
+	Acting, Disguise, Play Music, Sing, Storytelling
+	Operate
+	Chariot, Coaching, Sailing
+	Trade
+	Alchemy, Brewing, Carpentry, Cooking, Engineering, Gunsmithing, Miracle Working, Runecarving, Smithing, Spell Writing, Tailoring, Tanning
+	Intelligence
+	Heal
+	Bloodletting, Surgery, Treat Disease, Wound Closure
+	Research
+	Alchemy, Astronomy, History, Engineering, Theology, Magick, Folk Lore
+	Navigation
+	Star-Light, Verdant, Barren, Water, Underground, Mountain
+	Willpower
+	Steel
+	Resist Madness, Resist Horror, Resist Magick, Calm Under Fire
+	Survival
+	Build Shelter, Forage, Hunt, Fish, Identify Threat, Homelessness, Herbalism
+	Husbandry
+	Animal Care, Calm Animal, Train Animal
+	Personality
+	Leadership
+	Start Riot, Command, Oration, Preach
+	Carouse
+	Beg, Gamble, Gossip, Party, Pray, Find a Contact
+	Coerce
+	Charm, Extract Information, Haggle, Seduce, Argue, Hypnotize
+	________________
+
+
+Step 2: Genetic Traits
+Gain three Genetic Traits.
+d100
+	Base Trait
+	Duality Trait*
+	Description
+	01-08
+	Brawny
+	Puny
+	Increased/decreased Muscle by 10%.
+	09-16
+	Bountiful
+	Infertile
+	Gain a second Descendant/cannot have offspring.
+	17-24
+	Brainy

@@ -1,0 +1,480 @@
+﻿	50,800
+	Elite
+	Seven
+	Ten
+	Three +One’s
+	Three
+	8th
+	102,000
+	Master
+	Eight
+	Ten
+	Three +One’s
+	Three
+	9th
+	204,400
+	Grand Master
+	Nine
+	Ten
+	Three +One’s
+	Four
+	10th
+	409,200
+	Living Legend
+	Ten
+	Ten
+	Three +One’s
+	Four
+	
+
+Alchemy
+You must be an Alchemist to brew Concoctions. The brewing process takes the following steps:
+1. Gather Ingredients
+The required ingredients for one Concoction of a given Tier are listed. Higher Tier ingredients can create one additional Concoction per Tier difference.
+2. Select Effects
+Select effects based on Tier & Essence using the table as a guide. Must be equal or higher Tier to choose the effect.
+3. Concoct
+Concoct for one week per Tier of all effects. Result is a crude Concoction with Toxicity equal to total Tiers of all effects. Refine by making Research & Trade Checks, reducing Toxicity by one per Hit.
+
+
+All Concoctions are either instant or linger for d6 rounds for lasting effect. You may freely increase the duration at Tier 3 to d6 minutes, Tier 6 to d6 hours & Tier 9 to d6 days.
+Toxicity
+Distilling the Wicked Winds into a Concoction is toxic. After drinking a Concoction, make an Imbibe Check, subtract Toxicity from your Hits, if 0+ suffer 1 Corruption.
+
+
+Wicked Essence
+	Examples: Tier 1
+	Examples: Tier 3
+	Examples: Tier 5
+	Examples: Tier 8
+	Blue Essence
+	Gust bomb, knock all within a 5ft area prone
+	Speak to birds, gain +20 & +2 Hits to commands
+	See the future, Reverse any Check
+	Sprout wing & fly 60ft per round
+	Ingredients
+	Hawk Feather
+	Pegasus Hoof
+	200s of Sapphires
+	Griffon Wing
+	Brown Essence
+	Tooth & claw, d6+MB Dmg & Bleed 1 weapon
+	Strong beast oil, deal +2 Damage Dic to beasts
+	Grow to Large Size, +5 Dmg & Soak, 4 Wounds
+	Grow to Huge Size, +10 Dmg & Soak, 5 Wounds
+	Ingredients
+	Wolf Claw
+	Krieg Beast Quill
+	200s of Amber Lumps
+	Hydra Head
+	Gold Essence
+	Eurika! +10 & +1 Hit to Intelligence
+	Can melt a lock’s worth of steel or lesser metal
+	Your skin turns to gold, +2 AV to all Locations
+	Quarrel against 8 Hits or turn to Stone
+	Ingredients
+	Iron Ore
+	Cup of Mercury
+	200s of Gold Nuggets
+	Basilisk Eye
+	Green Essence
+	Scar over wounds, Recover all Wounds
+	Cure poison, Remove all Poison
+	Grow a shrub, Entangle 5 or Suffocate imbiber
+	Return to life in 2d6 rounds after dying
+	Ingredients
+	Tree Sap
+	Troll Toe
+	200s of Jade Stones
+	Treefolk Limb
+	Gray Essence
+	Quarrel against 2 Hits or suffer 1 Poison
+	Smoke bomb, 20ft area of impenetrable smoke
+	Fog-like, +30 & +3 Hits to Agility
+	You cannot be seen by intelligent creatures
+	Ingredients
+	Whole Spider
+	Criminal Evidence
+	200s of Obsidian Shards
+	Jabbervrack Brain
+	Purple Essence
+	Undead oil, deal +1 Damage Die to undead
+	Quarrel against 4 Hits or suffer 3 Poison
+	Enter stasis, you cannot be harmed until waking
+	Extend your Lifespan by one-year
+	Ingredients
+	Skeleton Bone
+	Murder Weapon
+	200s of Amethysts
+	Vampire Skull
+	Red Essence
+	Liquid fire, can start a bonfire or deal 1 Aflame
+	Rage, gain +1 Attack charging nearest foe
+	Breath fire, 2d6+5 Dmg to a 10ft area within 30ft
+	Turn red-hot, gaining immunity to fire
+	Ingredients
+	Burning Coal
+	Arsonist’s Heart
+	200s of Rubies
+	Dragon Scale
+	White Essence
+	Torchlight, Blind 1 when splashed into eyes
+	Reaction, +20 & +2 Hit to Quickness
+	Neutralizes any Concoction to water
+	Inflict one Wound to Demons on contact
+	Ingredients
+	Magnified Sunlight
+	Blinded Eye
+	200s of Diamonds
+	Demon Ash
+	
+
+Inventing
+You must be a Black-Thumb to create an Invention. The writing process takes the following steps:
+d4
+	Invention Quirks
+	1
+	This invention is very unreliable,  roll d6, on a 5+ it fails when used
+	2
+	This invention overheats after use and must cool off for 10 min. If used before that, take one Wound from steam/ sparks
+	3
+	Each use or hour of use requires 20s worth of fuel or other resources
+	4
+	This invention is overcomplicated, requiring 3 actions to ready a weapon or 2 hours for other inventions
+	
+
+1. Gather Ingredients
+Inventions require 50s worth of ingredients per Tier, or 100s worth of ingredients per Tier for Large Inventions.
+2. Select Effects
+See the table for examples meant to be used as a guide for the Tier & Scope of effects. You must be an equal or higher Tier to select that effect.
+3. Invention
+After one week of work per Tier of all effects, you have brewed a crude Invention. Crude Inventions start with Quirks equal to the total Tiers of all effects (Max 4). This is refined by making a Research & a Trade Check, then reducing Quirks by one for every Hit.
+
+
+Scope
+	Examples: Tier 1
+	Examples: Tier 3
+	Examples: Tier 5
+	Examples: Tier 8
+	Melee Weapons
+	Up to 3 RP of Qualities Max: 1 Brutal, Shield 1
+	Up to 6 RP of Qualities Max: 2 Brutal, Shield 2
+	Up to 9 RP of Qualities Max: 3 Brutal, Shield 3
+	Up to 12 RP of Qualities
+	Two-Handed Melee Weapons
+	Up to 3 RP of Qualities Max: 2 Brutal, Shield 1
+	Up to 6 RP of Qualities Max: 3 Brutal, Shield 2
+	Up to 9 RP of Qualities Max: 4 Brutal, Shield 3
+	Up to 12 RP of Qualities
+	Custom Quality
+	Worn: Cannot be disarmed
+	Weapon Break: Reduce one Dmg Die per parry
+	Cripple: Inflicts one Trauma to location
+	Devastate: Damage always Critically Injures
+	Ranged Arms
+	Up to 3 RP of Qualities Max: 1 Brutal
+	Up to 6 RP of Qualities Max: 2 Brutal
+	Up to 9 RP of Qualities Max: 3 Brutal
+	Up to 12 RP of Qualities
+	Two-Handed Ranged Arms
+	Up to 3 RP of Qualities Max: 2 Brutal
+	Up to 6 RP of Qualities Max: 3 Brutal
+	Up to 9 RP of Qualities Max: 4 Brutal
+	Up to 12 RP of Qualities
+	Custom Quality
+	Breakdown: Appears harmless, takes one min
+	Grapple: Pulls target 10ft per turn, can be cut
+	Launcher: Fires Single Use, double reload
+	Seek: You do not need line of sight
+	Non-Stiff Armor
+	Up to 3 RP of Qualities Max: 1 AV
+	Up to 5 RP of Qualities Max: 2 AV
+	Up to 7 RP of Qualities Max: 2 AV
+	Up to 9 RP of Qualities Max: 3 AV
+	Stiff Armor
+	Up to 3 RP of Qualities Max: 2 AV
+	Up to 5 RP of Qualities Max: 3 AV
+	Up to 7 RP of Qualities Max: 3 AV
+	Up to 9 RP of Qualities Max: 4 AV
+	Custom Quality
+	Spiked: Unarmed loses the Superficial Quality
+	Secure: Protects 3 items from damage & wear
+	Powered: +20 & +1 Hits to Muscle Checks
+	Autonomous: item is also 3 HD Creature
+	Small Inventions
+	Foldable Wall: An expandable 5ft x 5ft wood wall
+	Steam-Powered Grappling Hook: climbing or pulling.
+	Lightning Cannon: Fires bolts of electricity at enemies.
+	Clockwork Wings: Allow flight over short distances
+	Large Inventions
+	
+
+	
+
+	
+
+	
+
+	
+
+Spell Writing
+You must control Wicked Wind to write a Spell. The writing process follows:
+d4
+	Spell Quirks
+	1
+	Inflicts a Corruption to the caster.
+	2
+	Sends the caster flying d6 x 5ft back.
+	3
+	Requires 20s of arcane materials to cast.
+	4
+	Inflicts a Fatigue to the caster.
+	1. Gather Ingredients
+Spells require 100s worth of ingredients per Tier.
+4. Select Effects
+Use the table as a guide to select the Tier and Wind of the desired effects. You must be at least that Tier of the effect.
+5. Write Spell
+After one week of work per Tier of all chosen effects, you have created a crude spell. Crude spells have Quirks equal to the total Tiers of all effects (maximum of 4). Refine the spell by making Research and Trade checks, reducing Quirks by one per hit on each check. The spell requires Casting Hits equal to the total Tiers x 5 to be activated.
+
+
+All spells are either instant or have a duration of d6 rounds. At Tier 3, you may increase the duration to d6 min. At Tier 6, you may increase the duration to d6 hours. At Tier 9, you may increase the duration to d6 days.
+
+
+Wicked Wind
+	Examples: Tier 1
+	Examples: Tier 3
+	Examples: Tier 5
+	Examples: Tier 8
+	Blue Wind
+	Wind-whistle: create a deafening noise that disrupts spellcasting
+	Lift-off: with a rush of wind you jump to any location you can see
+	Wind-wall: create a 30ft wall that catches all mundane ranged attacks
+	Wind-blade: create a razor sharp wind blade that can cut through most materials
+	Brown Wind
+	Beast-call: summon a wild animal to your side
+	Beast-speech: communicate with and control animals
+	Pig-Curse: target Quarrel against 6 Hits or become a 1 HD pig
+	Beast-form: transform into a beast of your choice
+	Gold Wind
+	Shiny-bait: create a small, shiny object to distract enemies
+	Shiny-shield: create a shield of reflective metal shards
+	Shiny-storm: rain down a barrage of sharp metal shards on enemies
+	Iron-touch: turn object iron, living targets Quarrel against 8 Hits
+	Green Wind
+	Cleaning-wash: rotten or poison food becomes harmless
+	Nature-walk: merge with nature and become invisible to animals
+	Nature-command: control plants and vines to entangle enemies
+	Nature-balance: restore balance, healing all plants and animals
+	Gray Wind
+	Mist-Hand: can lift 1 Enc & open windows up to 30ft away
+	False-Wall: create a perfect illusionary 10ft  wall, door or ceiling
+	Spider-like: you grow shadow limbs can climb walls & ceilings
+	Beguile: ten targets Quarrel against 6 Hits or follow orders
+	Purple Wind
+	Fear-touch: instill fear in a single target
+	Fear-aura: exude an aura of fear that affects all those around you
+	Terrify: Quarrel w/ +2 Hits against all who can see you to force a rout
+	Dust: age an object to dust, living targets Quarrel against 8 Hits
+	Red Wind
+	Fire-starter: ignite a small fire with a thought
+	Fire-shield: create a shield of flames that protect
+	Fire-ball: launch a ball of flames at a target
+	Fire-storm: rain down a barrage of fireballs on enemies
+	White Wind
+	Whitelight: cannot be doused & inflicts Blind 1 when thrown into eyes
+	Holy-water: create a flask of holy water that can harm undead and demons
+	Holy-shield: create a shield of holy energy that protects against magical attacks
+	Banish: target demon or undead Quarrel against 8 Hits or become ash
+	Defiled Winds
+	Blood-Fountain: all within short range suffer 1 Bleed
+	Undeath: reanimate d6 3 HD bodies, that will follow your orders
+	Mutation: a living target Quarrels against 6 Hits or Mutates
+	Gravity: control an object’s gravity, Quarrel w/ +3 Hits to rip in half
+	
+
+Miracle Working
+You must be a devotee of a God to work a Miracle. The writing process takes the following steps:
+
+
+1d4
+	Miracle Quirks
+	1
+	Inflicts Stress on the caster.
+	2
+	The caster gains a Blind Condition for a day.
+	3
+	The caster gains Fatigue Condition.
+	4
+	The caster must pray for 10 min to use again.
+	1. Gather Ingredients
+Miracles require 100s worth of ingredients per Tier.
+________________
+6. Select Effects
+Use the table as a guide to select the Tier of the desired effects. You must be at least that Tier to select the effect.
+7. Work Miracle
+After one week of work per Tier of all effects, you have brewed a crude Miracle. Crude Miracle starts with Quirks equal to the total Tiers of all effects (Max 4). This is refined by making a Research & a Trade Check, then  reducing Quirks by one for every Hit, one each Check.
+The Miracle is worked with Casting Hits equal to total Tiers x 5.
+
+
+All Miracles are either instant or linger for d6 rounds for lasting effect. You may increase the duration at Tier 3 to d6 minutes, Tier 6 to d6 hours & Tier 9 to d6 days.
+
+
+Gods
+	Examples: Tier 1
+	Examples: Tier 3
+	Examples: Tier 5
+	Examples: Tier 8
+	Bygorr
+	Hunter's-mark: mark a target, gain +10% and +1 Hit against them
+	Nature's-grace: gain temporary hit points equal to your level
+	Wild-call: summon a pack of wild animals to your side
+	Wild-shape: transform into a wild animal of your choice
+	Corvis
+	Lucky-coin: flip a coin with a 50% chance of success
+	Trickster's-glamor: disguise yourself as anyone or anything
+	Thief's-trove: transport a small object from anywhere to your hand
+	Trickster's-mirror: create an illusory duplicate of yourself
+	Dominus
+	
+
+	Cleanse: remove from a single target
+	
+
+	Dominate: all within 30ft follow your order, Quarrel against 6 Hits
+	Furnos
+	Wolf-companion: summon a wolf companion to your side
+	Winter's-bite: create a blast of icy wind, inflict 2 pain
+	Winter's-fury: create a blizzard that blinds and slows enemies
+	Winter's-wrath: create a massive avalanche that buries enemies
+	Minera
+	Healing-touch: restore hit points to a single target
+	Mass-healing: restore hit points to all allies within 30ft
+	Healing-aura: emit an aura that removes 2 Bleed to all within 30ft
+	Greater-healing: restore hit points to all allies within 60ft
+	Nox
+	Sleep: put a single target to sleep
+	Restful-slumber: put all enemies within 30ft to sleep
+	Dream-walk: enter the dreams of a sleeping target
+	Nightmare: enter the dreams of all sleeping targets within 60ft
+	Thonjun
+	Tidal-wave: create a massive wave that damages and knocks
+	Storm-call: summon a storm to your location
+	Lightning-strike: call down a bolt of lightning on a target
+	Typhoon: create a massive typhoon that devastates the area
+	Ynir
+	Fertility-blessing: cause a plant to bear fruit or a creature to reproduce
+	Harvest-boon: cause a plant to bear an abundance of fruit or a creature to have
+	Harvest-blessing: cause all plants within 30ft to bear an abundance of fruit or all creatures
+	Great-harvest: cause all plants within 60ft to bear an abundance of fruit or all creatures
+	
+
+
+
+Rune Carving
+You must be a Rune Carver to create Runes. The carving process takes the following steps:
+1. Gather Materials
+Runes require 100s worth of gemstone per Tier.
+2. Select Effects
+See the table for examples meant to be used as a guide for the Tier and type of effects. You must be an equal or higher Tier to select that effect.
+3. Carve
+After one week of work per Tier of all effects, you have carved a crude Rune. Crude Runes start with Impurity equal to the total Tiers of all effects. This is refined by making a Research and a Trade Check, then reduce the Impurity by one for every Hit.
+
+
+All Runes are either instant or linger for d6 rounds for lasting effect. You may freely increase the duration at Tier 3 to d6 minutes, Tier 6 to d6 hours, and Tier 9 to d6 days.
+Impurity
+Runes can be physically and mentally draining. After activating a Rune, make an Hardship Check, subtract Impurity from your Hits, if 0+ suffer 1 Corruption.
+
+
+Wicked Essence
+	Examples: Tier 1
+	Examples: Tier 3
+	Examples: Tier 5
+	Examples: Tier 8
+	Blue Essence
+(Sapphire)
+	Fog: create a thick fog in a 20ft radius
+	Lightning-bolt: launch a bolt of lightning at a single target
+	Tornado: create a tornado in a 60ft radius
+	Control-fate: alter the outcome of a single event within 60ft
+	Brown Essence
+(Amber)
+	Animal-companion: summon an animal companion to your side
+	Savage-fury: +20 & +2 Hit to attack, -10 & -1 to defend
+	Pack-call: summon a pack of wild animals to your side
+	Bestial-form: transform into a wild animal of your choice
+	Gold Essence
+(Gold)
+	Metal-mend: repair a broken metal object
+	Metal-form: shape a single metal object into any form
+	Metal-form: shape a single metal object into any form
+	Metal-storm: create a storm of metal shards in a 30ft radius
+	Green Essence
+(Jade)
+	Healing-touch: restore hit points to a single target
+	Growth: cause a plant to grow rapidly
+	Tree-summon: summon a tree to fight for you for d6 rounds
+	Nature-wrath: cause all plants within 30ft to attack enemies
+	Gray Essence
+(Obsidian)
+	Shadow-step: teleport to any location within sight
+	Shadow-form: transform into a shadow
+	Shadow-cloak: become invisible to all within 30ft
+	Shadow-possession: take control of a single target for d6 rounds
+	Purple Essence
+(Amethyst)
+	Death-touch: deal damage equal to your level to a single target
+	Age: cause a single target to age rapidly
+	Revert: turn back time for a single target to a previous state
+	Time-loop: create a time loop for d6 rounds
+	Red Essence
+(Ruby)
+	Fireball: launch a ball of fire at a single target
+	Fire-wall: create a wall of fire in a 20ft radius
+	Inferno: ignite all enemies within 30ft
+	Firestorm: ignite all enemies within 60ft and create a storm of fire
+	White Essence
+(Diamond)
+	Light: create a bright light in a 20ft radius
+	Purify: remove all curses and diseases from a single target
+	Holy-radiance: emit a holy radiance in a 30ft radius that damages undead and demons
+	Mass-purification: remove all curses and diseases from all allies within 60ft
+	
+
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

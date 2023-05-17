@@ -1,0 +1,458 @@
+﻿	Dominus grants you complete control over warfare, allowing you to lead armies and command battles with ease.
+	+40
+	Dominus creates massive armies to fight by your side.
+	+45
+	Dominus grants you the ability to predict and anticipate the movements and strategies of your enemies, allowing you to outmaneuver and defeat them.
+	+50
+	Dominus grants you god-like powers of war and battle, allowing you to conquer and dominate any enemy.
+	________________
+
+
+
+
+
+
+
+
+
+
+Furnos, the God Wolf
+Presence: Battle, Bitter Winter
+- Miracles of Furnos-
+Commonly used miracles for Furnos’ devotees.
+Battle Rage
+CH: 35
+Furnos grants the blessing of fury and savagery. You and all allies within 20 ft gain a +20% bonus to all Checks related to hand-to-hand combat, for d6 x 10 minutes.
+Biting Blizzard
+CH: 25
+Furnos calls down a brutal blizzard. Target a 40ft area(r) within short range, each turn it inflicts d6 as a Damage Roll to deal 1 Wound to all within from its ice and cold, this lasts d6 rounds.
+Furnos’ Axe
+CH: 20
+Furnos bestows his cruel, frozen blade. A target in short range gains a wicked battle axe for d6 rounds, which inflicts 2d6 as a Damage Roll to deal 2 Wounds & inflicts d6 Pain.
+Ice in the Veins
+CH: 25
+Furnos forbids you from feeling pain. You ignore Pain Conditions for d6 hours.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	Furnos whispers in your ear, offering a small piece of advice on battle and bitter winter.
+	+5
+	Furnos creates temporary fury and savagery in you, granting you a bonus to hand-to-hand combat.
+	+10
+	Furnos creates a brutal blizzard to ravage your enemies.
+	+15
+	Furnos creates a wicked battle axe for you.
+	+20
+	Furnos creates the ability to ignore pain in you.
+	+25
+	Furnos transforms you into a fierce wolf, granting you the abilities of a fierce predator
+	+30
+	Furnos creates an aura of bitter winter around you, causing your enemies to suffer from the cold and ice.
+	+35
+	Furnos grants you complete control over the bitter winter, allowing you to manipulate the elements and create blizzards at will.
+	+40
+	Furnos creates an entire region to be plagued by freezing temperatures and harsh winter storms.
+	+45
+	Furnos grants you the ability to see through the eyes of wolves, allowing you to gain insight and knowledge from their perception and instincts.
+	+50
+	Furnos grants you god-like powers of battle and bitter winter, allowing you to conquer any enemy and survive in the harshest of conditions.
+	
+
+
+
+
+
+
+
+Minera, the God Tonic
+Presence: Alchemy & Charity
+- Miracles of Minera-
+Commonly used miracles for Minera’s devotees.
+Alms for the Wounded
+CH: 20
+Minera grants good health to the wounded. A target within short range gains 2 Wounds & loses d6 Bleed, Pain, or Trauma Conditions.
+Find the Source
+CH: 20
+Minera commands an illness to tell you its origin. Ask any disease a question, and make a Quarrel with 3d6 as your Hits against your target to determine the accuracy of the answer.
+Minera’s Gift
+CH: 20
+Minera cures a potent disease. Target someone within short range and Quarrel with 3d6 as your Hits against any disease affecting them.
+Plague Mask
+CH: 25
+Minera forbids disease from infecting you. You cannot gain a disease for d6 x 10 minutes, and if something tries to infect you, make a Quarrel with 2d6 as your Hits against it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	Minera whispers in your ear, offering a small piece of advice on health and charity.
+	+5
+	Minera creates temporary good health in you, allowing you to heal and recover faster.
+	+10
+	Minera creates healing potions and tonics for you to use in battle.
+	+15
+	Minera creates temporary protection against disease and poison for you.
+	+20
+	Minera creates the ability to heal and care for others in you, granting them temporary health and vitality.
+	+25
+	Minera transforms you into a gentle angel, granting you the abilities of a healer and a caretaker.
+	+30
+	Minera creates the power of charity and kindness to ravage your enemies, causing them to suffer from guilt and regret.
+	+35
+	Minera grants you complete control over health and healing, allowing you to cure any illness or injury with ease.
+	+40
+	Minera creates a healing aura around you, allowing you and your allies to recover faster and heal better.
+	+45
+	Minera grants you the ability to see the emotional and spiritual well-being of others, allowing you to understand and help them better.
+	+50
+	Minera grants you god-like powers of health and healing, allowing you to heal any injury or illness and bring people back from the brink of death.
+	
+
+
+
+
+
+
+
+Nox, the God Tomb
+Presence: Dreams & The Dead
+- Miracles of Nox-
+Commonly used miracles for Nox’s devotees.
+Resting Veil
+CH: 15
+Nox halts the dead. A target within short range stops, inflicting 2d6 Stun Conditions to an undead target or preserves a corpse for a day.
+Sleeping Omens
+CH: 20
+Nox grants you a messenger raven that travels in the resting world. Send a short message to someone you know, who is asleep. Make a Quarrel with 2d6 as your Hits against distance for the clarity of the message.
+The Fear of Nox
+CH: 15
+Nox blesses you with the face of death. You terrorize everyone looking at you within short range. Make a Quarrel with 2d6 as your Hits against them or they rout.
+Tomb Quake
+CH: 25
+Nox smites the most hated undead. Target a 20ft area(r) within short range, and inflict 3d6 as a Damage Roll to deal 3 Wounds to all undead within the area.
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	Nox whispers in your ear, offering a small piece of advice on death and the afterlife.
+	+5
+	Nox creates temporary protection against death and injury for you.
+	+10
+	Nox creates deadly and powerful weapons for you, capable of inflicting fatal blows.
+	+15
+	Nox creates temporary invisibility and stealth for you, allowing you to move unseen and unheard.
+	+20
+	Nox creates the power to control and manipulate the dead in you, allowing you to summon and command undead creatures.
+	+25
+	Nox transforms you into a powerful undead being, granting you the abilities of a vampire or a lich.
+	+30
+	Nox creates the power of death to ravage your enemies, causing them to suffer from fatal wounds and illnesses.
+	+35
+	Nox grants you complete control over death and the afterlife, allowing you to decide the fate of the souls of the dead.
+	+40
+	Nox creates an army of the undead to fight by your side.
+	+45
+	Nox grants you the ability to see the memories and emotions of the dead, allowing you to understand and manipulate them.
+	+50
+	Nox grants you god-like powers of death and the afterlife, allowing you to control life and death and bring people back from the dead.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thonjun, the God Whale
+Presence: Storms & The Sea
+- Miracles of Thonjun-
+Commonly used miracles for Thonjun’s devotees.
+All Aboard!
+CH: 15
+Thonjun flash floods an area, which swiftly sinks back into the ground. Target a 20ft area(r) within short range and cause all to fall Prone.
+Eye of the Storm
+CH: 30
+Thonjun forbids a storm or winds from affecting an area. Create a 20ft area(r) within short range that cannot be affected by storm or wind for d6 x 10 minutes.
+Sunken Curse
+CH: 25
+Thonjun curses a target’s lungs to fill with seawater. A target within short range is Air DeprivedL for d6 rounds and Quarrel with 2d6 as your Hits if someone tries to save them.
+Unsinking
+CH: 30
+Thonjun forbids a target from sinking. A target within short range will not sink, if something tries to force it under, make a Quarrel with 2d6 as your Hits against the target. This lasts for d6 x 10 minutes.
+________________
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	
+
+	+5
+	
+
+	+10
+	
+
+	+15
+	
+
+	+20
+	
+
+	+25
+	
+
+	+30
+	
+
+	+35
+	
+
+	+40
+	
+
+	+45
+	
+
+	+50
+	
+
+	________________
+
+
+
+
+
+
+
+
+Ynir, the God Harvest
+Presence: Fertility & Tamed Nature
+- Miracles of Ynir-
+Commonly used miracles for Ynir’s devotees.
+Ready for Harvest
+CH: 15
+Ynir commands a crop to grow. Target a 20ft area(r) within short range and cause all plant life to fully grow, this inflicts d6 Entangle Conditions to anyone in the area.
+The Rite of Ynir
+CH: 30
+Ynir grants a great blessing. Target someone within short range and Reroll a randomly selected Genetic Trait, someone may only gain this benefit once. Cast at a rate of one day per Check.
+Calm the Cattle
+CH: 20
+Ynir settles the mind of a beast. Target a domesticated animal, they will not rout for any reason for d6 x 10 hours.
+Ear to the Ground
+CH: 20
+Ynir allows you to commune. Ask any tamed land or animal a question, and make a Quarrel with 3d6 as your Hits against your target to determine the accuracy of the answer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	Ynir whispers in your ear, offering a small piece of advice on agriculture and harvest.
+	+5
+	Ynir creates temporary fertility in the soil and good weather conditions for your crops to grow.
+	+10
+	Ynir creates powerful tools for farming and harvesting.
+	+15
+	Ynir creates temporary strength and endurance for manual labor.
+	+20
+	Ynir creates the power to control and manipulate plants and crops in you, allowing you to summon and command them.
+	+25
+	Ynir transforms you into a powerful agrarian being, granting you the abilities of a dryad or a harvest spirit.
+	+30
+	Ynir creates the power of the harvest to ravage your enemies, causing them to suffer from famines and crop failures.
+	+35
+	Ynir grants you complete control over agriculture and harvest, allowing you to manipulate the growth of plants and control the yields of crops.
+	+40
+	Ynir creates an army of plants and crops to fight by your side.
+	+45
+	Ynir grants you the ability to see the growth and health of plants, allowing you to understand and manipulate them.
+	+50
+	Ynir grants you god-like powers of agriculture and harvest, allowing you to control the growth of plants and ensure bountiful harvests.
+	
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Melee Weapons - I
+Weapon
+	Enc
+	Price
+	Dmg
+	Qualities & Flaws
+	–Yeoman Weapons–
+	Bear Spear
+	2
+	20s
+	MB+6
+	Brutal 2, Two-Handed
+	Improvised Weapon
+	1
+	-
+	MB+4
+	Superficial
+	Hatchet
+	1
+	10s
+	MB+2
+	Infight
+	Mallet
+	1
+	10s
+	MB+3
+	Stun 1, Superficial
+	Pitchfork
+	3
+	20s
+	MB+5
+	Brutal 1, Reach 1, Superficial, Two-Handed
+	Scythe
+	3
+	20s
+	MB+5
+	Brutal 1, Inaccurate 1, Reach 1, Two-Handed
+	Woodcutter’s Axe
+	3
+	20s
+	MB+5
+	Brutal 1, Rend 1, Inaccurate 1, Two-Handed
+	–Dockside Weapons–
+	Club
+	1
+	10s
+	MB+4
+	Stun 1
+	Crowbar
+	1
+	20s
+	MB+6
+	Brutal 2, Inaccurate 1
+	Knife
+	0

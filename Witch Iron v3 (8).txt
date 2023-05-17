@@ -1,0 +1,507 @@
+﻿* Determine severity of the Injury with your Net Damage: (Weapon Dmg + Net Hits) - (AV+RB).
+- Injuries: Arms & Legs-
+	†
+	Location: 1-3, Hand
+	†
+	Location: 4-7, Forearm
+	†
+	Location: 8-10, Upper Arm
+	1+
+	Bruised, Pain 1
+	1+
+	Bruised, Pain 1
+	1+
+	Bruised, Pain 1
+	2+
+	Bashed, Disarmed
+	2+
+	Battered, Disarmed
+	2+
+	Beaten, Disarmed
+	3+
+	Twisted Wrist, Trauma 1
+	3+
+	Extended Elbow, Trauma 1
+	3+
+	Tendon Sprain, Trauma 1
+	4+
+	Nerve Struck, Pain 2
+	4+
+	Nerve Struck, Pain 2
+	4+
+	Nerve Struck, Pain 2
+	5+
+	Hairline Fracture, Trauma 2
+	5+
+	Hairline Fracture, Trauma 2
+	5+
+	Hairline Fracture, Trauma 2
+	6+
+	Transfixed, Pain 1|Bleed 1
+	6+
+	Transfixed, Pain 1|Bleed 2
+	6+
+	Transfixed, Pain 1|Bleed 2
+	7+
+	Broken Carpal, Trauma 3
+	7+
+	Broken Ulna, Trauma 3
+	7+
+	Broken Humerus, Trauma 3
+	8+
+	Hacked, d4+1 Lost Fingers
+	8+
+	Torn Artery, Bleed 3
+	8+
+	Ripped Artery, Bleed 4
+	9+
+	Mangled, Lost Hand‡Bleed 2
+	9+
+	Rent, Lost Forearm‡ Bleed 3
+	9+
+	Maimed, Lost Arm‡Bleed 4
+	10+
+	Severed, Lost Hand|Bleed 3
+	10+
+	Split, Lost Forearm|Bleed 4
+	10+
+	Severed, Lost Arm|Bleed 5
+	†
+	Location: 1-3, Foot
+	†
+	Location: 4-7, Shin
+	†
+	Location: 8-10, Thigh
+	1+
+	Bruised, Pain 1
+	1+
+	Bruised, Pain 1
+	1+
+	Bruised, Pain 1
+	2+
+	Bashed, Fall Prone
+	2+
+	Battered, Fall Prone
+	2+
+	Beaten, Fall Prone
+	3+
+	Twisted Ankle, Trauma 1
+	3+
+	Extended Knee, Trauma 1
+	3+
+	Tendon Sprain, Trauma 1
+	4+
+	Nerve Struck, Pain 2
+	4+
+	Nerve Struck, Pain 2
+	4+
+	Nerve Struck, Pain 2
+	5+
+	Hairline Fracture, Trauma 2
+	5+
+	Hairline Fracture, Trauma 2
+	5+
+	Hairline Fracture, Trauma 2
+	6+
+	Transfixed, Pain 1|Bleed 1
+	6+
+	Transfixed, Pain 1|Bleed 2
+	6+
+	Transfixed, Pain 1|Bleed 2
+	7+
+	Broken Tarsal, Trauma 3
+	7+
+	Broken Tibia, Trauma 3
+	7+
+	Broken Femur, Trauma 3
+	8+
+	Hacked, d4+1 Lost Toes
+	8+
+	Torn Artery, Bleed 3
+	8+
+	Ripped Artery, Bleed 4
+	9+
+	Mangled, Lost Foot‡Bleed 2
+	9+
+	Mutilated, Lost Shin‡Bleed 3
+	9+
+	Maimed, Lost Leg‡Bleed 4
+	10+
+	Severed, Lost Foot|Bleed 3
+	10+
+	Severed, Lost Shin|Bleed 4
+	10+
+	Severed, Lost Leg|Bleed 5
+	*Requires Healing to Remove ‡ Requires Surgery to Remove
+
+
+
+
+Non-Living Limbs
+Do not suffer Bleed or Pain Conditions.
+________________
+Mutation
+Your Corruption sinks in, and your body mutates. When you gain a Mutation, reduce your Willpower by 10 & remove all Corruption. Should your Willpower ever be reduced to zero, you become an NPC as a servant of the Dark Gods.
+Mutations are not listed with stats; they grant whatever benefit makes sense, which could be a +2 Hits to a type of Check, d6 as your Hits for special abilities, weapons, armor, movement, or anything else you can think of.
+
+
+- Mutation Table-
+	d10
+	Primary Mutations*
+	d10
+	Living Thing
+	d10
+	Body Part
+	1
+	Living Thing + Body Part
+	1
+	Wolf or other predatory life
+	1
+	Arm
+	2
+	Element + Body Part
+	2
+	Chameleon or other reptiles
+	2
+	Blood
+	3
+	Miscellaneous + Body Part
+	3
+	Crow or other avians
+	3
+	Head
+	4
+	Living Thing + Function
+	4
+	Goat or other mammals
+	4
+	Leg
+	5
+	Element + Function
+	5
+	Rat or other vermin
+	5
+	Organ
+	6
+	Miscellaneous + Function
+	6
+	Snake or other poisonous life
+	6
+	Skin
+	7
+	Extra Body Part
+	7
+	Spider or other arthropods
+	7
+	Tail
+	8
+	Backup Function
+	8
+	Tree or other large plants
+	8
+	Tentacle
+	9
+	Detachable Living Thing
+	9
+	Vine or other small plants
+	9
+	Torso
+	10
+	Element Control
+	10
+	Fish or other aquatic life
+	10
+	Wings
+	d10
+	Element
+	d10
+	Function
+	d10
+	Miscellaneous
+	1
+	Acidic
+	1
+	Armor
+	1
+	Amorphous
+	2
+	Demonic
+	2
+	Cloud
+	2
+	Bladed
+	3
+	Electric
+	3
+	Form
+	3
+	Blinding
+	4
+	Ethereal
+	4
+	Growth
+	4
+	Corrupting
+	5
+	Fiery
+	5
+	Movement
+	5
+	Detachable
+	6
+	Freezing
+	6
+	Musk
+	6
+	Gaseous
+	7
+	Metallic
+	7
+	Projection
+	7
+	Massive
+	8
+	Stony
+	8
+	Resistance
+	8
+	Reflective
+	9
+	Undead
+	9
+	Sense
+	9
+	Regenerating
+	10
+	Verdant
+	10
+	Weapon
+	10
+	Vampiric
+	*Roll First, then roll bolded tables.
+________________
+Madness
+Your Stress overcomes you, and your mind snaps. When you gain a Madness, reduce your Willpower by 10 & remove all Stress. Should your Willpower ever be reduced to zero, you become an NPC as a servant of the Dark Gods.
+Madnesses are not listed with stats; they instead grant whatever benefit makes sense, which could be a +1 Hit to a type of Check, d6 as your Hits for special abilities, weapons, armor, movement, or anything else you can think of.
+
+
+- Madness Table-
+	d10
+	Primary Madnesses*
+	d10
+	Living Thing
+	d10
+	Emotion
+	1
+	Living Thing + Emotion
+	1
+	Wolf or other predatory life
+	1
+	Aggression
+	2
+	Object + Emotion
+	2
+	Chameleon or other reptiles
+	2
+	Anxiety
+	3
+	Miscellaneous + Emotion
+	3
+	Crow or other avians
+	3
+	Craving
+	4
+	Living Thing + Awakening
+	4
+	Goat or other mammals
+	4
+	Disgust
+	5
+	Object + Awakening
+	5
+	Rat or other vermin
+	5
+	Enjoyment
+	6
+	Miscellaneous + Awakening
+	6
+	Snake or other poisonous life
+	6
+	Excitement
+	7
+	Must have a Pet Living Thing
+	7
+	Spider or other arthropods
+	7
+	Fear
+	8
+	Imagined Awakening
+	8
+	Tree or other large plants
+	8
+	Obsession
+	9
+	Permanent Emotion
+	9
+	Vine or other small plants
+	9
+	Rage
+	10
+	Object Addiction
+	10
+	Fish or other aquatic life
+	10
+	Sadness
+	d10
+	Object
+	d10
+	Awakening
+	d10
+	Miscellaneous
+	1
+	Alcohol
+	1
+	Aura
+	1
+	Battle
+	2
+	Drug
+	2
+	Communication
+	2
+	Darkness
+	3
+	Explosive
+	3
+	Control
+	3
+	Death
+	4
+	Fire
+	4
+	Creation
+	4
+	Future
+	5
+	Food
+	5
+	Destruction
+	5
+	Huge
+	6
+	Lightning
+	6
+	Evaluation
+	6
+	Light
+	7
+	Stone
+	7
+	Healing
+	7
+	Noise
+	8
+	Water
+	8
+	Illusion
+	8
+	Past
+	9
+	Weapon
+	9
+	Shield
+	9
+	Silent
+	10
+	Wood
+	10
+	Sight
+	10
+	Tiny
+	*Roll First, then roll bolded tables.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mutation Examples
+Rat Tail: You grow a long furless tail; this changes your center of balance, giving you a natural hunched posture. Gain +1 Hit to Skulk Checks.
+
+
+Undead Organ: Your heart necrotized, but it can keep beating by siphoning off nearby Defiled Winds. Whenever you suffer Poison, receive one less.
+
+
+Corrupting Wings: You sprout two large porous wings, a green dust-like substance comes from the pores with every wing flap. Gain a 30ft flight speed & inflict 1 Corruption to all within short range (30ft).
+
+
+Goat Armor: Two ram horns erupt from your skull, and you can no longer wear headgear. Gain 2 AV to your head & whenever you suffer, Stun receives one less.
+
+
+Acidic Projection: Your neck engorges with a large acid-filled pouch. You can spit acid up to short range (30ft) to reduce AV by 2 & inflict d6+RB as a Damage Roll.
+
+
+Amorphous Form: Your body begins to bend and bubble with tumorous growths, replacing some bones. You may use d6 as your Hits for any Check to contort, squeeze or grapple.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Madness Examples
+Tree Excitement: You are excited by sunlight & rain as if they nourish you like a tree. Gain +10 Speed in direct sunlight or rain.
+
+
+Fire Sadness: You become somber around an open flame, making you introspective. Gain +1 Hit to Checks to sway others while near an open flame.
+
+
+Future Disgust: You are disgusted when witnessing societal “progress”. You can convince like-minded folk to follow a plan that returns things to the good ol’ days using d6 as your Hits.
+
+
+Fish Healing: You unlock the ability to dramatically enhance healing by applying fresh fish skin to a wound. You may heal 1 Wound using fresh fish skin.
+
+
+Alcohol Aura: You unlock the ability to exude an aura of intoxication around you. You may numb or intoxicate all within short range (30 ft), inflicting or removing 1 Pain.
+
+

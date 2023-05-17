@@ -1,0 +1,363 @@
+﻿You have the ability to communicate with and understand the behavior of animals. You may use this ability to gain information about your surroundings, or to sway the behavior of animals in a desired direction. As an action, you may spend a number of Hits equal to the desired effect to communicate with animals within a radius of your level x 10 feet. You may use this ability to perform the following effects:
+Hits
+	Example
+	1
+	Gain information about your surroundings through animal senses.
+	2
+	Influence the behavior of animals, causing them to flee or attack a target.
+	3
+	Summon a group of animals to your aid, allowing you to choose a number of animals equal to your level to assist you in battle.
+	________________
+
+
+Nature's Fury
+You are able to tap into the power of nature and use it to unleash a powerful attack against enemies or other targets. This could involve specialized training or equipment, or the ability to naturally harness the power of nature. As an action, you may spend a number of Hits equal to the desired effect to unleash a nature's fury attack. You may use this ability to perform the following effects:
+Hits
+	Example
+	1
+	Burst of wind to knock enemies off balance, knocking them prone.
+	2
+	Burst of water to douse flames and soak enemies, dealing 1d6+1 Dmg.
+	3
+	Bolt of lightning to strike a target, dealing 1d6+2 damage and Stun.
+	4
+	Cause an earthquake to shake the ground, all within a Tier mile radius to be knocked prone.
+	Branch Limb
+You have a limb that has been transformed into a living, flexible branch. This could involve the use of magic or other supernatural means to transform the limb, or the ability to naturally tap into the character's connection to the natural world. As an action, you may spend a number of Hits equal to the desired effect to use your branch limb for the following effects:
+Hits
+	Example
+	1
+	Use the branch limb to perform a Deed, such as disarming an opponent or knocking them prone.
+	2
+	Use the branch limb to entangle or constrict a target, dealing 1d6+1W damage each round until they escape.
+	3
+	Use the branch limb to form a protective barrier, granting a +1 Soak bonus
+	________________
+
+
+Flesh-Sculptor
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+Robustness, Quickness, Intelligence, Willpower
+
+
+
+
+Lineage Talents:
+Field Dress*
+You can cut flesh and saw bone with lightning speed. You may exact Monster Qualities at a rate of one round per Quality instead of min, or implant Qualities at a rate of one  min per Quality instead of one hour. You may do this three times, each session.
+Heathen’s Limb
+Selecting from the finest cadavers you could get a hold of, you’ve improved on the gods’ creation in every way.
+
+
+This new limb replaces any of your limbs present or missing while retaining all normal functions. You may add +2 Hits to any Check once per limb, each session. Future lost limbs may be replaced by spending one month.
+Surgical Precision*
+You’re an expert anatomist. You may double your Hits for a successful Check to extract or graft Monster Qualities. You do this three times, each session.
+________________
+Homunculus*
+You can meld flesh into a masterpiece. You may create a creature with 5 Hit Dice & any extracted Monster Qualities. This takes one year to grow & you may only keep one viable homunculus alive at the same time.
+Sculpt Flesh
+You may remove quality from a monster and apply them to someone. You Make a Heal Check to extract Monster Qualities, extracting 1 + 1 Quality for every +2 Hits, taking 10 min per Quality, using up the body. You may make a Heal Quarrel against the monster’s ability to surgically graft them to someone, applying zero for a failure, two for a victory at a cost, or five qualities for a victory, taking 1 hour per Quality.
+
+
+* If you cannot extract and implant Monster Qualities, learn Sculpt Flesh instead.
+________________
+Unlocking the Flesh- Sculptor
+The Flesh-Sculptor Lineage is added to your Line if you do one of the following tasks:
+* Prove yourself to a Hospital.
+* Die in defense of or conquer a Hospital.
+Project, Hospital
+You Line begins forming a league of soot-covered inventors & blacksmiths. Gain one of the following benefits for each Rating, which may stack:
+* Your Descendants start with +5% to Intelligence
+* Your Descendants start with +1 Heal, Research, or Navigation Skill Specialization
+* Your Descendants start with 500 silver.
+
+
+Any Descendant with the Flesh-Sculptor Lineage may add to the Hospital. Use the following table for the cost of each Rating of the Hospital & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	
+
+	2
+	2,000
+	Mediocre
+	3
+	4,000
+	Modest
+	4
+	8,000
+	Adequate
+	5
+	16,000
+	Stately
+	6
+	32,000
+	Imposing
+	7
+	64,000
+	Venerable
+	8
+	128,000
+	Majestic
+	9
+	256,000
+	Grandiose
+	10
+	512,000
+	
+
+	
+
+________________
+
+
+Hospital Names
+d6
+	Name
+	1
+	
+
+	2
+	
+
+	3
+	
+
+	4
+	
+
+	5
+	
+
+	6
+	
+
+	Project, Workshop
+A Descendant can dedicate their life to a project for their lineage, a Flesh-Sculptor .
+
+
+T
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies, use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Inquisitor
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Magic Detection
+You possess the extraordinary ability to sense the presence of magic, even when it is hidden or disguised. This skill could be acquired through the use of specific herbs or potions, or it could be a natural ability that you possess. When you use your magic detection ability, you gain a +20% bonus to all checks related to detecting magic and are able to sense the presence of magic within a radius of 50 feet.
+Witch-Hunting Techniques
+You possess the ability to interfere with the flow of magic, making it more difficult for spellcasters to cast spells or for magical effects to take hold. This could involve a special attack or ability that directly targets magical energy. When you use your witch-hunting techniques, you may make a special attack against a spellcaster, rolling an additional d10 and adding your hits to the damage dealt. If the attack hits, the target must make a casting check with a -20% penalty.
+Interrogation Techniques
+You have received training in a variety of techniques designed to question suspects and witnesses in order to gather information and uncover the truth. These techniques could include psychological tactics, body language analysis, and the ability to read people's emotions and reactions. When you use your interrogation techniques, you gain a +20% bonus to all checks related to gathering information and uncovering the truth, and you are able to extract information from even the most resistant of suspects.
+________________
+Magic Resistance
+You have developed a natural resistance to magic, allowing you to better withstand spells and other magical effects. This resistance could take the form of a damage reduction ability or a flat immunity to certain types of magic. When you use your magic resistance ability, you gain a +10% bonus to all checks related to resisting magic, and you are able to reduce the damage dealt by magical attacks by an additional d10.
+Null Limb
+Your limb has been imbued with the power to channel magical energy, allowing you to perform magical attacks. It may also possess magical properties that allow it to disrupt or absorb magic, making it an effective weapon against spellcasters. When you use your null limb ability, you may make a special attack against a spellcaster, rolling an additional d10 and adding your hits to the damage dealt. If the attack hits, the target must make a casting check with a -20% penalty, and any magical effects currently affecting the target are nullified.
+________________
+Musician
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Ballad of Blood
+You can perform a special song that channels your magical power into a destructive force, causing physical damage and wounds to enemies. As an action, you may perform the ballad and choose a number of targets within earshot up to your Intelligence modifier. Each target must make a Willpower check, and if they fail, they take 1d10+Intelligence modifier in physical damage and suffer 1 wound. The ballad can also have other harmful effects, such as disorienting or impairing enemies or causing them to suffer from hallucinations or other mental effects.
+Charismatic Presence
+You have a natural charisma and charm that allows you to easily persuade and influence others through your words and actions. When interacting with non-hostile NPCs, you gain a +2 bonus to Persuasion checks.
+Inspiring Music
+You can perform a special song or ballad that is capable of causing enemies to suffer from a cursed fate. This requires a special performance check, and if successful, the curse takes effect on a number of targets within earshot up to your Charisma modifier. The curse could potentially have a range of effects, such as causing enemies to suffer from bad luck or misfortunes, or causing them to suffer from hallucinations or other mental effects
+________________
+
+
+Curse of the Banshee
+You have the ability to unleash a powerful curse upon your enemies through the power of your music. As an action, you may perform the curse of the banshee, targeting a single enemy within earshot. The curse causes the enemy to suffer a -2 penalty to all checks and attacks, and causes them to take an additional 1d6 damage from all sources. The curse lasts for 1d4 rounds and may be used once per encounter.
+Musical Limb
+Your musical limb is a powerful tool that allows you to channel the power of music into destructive or mesmerizing effects. As an action, you may use your musical limb to unleash a powerful sound wave that causes all enemies within a 10 foot radius to make a Fortitude save or be stunned for 1 round. Additionally, your musical limb grants you a +2 bonus to all Perform checks. The musical limb may be used once per encounter.
+________________
+
+
+Noble
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Legal Immunity
+You live by a different set of rules than the common rabble. You may freely ignore any legal trouble once per rank, each session. You also increase the severity of punishment by one step per Rating when someone without Legal Immunity commits a crime against you (i.e. simple touch would be harassment at Rating 1, assault at Rating 2, & attempted murder at Rating 3)
+Call the Mob
+You may gather a Small Mob of 3 Hit Die Peasants, from a town square, increasing the Scale of the Mob by one per rank. You may only have one Mob gathered at a time.
+Wealth and Resources
+You are able to leverage your wealth and resources to achieve your goals, whether through bribery, blackmail, or other forms of influence. You gain a +10% bonus to Persuasion checks when using your wealth and resources as leverage, and You have a network of influential and wealthy individuals who are willing to assist you in your endeavors. You may use this ability to gain access to rare or hard-to-find items, or to gain information or favors from others.
+________________
+
+
+Courtly Intrigue
+You are skilled in the art of court politics, able to navigate the complex and dangerous world of noble society with charm, wit, and cunning. You gain a +10% bonus to Deception and Persuasion checks when interacting with nobles or officials, and you can spend an action to gather information or form alliances in order to further your own goals.
+Gilded Limb
+You have a limb that has been magically enhanced and adorned with intricate, ornate gold or silver decorations. This limb can take the form of an arm, leg, or weapon (such as a sword or shield) and grants you a +1 bonus to Intimidation checks due to its impressive appearance. In addition, the gilded limb gives you a +1 bonus to your Soak value, representing its ability to deflect or absorb incoming damage.
+________________
+Occultist
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+Finesse, Intelligence, Willpower, Personality
+
+
+
+
+
+
+
+
+Lineage Talents:
+Bound Limb
+After a forbidden ritual you’ve reached across the veil and bound a demon as a limb.
+
+
+This new limb replaces any of your limbs present or missing while retaining all normal functions. You may send this limb to perform a task as a 3 HD Small-Sized Demon once per limb, each session. Future lost limbs may be replaced by spending one month.
+Permanence*
+You can rip through the veil and bend reality to your will. You gain +1 Magick, & may cause a Magick effect within short range to have a permanent duration. You then suffer a Cataclysmic Miscast that cannot be mitigated. You may have one permanent effect at once, with a new effect replacing the old one.
+________________
+Sacrifice*
+You can sate the Wicked Winds with blood and pain. You gain +1 Magick, & you may inflict up to three Bleed Conditions to yourself, or a willing or helpless intelligent creature within 5 ft, when you cast a spell. If you do this you may either gain +1 Magick per Condition inflicted, or ignore a number of Miscast steps equal to the Conditions inflicted.
+The Void’s Gift
+You’ve stared into the void and saw who’s staring back. You gain +1 Magick, & control over The Defiled Wind, You are able to memorize IB Spells & may cast Spells from The Defiled Wind that are recorded in Magick Tomes (One Enc, consumed by casting).
+Twist Fate
+The void readily twists your fate, for a cost. Reroll any of your Checks or a roll on any Table, regardless of who  it affects three times, each session. You receive a Corruption each time you use this.
+Red-Hand
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Devil’s Right Hand
+You bear a dark stain on your right hand, it whispers the hidden art of dealing death. You may automatically inflict Wounds to an opponent with your weapon, as an action & gain d6 Stress. If this deals a Critical Injury roll a d6 + the Wounds of your weapon for the result. You may do this once per rank, each session.
+False Faces
+You are a master of disguise and have developed a perfect alter ego. You gain one unique identity per rank, it is impossible to see through this disguise so for all intents and purposes this is a completely different individual. You may change identity as an action as long as no one is looking at you.
+Juggling Death
+Your hands move with such speed and finesse you can easily wield multiple weapons at the same time. You may wield one extra weapon without the Two-Handed Flaw, per rank. When you successfully attack, roll Damage for each weapon individually.
+________________
+
+
+Shadow Step
+You have mastered the art of shadow magic, allowing you to teleport short distances in an instant. You may use this ability once per day as a free action, allowing you to instantly move to any location within a range of 50 feet. You may also use this ability to enter or exit the shadows, allowing you to effectively disappear and reappear at will. Additionally, you gain a bonus of +10% to all stealth checks when using this ability.
+Poison Limb
+You have a limb (such as an arm or leg) that has been imbued with poisonous properties, allowing you to lethally or incapacitate enemies through physical contact. You may use your Poison Limb to deliver poison to your enemies as an action. The poison has a range of 10 feet and can affect up to two enemies within range. On a successful hit, the target takes 1d6 poison damage
+________________
+Revenant
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Bloodless
+Your body sustains itself on cold hatred. Whenever you suffer Bleed Conditions, receive one less Condition per rank.
+Deathless
+Not even death can stop you from avenging your grudges. As long as you have an unresolved grudge you will return to life d6 hours after your death, no matter what state your body is in. If you die of old age gain one year of Lifespan. You will return once per rank.
+Relentless
+Your sole purpose is the pursuit of grudges. As long as you are actively pursuing a grudge you ignore a Basic Need. When you gain a new Rating roll on the following table (rerolling duplicates):
+- Random Basic Need-
+	1- Food
+	3- Sleep
+	2- Light
+	4- Water
+	________________
+
+
+Unyielding
+You will not stop, and you will never yield. At zero Wounds you ignore all Conditions and Critical Injuries for Rating rounds, at which point all ignored effects at hold.
+Regenerative Limb
+Your limb has the ability to regenerate lost tissue and organs, allowing you to quickly recover from injuries and wounds. You may spend an action to regenerate a lost limb or organ, and you gain a +2 bonus to Soak checks for each regenerated limb or organ.
+________________
+Unlocking the Rune-Carver
+The Revenant Lineage is added to your Line if you do one of the following tasks:
+* Die in defense of or conquer a Necropolis.
+* Avenge an ancestor and bring their killer to a Necropolis.
+Project, Necropolis
+Your Line begins construction of a Necropolis. Gain one of the following benefits for each Rating, which may stack:
+* Your Descendants start with +5% to Robustness
+* You Descendants start with +1 Hardship, Labor or Imbibe Skill Specialization
+* Your Descendants start with 500 silver.
+
+
+Any Descendant with the Revenant Lineage may add to the Necropolis. Use the following table for the cost of each Rating of the Necropolis & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	The Graveyard
+	2
+	2,000
+	The Crypt
+	3
+	4,000
+	The Mausoleum
+	4
+	8,000
+	The Corpse Garden
+	5
+	16,000
+	The Tombs
+	6
+	32,000
+	The Catacombs
+	7
+	64,000
+	The Tomb City
+	8
+	128,000
+	City of the Unforgotten
+	9
+	256,000
+	The Necropelix
+	10
+	512,000
+	The City of the Dead
+	________________
+
+
+Necropolis Names
+d6
+	Name

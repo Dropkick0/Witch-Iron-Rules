@@ -1,0 +1,470 @@
+﻿	Silver Cost
+	Scale
+	1
+	1,000
+	Cutpurse Hideout
+	2
+	2,000
+	Street Gang
+	3
+	4,000
+	Underground Network
+	4
+	8,000
+	Smuggler's Guild
+	5
+	16,000
+	Crime Syndicate
+	6
+	32,000
+	Shadow Guild
+	7
+	64,000
+	Dark Brotherhood
+	8
+	128,000
+	The Whisperers
+	9
+	256,000
+	The Conspiracy
+	10
+	512,000
+	The Dark Council
+	________________
+
+
+Syndicate Names
+d6
+	Name
+	1
+	The Black Hand
+	2
+	The Shadow Syndicate
+	3
+	The Night's Watch
+	4
+	The Invisible Guild
+	5
+	The Enigma Syndicate
+	6
+	The Dark Cabal
+	Project, Network
+A Descendant can dedicate their life to a project for their lineage, a Shadow establishes a network of connections and resources.
+
+
+First, you may steal from another project, gaining 25% of the cost of that project’s tier. Second, you may gain one contact per Tier that can make a check for you at 70% with +3 Hits; these contacts are only good for one job.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Witch
+Lineage Abilities
+Gain +10% to the following Abilities:
+Agility, Willpower, Personality, Luck
+
+
+
+
+
+
+Lineage Talents:
+Circle of Power*
+You’ve learned a dark rite that allows you to tap into the power of the dark gods. Gain +1 Magick and you may spend an action to create a Circle of Power. While within this circle, you may reroll a single d10 on each casting check.
+Fueled by Corruption*
+You have become adept at channeling the corrupting power of the dark gods into your spells. Gain +1 Magick and you may add a bonus to a Casting Check equal to your Corruption conditions.
+Wicked Limb
+Your contact with the dark gods has granted you a wicked limb, twisted and corrupted by their power. This new limb replaces any of your existing limbs or any that are missing, and retains all of its normal functions. You may use this limb once per session to absorb the power of the Wicked Winds, allowing you to ignore a Miscast. Future lost limbs may be replaced by spending one month in dark rituals.
+________________
+Insidious Insights*
+You’ve been granted insights from the Dark Gods. You may add your Tier in +Hits to a writing for a new Spell. For each Spell written this way suffer one Stress, +one for each previous Insidious Insight.
+Mastering Wickedness
+You have mastered the art of harnessing the power of the Wicked Winds. Gain +1 Magick and control over a random Wicked Wind. You can memorize IB spells and may cast spells from your Wicked Wind that are recorded in dark magick tomes (one Enc, consumed by casting).
+- Random Wicked Wind-
+	1- The Blue Wind
+	5- The Gray Wind
+	2- The Brown Wind
+	6- The Purple Wind
+	3- The Gold Wind
+	7- The Red Wind
+	4- The Green Wind
+	8- The White Wind
+	*If you don’t control a Wicked Wind, Learn Mastering Wickedness instead
+
+
+
+
+Unlocking the Witch
+The Witch Lineage is added to your Line if you do one of the following tasks:
+* Join a coven by earning their trust and gifting them a magical artifact.
+* Die in defense of or conquer a Coven.
+Project, Coven
+Your Line gathers a coventry. Gain one of the following benefits for each Rating, which may stack:
+* Your Descendants start with +5% to Willpower
+* You Descendants start with +1 Steel, Survival or Husbandry Skill Specialization
+* Your Descendants start with 500 silver.
+
+
+Any Descendant with the Witch Lineage may add to the Coven. Use the following table for the cost of each Rating of the Coven & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	Hermit's Den
+	2
+	2,000
+	Small Coven
+	3
+	4,000
+	Witch's Circle
+	4
+	8,000
+	Coven of Practitioners
+	5
+	16,000
+	Witch's Council
+	6
+	32,000
+	Regional Coventry
+	7
+	64,000
+	Elders' Council
+	8
+	128,000
+	Conclave of Ancients
+	9
+	256,000
+	Secret Order of The Witch
+	10
+	512,000
+	The Great Coven
+	________________
+
+
+Coven Names
+d6
+	Name
+	1
+	The Moonlit Circle
+	2
+	The Sisterhood of the Wild
+	3
+	The Circle of the Elements
+	4
+	The Sacred Grove
+	5
+	The Order of the Eight
+	6
+	The Circle of the Sun
+	Project, Stone Circle
+A Descendant can dedicate their life to a project for their lineage, a Witch prepares a stone circle for rituals and spellcasting.
+
+
+This stone circle gives you a % chance of replacing the current wind with the Refined Winds, which are more powerful and pure. Failure to use the stone circle gives you the Defiled Winds, which are polluted and corrupt.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Workhorse
+Lineage Abilities
+Gain +10% to the following Abilities:
+Muscle, Robustness, Finesse, Willpower
+
+
+
+
+
+
+
+
+Lineage Talents:
+Beefy Body
+Your body is larger and stronger than average, allowing you to take more punishment and carry heavier loads. You gain a +5 bonus to your Max Enc and a +2 bonus to your Soak.
+Extraordinaire
+You can perform feats of extraordinary strength and toughness, such as tackling a horse or surviving torture, without making a check but suffer 2 Stress Conditions as a result.
+Iron Bars
+You have replaced your feeble flesh and bone with a more durable alternative. This new limb replaces any of your existing limbs or any that are missing, and retains all of its normal functions. You can break an object of similar size and hardness to an oak door without making a check once per limb, each session. Lost limbs can be replaced by spending one month.
+________________
+Herculean Deeds
+You are capable of incredible feats of strength, leaving broken bodies and destroyed furniture in your wake. When you make a successful attack, you may spend hits to add an additional effect to the attack.
+Hits
+	Example
+	Can Break
+	1
+	Chuck d4 x 5ft, +2 dmg
+	Windows
+	2
+	Toss d4+1 x 5ft, +4 dmg
+	Table
+	3
+	Throw d4+2 x 5ft, +6 dmg
+	Door
+	4
+	Hurl d4+3 x 5ft, +8 dmg
+	Wood Wall
+	6
+	Launch d4+4 x 5ft, Kill
+	Tree
+	Wind Up
+You have mastered the art of wielding a weapon with exceptional force. You gain +1 Attack, and can spend a round telegraphing your attack to gain an additional d6E for Injury Rolls.
+________________
+
+
+Unlocking the Workhorse
+The Workhorse Lineage is added to your Line if you do one of the following tasks:
+* Join a Club by passing a trial of strength & toughness.
+* Die in defense of or conquer a Club.
+Project, Club
+You Line begins construction of a clubhouse. Gain one of the following benefits for each Rating, which may stack:
+* Your Descendants start with +5% to Robustness
+* You Descendants start with +1 Hardship, Labor or Imbibe Skill Specialization
+* Your Descendants start with 500 silver.
+
+
+Any Descendant with the Workhorse Lineage may add to the Club. Use the following table for the cost of each Rating of the Club & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	Local Pub
+	2
+	2,000
+	Workingman's Tavern
+	3
+	4,000
+	Gym and Bar
+	4
+	8,000
+	Spikeball Club
+	5
+	16,000
+	Elite Brawl Pub
+	6
+	32,000
+	Champion’s Training Hall
+	7
+	64,000
+	Spikeball Stadium
+	8
+	128,000
+	Olympic Stomping Grounds
+	9
+	256,000
+	The Spikeball Mecca
+	10
+	512,000
+	The Mountaintop
+	________________
+
+
+Club Names
+d6
+	Name
+	1
+	The Rusty Anchor
+	2
+	The Iron Tankard
+	3
+	The Strongman's Pub
+	4
+	The Powerhouse
+	5
+	The Champion's Den
+	6
+	The Muscle Mansion
+	Project, Monument
+A Descendant can dedicate their life to a project for their lineage, a Workhorse builds a monument to their strength and endurance..
+
+
+The monument can take the form of a statue, a tower, or any other structure that reflects the Workhorse's strength and endurance. It serves as a symbol of the Workhorse's legacy, and can be visited by other members of the Workhorse Lineage to pay their respects and draw inspiration from the Workhorse's achievements.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+Advancement
+XP for Silver: Gain one xp per one silver spent.
+Burning Time
+Time: One Week per One xp.
+Deepen bonds with your Line, training your Descendent. Your next Descendent gains 1xp for every week spent this way.
+Indulging Vices
+Time: One Week per 500s
+Luxuriate in life's pleasures, finding solace in your vices. Make a Check related to your chosen vice, and lose one Stress for every one Hit on this Check.
+Legacy Projects
+Time: One Week per 500s.
+Set your legacy in stone. See your Decedent’s Lineages for Projects.
+Crafting
+Time: One Week + One Day per Research Point
+Bring your ideas to life with research and prototyping. See New Creations.
+Trading
+Time: One Day per 50s or One Week per 500s.
+Source or sell items, negotiating prices with every transaction. This may be done at its cost, or you may wager up to 50% of its cost with a Coerce Check. Positively changing its price with success or negatively changing its price with failure.
+Training
+Time: Three Months per Tier
+Focused practice in your field. Each Tier:
+* Learn one Talent from either of your Lineages,
+* Gain ten Advancement Points
+* Gain three Skill Specializations (with a maximum rating based on your Tier)
+Spend Adv. points to increase Ability scores by +5 for a cost equal to its Ability Bonus, with an initial -2 discount (min 0) for each first-time purchase per tier.
+- Training Table-
+Tier
+	Total XP
+	Tier Titles
+	Total Known Talents
+	Advancement Points
+	Skill Specialization
+	Max Skill Specializations
+	1st
+	400
+	Dreg
+	One
+	Ten
+	Three +One’s
+	One
+	2nd
+	1,200
+	Apprentice
+	Two
+	Ten
+	Three +One’s
+	One
+	3rd
+	2,800
+	Adept
+	Three
+	Ten
+	Three +One’s
+	Two
+	4th
+	6,000
+	Journeyman
+	Four
+	Ten
+	Three +One’s
+	Two
+	5th
+	12,400
+	Professional
+	Five
+	Ten
+	Three +One’s
+	Two
+	6th
+	25,200
+	Expert
+	Six
+	Ten
+	Three +One’s
+	Three
+	7th

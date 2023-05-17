@@ -1,0 +1,416 @@
+﻿	1
+	The Silent City
+	2
+	The Netherrealm
+	3
+	The Halls of Judgement
+	4
+	The Final Repose
+	5
+	The Garden of Hate
+	6
+	The Inscribed Sanctum
+	Project, The Grudge
+A Descendant can dedicate their life to a project for their lineage, a Revenant prepares a place for the dead so their grudges can live on.
+
+
+This Necropolis becomes a place for the Revenant to enact their Grudges, allowing them to call upon the spirits of their ancestors to aid them in battle. The Revenant may call upon one ancestor per Rating to fight alongside them, each with a strength and skill equal to the Revenant's Rating. These ancestors may only be called upon once per combat and must be summoned again after each use.
+
+
+This project is a Descendant's life's work and is only completed when that Descendant dies; use the following table for the cost of each Rating and which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Rune-Carver
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+Lineage Talents:
+Rune Carving
+You have the ability to craft and imbue objects or weapons with powerful magical runes, giving them special abilities or properties. You are able to carve these runes with expert precision, granting a +20% Bonus to any Crafting or Blacksmithing Checks made to carve runes. In addition, you are able to imbue a single weapon or object with a single rune, giving it a +4 Hits bonus when used in combat or other checks.
+Rune Magic
+You have the ability to tap into the power of magical runes, allowing you to channel magical energy through them for a variety of effects. You are able to use this ability to cast spells or perform magical feats, using your Tier as a Bonus to any Magic Checks made. In addition, you are able to imbue a single weapon or object with a single magical rune, giving it a +2 Damage bonus when used in combat.
+Rune Reading
+You have the ability to read and interpret magical runes, allowing you to uncover hidden secrets and gain insights into the future. You are able to use this ability to decipher ancient texts or understand the meanings of mysterious symbols, using your Tier as a Bonus to any Research or Divination Checks made.
+________________
+Rune Warding
+You have the ability to create powerful magical wards or barriers using runes, protecting yourself or others from harm. You are able to use this ability to erect powerful defenses, granting yourself or an ally a +2 Armor bonus when the ward is active. In addition, you are able to imbue a single weapon or object with a single ward rune, giving it a +2 Soak bonus when used to defend against attacks.
+Carver’s Limb
+You have a limb that has been imbued with the ability to create or carve magical runes, giving it a variety of powerful abilities. You are able to use this limb to carve runes into objects or weapons, granting a +20% Bonus to any Crafting or Blacksmithing Checks made to carve runes. In addition, you are able to imbue a single weapon or object with a single rune simply by touching it with the Carver’s Limb, giving it a +4 Hits bonus when used in combat or other checks.
+________________
+Unlocking the Rune-Carver
+Become initiated into a clan by completing a task that demonstrates your mastery of runes.
+* Become initiated into a clan by returning a powerful runic item to them.
+* Die in defense of or conquer a Clan.
+Project, Clanhall
+Your Line begins construction of a Rune-Carving workshop. Gain one of the following benefits for each Rating, which may stack:
+* Your Descendants start with +5% to Robustness
+* You Descendants start with +1 Hardship, Labor or Imbibe Skill Specialization
+* Your Descendants start with 500 silver.
+
+
+Any Descendant with the Rune-Carver Lineage may add to the Clanhall. Use the following table for the cost of each Rating of the Clanhall & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	Apprenticeship Workshop
+	2
+	2,000
+	Modest Clanhall
+	3
+	4,000
+	Journeyman's Workshop
+	4
+	8,000
+	Respected Clanhall
+	5
+	16,000
+	Master's Workshop
+	6
+	32,000
+	Hall of the Rune-Masters
+	7
+	64,000
+	Grand Master's Workshop
+	8
+	128,000
+	Conclave of Runecrafters
+	9
+	256,000
+	Secret Order of Rune-Carvers
+	10
+	512,000
+	The Runic Domain
+	________________
+
+
+Clanhall Names
+d6
+	Name
+	1
+	The Runehold
+	2
+	The Sigilspire
+	3
+	The Scriptorium
+	4
+	The Glyph Keep
+	5
+	The Etched Hall
+	6
+	The Inscribed Sanctum
+	Project, Master Rune
+A Descendant can dedicate their life to a project for their lineage, a Rune-Carver prepares to craft a powerful and unique runic item.
+
+
+This Master Runestone is a flawless, magical runestone that can be imbued with a single, powerful magical effect that can be activated by a devotee of your Clan with Faith equal to the Tier of the runestone. This runestone can only be used once and must be recharged in your Clan's hall before it can be used again.
+
+
+This project is a Descendant's life's work and is only completed when that Descendant dies; use the following table for the cost of each Rating and which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Veteran
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lineage Talents:
+Combat Training
+You have mastered a wide range of combat techniques and styles, allowing you to excel in any combat situation. You gain a +10% Bonus to all Combat Checks, and your Attacks deal +1 Damage Dice. In addition, you are able to use any weapon or armor without penalty.
+Psychological Warfare
+You are skilled at using psychological tactics and techniques to demoralize and intimidate your enemies in battle. Whenever you make a Quarrel Check, you may choose to inflict a Stress Condition on your opponent. If you succeed, they suffer an additional -10% Penalty to all Checks until the end of the encounter.
+Combat Experience
+You have seen and survived countless battles, and have learned how to use this experience to your advantage. You gain a bonus to all combat-related Checks equal to your Tier, and can use this bonus to reroll any failed Check once per session. Additionally, you can use your combat experience to anticipate and react to enemy attacks, granting you a bonus to your Defense equal to your Tier.
+________________
+Combat Tactics
+You are a master of battlefield strategy and tactics, and can use this knowledge to lead your allies to victory. You may spend an action to issue a tactical command to your allies, granting them a bonus to their next Check equal to your Tier. Additionally, you can use your tactical knowledge to anticipate enemy movements and actions, granting you a bonus to your Initiative equal to your Tier. You may use this ability once per session.
+Veteran’s Limb
+You have a limb imbued with the knowledge and skills acquired through years of combat and survival. This limb grants you a +10% Bonus to all Survival and Medical Checks, and allows you to provide medical treatment and repair equipment with ease. In addition, the limb enhances your physical strength and speed, allowing you to perform feats of physical prowess with ease.
+________________
+Unlocking the Veteran
+The Veteran Lineage is added to your Line if you do one of the following tasks:
+* Become a veteran by serving in a military campaign.
+* Die in defense of or conquer a Regiment.
+Project, Regiment
+Your Line begins to recruit and train soldiers Gain one of the following benefits for each Rating, which may stack:
+* Your Descendants start with +5% to Robustness
+* You Descendants start with +1 Hardship, Labor or Imbibe Skill Specialization
+* Your Descendants start with 500 silver.
+
+
+Any Descendant with the Veteran Lineage may add to the Regiment. Use the following table for the cost of each Rating of the Regiment & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	Local Military Outpost
+	2
+	2,000
+	Field Camp
+	3
+	4,000
+	Battalion Barracks
+	4
+	8,000
+	Regimental Base
+	5
+	16,000
+	Divisional Compound
+	6
+	32,000
+	Strategic Command Center
+	7
+	64,000
+	Military Fortress
+	8
+	128,000
+	High Command
+	9
+	256,000
+	Imperial Headquarters
+	10
+	512,000
+	The War Room
+	________________
+
+
+Regiment Names
+d6
+	Name
+	1
+	The Iron Lions
+	2
+	The Steel Wolves
+	3
+	The Bronze Bears
+	4
+	The Black Blades
+	5
+	The Golden Griffons
+	6
+	The Death Heads
+	Project, Memorial
+A Descendant can dedicate their life to a project for their lineage, a Veteran constructs
+
+
+A Memorial to honor the fallen soldiers of their Military Unit. This monument allows any Descendant with the Veteran Lineage to call upon the spirits of the fallen to fight alongside them in battle, adding +2 Hits per Rating to their attack roll.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800
+	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Warden
+Places of Interest: R
+Lineage Abilities
+Gain +10% to the following Abilities:
+F
+
+
+
+
+
+
+Lineage Talents:
+Hunting
+You are able to track enemies or prey with exceptional skill, using your understanding of their movements and behavior to predict their actions. Your tracking abilities allow you to add a +10% Bonus to all Perception Checks made to follow tracks, and you are able to use your Tracking abilities to add +2 Hits to all Attacks made against enemies or prey that you have been tracking.
+Camouflage
+You are able to blend into your surroundings with ease, using your knowledge of camouflage and stealth to avoid detection. Your Camouflage abilities allow you to add a +10% Bonus to all Stealth Checks made to avoid detection, and you are able to use your Camouflage abilities to add +2 Hits to all Attacks made against enemies that are unaware of your presence.
+Hunter’s Limb
+You have a limb that has been imbued with the skills and abilities of a skilled hunter. This could involve the use of specialized training or equipment to imbue the limb with these skills and abilities, or the ability to naturally tap into the character's accumulated knowledge and expertise. As an action, you may use your Hunter's Limb to make a ranged attack with a bonus of +2 Hits. This attack has a range of 60ft and deals 2d6+2W damage. In addition, if this attack hits, you may choose to apply the Bleed 2 Condition to the target. Future lost limbs may be replaced by spending one month
+________________
+Marksman
+You are an expert sharpshooter, able to use ranged weapons with exceptional accuracy and speed. Your Marksman abilities allow you to add a +10% Bonus to all Attacks made with ranged weapons, and you are able to take down enemies at long range with ease, gaining a +20% Bonus to your Damage Roll when attacking from over 60 feet away.
+Traps and Snares
+You are able to set and disarm traps and snares with ease. You may make a Traps and Snares Check with a +20% Bonus, adding your Tier in Hits to the check result. If successful, you are able to set a trap or snare that will trigger on the next creature or object that passes within 5ft x your Tier of the trap. The trap or snare will deal Damage equal to your Tier in Hits to the target. You may also make a Traps and Snares Check with a +10% Bonus, adding your Tier in Hits to the check result to disarm any traps or snares within 5ft x your Tier.
+________________
+Unlocking the Warden
+The Warden Lineage is added to your Line if you do one of the following tasks:
+* Become initiated into a rangers guild by completing a difficult wilderness mission
+* Die in defense of or conquer a Ranger Guild.
+Project, Ranger Guild
+Your Line begins construction of a ranger guildhall. Gain one of the following benefits for each Rating, which may stack:
+* Your Descendants start with +5% to Robustness
+* You Descendants start with +1 Hardship, Labor or Imbibe Skill Specialization
+* Your Descendants start with 500 silver.
+
+
+Any Descendant with the Warden Lineage may add to the Warden Guild. Use the following table for the cost of each Rating of the Warden Guild & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Scale
+	1
+	1,000
+	Small Outpost
+	2
+	2,000
+	Wilderness Lodge
+	3
+	4,000
+	Patrol Station
+	4
+	8,000
+	Watchtower
+	5
+	16,000
+	Ranger Barracks
+	6
+	32,000
+	Wilderness Keep
+	7
+	64,000
+	Ranger Fortress
+	8
+	128,000
+	The Green Keep
+	9
+	256,000
+	Ranger Citadel
+	10
+	512,000
+	The Eternal Vigil
+	________________
+
+
+Warden Guild Names
+d6
+	Name
+	1
+	The Bloody Arrows
+	2
+	The Wild Hunt
+	3
+	The Guardian Wolves
+	4
+	The Sentinel Woodsmen
+	5
+	The Boundary Keepers
+	6
+	The Pathfinders
+	Project, Warden's Creed
+A Descendant can dedicate their life to a project for their lineage, a Warden prepares the Warden's Creed.
+
+
+The Warden's Creed is a code of conduct and set of principles that guides the behavior of a Warden. It includes a commitment to protecting nature and upholding justice. Any Descendant with the Warden Lineage may recite the Creed to gain a +1 bonus to any roll made for a task related to nature or justice.
+
+
+This project is a Descendant’s life’s work & is only completed when that Descendant dies; use the following table for the cost of each Rating & which takes one week per 500s.
+
+
+Rating
+	Silver Cost
+	Rating
+	Silver Cost
+	1
+	400
+	6
+	12,800

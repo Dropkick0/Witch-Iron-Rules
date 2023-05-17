@@ -1,0 +1,507 @@
+﻿	2
+	800
+	7
+	25,600
+	3
+	1,600
+	8
+	51,200
+	4
+	3,200
+	9
+	102,400
+	5
+	6,400
+	10
+	204,800
+	________________
+
+
+Campaign Options:
+Apocalypse
+It is the End Times, the Dark God’s machinations will come to fruition, and the setting will meet its doom. The group should decide what form this inevitable end will take and how much time is left, typically 100, 200, or 300 years. Use the following table for ideas, or create your own.
+
+
+- The End Times-
+	1
+	Their Champion gathers an army, clad in black, and butchers the land.
+	2
+	The Barrier to their realm is sundered, spilling forth countless horrors.
+	3
+	The Hidden Empire beneath our feet reveals itself and conquers.
+	4
+	Corruption claims the hearts of the people, and society eats itself alive.
+	5
+	A Great Divinity falls, and the impact of their body scourges the land
+	6
+	The First Lich awakes, cursing every corpse to rise as a frenzied servant.
+	7
+	The Seven Seals are broken, each one bringing doom to the land.
+	8
+	The Sun is snuffed out, life no longer grows, and madness rules.
+	9
+	The Dance of Death grips the land, spreading to all who witness.
+	10
+	The Wilds claim vengeance, using tides of beast-kin, ship-sized uber-wolves, and the wrathful forest.
+	
+
+________________
+
+
+Is This the End?
+If the Apocalypse is not halted, this is the natural end of the campaign. However, if the group decides they would like to continue, I offer two potential paths:
+1. Continue? Your Lines survive into the new Post-Apocalyptic landscape.
+2. New Game+ Your Lines are sent back to begin again, starting with any two Lineages you’ve unlocked
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Monster Qualities
+These may be applied to any monster, as needed.
+(Scale) Mob
+This is a group of monsters and not an individual, gain the highest benefit from the following table.
+Mob Scale
+	Number of Units
+	Max Wounds
+	Attack Multiplier
+	Small
+	5+ Units
+	x5
+	x2
+	Medium
+	20+ Units
+	x20
+	x4
+	Large
+	50+ Units
+	x50
+	x6
+	Huge
+	100+ Units
+	x100
+	x8
+	
+
+Mobs also follow these special rules.
+* Attack Multiplier: After a Damage Roll, multiply the inflicted Wounds (i.e. 1 x4 is 4 dealt Wounds).
+* A Mob may attack all opponents within their normal engagement range & ignore Overwhelm.
+* When dealt an area attack, multiply all Wounds inflicted by 1+1 for every 5ft(r). (i.e x3 for 10ft(r))
+* A Mob’s scale is reduced when its Max Wounds are equal to a lower scale value (i.e. small at x5).
+(Scale) Size
+This monster is on a different scale than your average combatant. Their stats change in the following ways, depending on the scale.
+Scale
+	Max Wounds
+	Damage Roll & Soak
+	Tiny
+	1
+	-10 (Min 1)
+	Small
+	2
+	-5 (Min 1)
+	Large
+	4
+	+5
+	Huge
+	5
+	+10
+	Gigantic
+	6
+	+20
+	
+
+
+
+
+
+
+
+
+
+Feeble
+This Monster is Feeble, modify their Stats by the Following:
+Ability
+	Dmg, Soak & +Hits
+	-20%
+	-2 to all
+	Dreg
+This Monster is a Dreg, modify their Stats by the Following:
+Ability
+	Dmg, Soak & +Hits
+	-10%
+	-1 to all
+	Strong
+This Monster is Strong, modify their Stats by the Following:
+Ability
+	Dmg, Soak & +Hits
+	+10%
+	+1 to all
+	Expert
+This Monster is an Expert, modify their Stats by the Following:
+Ability
+	Dmg, Soak & +Hits
+	+20%
+	+2 to all
+	Master
+This Monster is a Master, modify their Stats by the Following:
+Ability
+	Dmg, Soak & +Hits
+	+30%
+	+3 to all
+	________________
+
+
+
+Monster Flaws
+Ashwood (Condition, Rating)
+This Monster suffers (Rating) (Conditions) when they come in contact with Ashwood.
+Demon Root (Condition, Rating)
+This Monster suffers (Rating) (Conditions) when they come in contact with Demon Root.
+Fire (Condition, Rating)
+This Monster suffers (Rating) (Conditions) when damaged by fire.
+Innocents
+This Monster cannot harm an innocent soul.
+Lodestones (Condition, Rating)
+This Monster suffers (Rating) (Conditions) when they come in contact with Lodestones.
+Meteoric Iron (Condition, Rating)
+This Monster suffers (Rating) (Conditions) when they come in contact with Meteoric Iron.
+Obsessed (Target)
+This Monster will focus only on obtaining (Target) it when in its presence.
+Religious Symbols
+This Monster cannot approach a religious symbol wielded by a true worshiper.
+Running Water
+This Monster cannot cross running water.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Silver  (Condition, Rating)
+This Monster suffers (Rating) (Conditions) when they come in contact with Silver.
+Stupid
+This Monster must roll d6 if there is no adjacent ally each round, on a 1-2 stand & drool, & on a 3-6 act normal.
+Sunlight (Condition, Rating)
+This Monster suffers (Rating) (Conditions) when they come in contact with Sunlight.
+Tell-Tale Sign (Sign)
+This Monster leaves (Sign) behind, making it easily tracked.
+Terrified (Target)
+This Monster runs from terror when it sees (Target).
+Threshold
+This Monster cannot enter a structure without being invited unless they own it.
+Witch Iron (Condition, Rating)
+This Monster suffers (Rating) (Conditions) when they come in contact with Witch Iron.
+________________
+
+
+The Bestiary
+Monster Stat Block Layout
+Each entry has the following information:
+Ability
+	The Ability used for any Check or Quarrel by the Monster.
+	Attacks
+	The max number of Attacks and max number of Counters it has.
+	Speed
+	The Monster’s movement in feet.
+	Wound
+	The Monster’s Max Wounds, it suffers either a Critical Injury or Sudden Death at zero.
+	Soak
+	What the Monster uses for Soaking Damage, with AV in ().
+	Damage Roll
+	What the Monster uses for inflicting Damage Rolls.
+	Dealt Wounds
+	How many Wounds the Monster inflicts on a Damage Roll.
+	Specialized
+	The +Hit bonus for select types of Checks.
+	Inept
+	The % penalty for select types of Checks.
+	MQ
+	Its Monster Qualities
+	Flaw
+	Its Monster Flaw.
+	
+
+________________
+
+
+
+
+Monster Parts
+In the event that someone wants to sell a Monster for its parts, use the following table as guidelines.
+HD or Ability %
+	Worth in Silver
+	Up to 2 HD or 33%
+	25
+	Up to 4 HD or 44%
+	50
+	Up to 6 HD or 55%
+	100
+	Up to 8 HD or 66%
+	250
+	Up to 10 HD or 77%
+	500
+	Up to 12 HD or 88%
+	1,000
+	Up to 14 HD or 99%
+	2,500
+	Up to 16 HD or 105%
+	5,000
+	Up to 18 HD or 115%
+	10,000
+	Up to 20 HD or 125%
+	25,000
+	Monster Encumbrance
+	1 Flesh =
+	1 Enc Slot
+	________________
+
+
+Basilisk
+Ability
+	55%
+	Attacks
+	2
+	Speed
+	30
+	Wound
+	4
+	Damage Roll
+	Dealt Wounds
+	Soak
+	12 (2)
+	d6 +10
+	2
+	Specialized
+	            * Slow Stalking
+* Quick Pouncing
+* Vigilant Guarding
+	+2 Hits
+	Inept
+	            * Out Lasting
+* Outside its Territory
+* Fighting Disease
+	-11%
+	Qualities
+	Large Sized*
++5 Damage & Soak, has 4 Max Wounds.
+Infravision
+Can see heat.
+Petrifying Eye
+Telegraph for 1 round then turns an opponent that can see it to stone.
+	Flaw
+	Terrified (Chickens)
+Runs from terror when it sees Chickens.
+	*Already Modified
+Sump Kraken
+Ability
+	44%
+	Attacks
+	2
+	Speed
+	20
+	Wound
+	5
+	Damage Roll
+	Dealt Wounds
+	Soak
+	11 (2)
+	d6 +14
+	2
+	Specialized
+	            * Marsh Camouflage
+* Wrestling
+* Finding Prey
+	+2 Hits
+	Inept
+	            * Chasing Prey
+* Being on Dryland
+* Being in Deepwater
+	-11%
+	Qualities
+	Huge Sized*
++10 Damage & Soak, has 5 Max Wounds.
+Amphibious
+Can breathe air & water
+Bog Sight
+Can “see” vibrations.
+Many Tentacles
+Each attack can strike all within 15ft.
+Drowner
+All attacks inflict Entangle 2 and can move enemies anywhere within 15ft.
+	Flaw
+	Demon Root (Pain 2)
+Suffers Pain 2 when in contact with Demon Root.
+	*Already Modified
+________________
+Krieg Beast
+Ability
+	55%
+	Attacks
+	2
+	Speed
+	30
+	Wound
+	4
+	Damage Roll
+	Dealt Wounds
+	Soak
+	13 (3)
+	d6 +10
+	2
+	Specialized
+	            * Establishing Dominance
+* Hunting
+* Dismemberment
+	+2 Hits
+	Inept
+	            * Climbing
+* Fighting on its Back
+* Killing its own
+	-11%
+	Qualities
+	Large Sized*
++5 Damage & Soak, has 4 Max Wounds.
+Krieg Bite
+Can make another attack if it inflicts Wounds, once per round.
+Vicious Claws
+Attacks have Rend 1 & Bleed 1.
+Long Stride
+Can move up to 3 x Speed with a Sprint action.
+	Flaw
+	Tell-Tale Sign (Armor Quills)
+Leaves Armor Quills behind, making it easily tracked.
+	*Already Modified
+Wood Draken
+Ability
+	80%
+	Attacks
+	3
+	Speed
+	30
+	Wound
+	6
+	Damage Roll
+	Dealt Wounds
+	Soak
+	35 (7)
+	d6 +28
+	3
+	Specialized
+	            * Desolation
+* Defending the Wood
+* Being One with the Wood
+	+4 Hits
+	Inept
+	            * Diplomacy
+* Denying Treasure
+* Ignoring the Wood
+	-10%
+	Qualities
+	Gigantic Sized*
++20 Damage & Soak, has 6 Max Wounds.
+Flight
+Can fly 90 ft per round.
+Infravision
+Can see heat.
+Immunity
+Immune to Poison
+Draken Breath (Poison)
+Telegraph for 2 rounds then target a 60ft area(r) within Extreme range, all within the area suffer Poison 20.
+Draken Weapons
+Attacks have Rend 5, inflict Poison 3 & inflicts 3 Wounds
+	Flaw
+	Fire
+
+
+	*Already Modified
+Umfell Man
+Ability
+	50%
+	Attacks
+	2
+	Speed
+	30
+	Wound
+	4
+	Damage Roll
+	Dealt Wounds
+	Soak
+	12 (2)
+	d6 +10
+	2
+	Specialized
+	            * Following Simple Orders
+* Brute Strength
+* Blending into Nature
+	+2 Hits
+	Inept
+	            * Independent Thought
+* Creative Interpretation
+* Using Complex Equipment
+	-10%
+	Qualities
+	Large Sized*
++5 Damage & Soak, has 4 Max Wounds.
+Construct
+Immune to Pain, Bleed & Poison.
+Regeneration (Fire)
+Heals 1 Wound per turn, Fire halts.
+	Flaw
+	Lodestones (Stun 1)
+Suffers Stun 1 when in contact with Lodestones.
+	*Already Modified
+Griffon
+Ability
+	60%
+	Attacks
+	2
+	Speed
+	30
+	Wound
+	5
+	Damage Roll
+	Dealt Wounds
+	Soak
+	18 (2)
+	d6 +16
+	2
+	Specialized
+	            * Fighting while Flying
+* Defending their Nest
+* Capturing Prey
+	+3 Hits
+	Inept
+	            * Being in the Water
+* Spotting Traps
+* Killing their Own
+	-10%
+	Qualities
+	Huge Sized*
++10 Damage & Soak, has 5 Max Wounds.
+Flight
+Can fly 120 ft per round.
+Griffon Bite
+Can make another attack if it inflicts Wounds, once per round.

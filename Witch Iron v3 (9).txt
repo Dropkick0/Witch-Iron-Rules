@@ -1,0 +1,454 @@
+﻿Huge Destruction: You unlock the ability to force carts to collapse or create door-sized holes in the ground. You may cause this scale of destruction by suffering 1 Stress.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Magick
+When you want to cast a spell, you must draw upon the power of the Wicked Winds and focus it on your desired effect. Using an action to Cast, roll up to your Magick in d10s. If the result is equal to or greater than the spell’s Casting Hits, it is cast successfully.  If the result exceeds the spell’s CH, you may continue to make Cast Checks in an Extended Check until the spell is cast.
+Curse of the Wicked Winds
+You feel the eldritch energies coiling and twisting inside you, just waiting to be released. You escalate your miscast by one step for each Casting Check rolled after the first. This accumulates until you have cast your spell or ended it prematurely.
+1. Petty Miscast
+2. Great Miscast
+3. Cataclysmic Miscast, adding +5 to the roll on the table for each additional step
+The Apprentice’s Folly
+If all of your dice roll a one, your spell automatically fails, and worse still, you escalate your Miscast by three steps.
+A Slow Death
+If you decide that you do not want to roll your Miscast, then you gain Corruption equal to double the steps of your Miscast.
+Spellcasting Modifiers
+If any effects would hamper speech or movement but not mute or immobilize (i.e., being Deafened), receive a -1 to each casting Check; for every -10%, you would have to Check & -1 per AV of the most armored location.
+________________
+Spontaneous Spells
+The Wicked Winds are a dangerous and malleable force. To create a Spontaneous Spell, begin by making a sentence with one of the three techniques, and combine it with a Domain of a wind you control.
+* “I Create …”
+* e.i. Creating or Summoning
+* “I Purge …”
+* e.i. Destroying or Banishing
+* “I Command …”
+* e.i. Controlling or Transforming
+
+
+Spontaneous casting starts at CH 0; with every ten Hits rolled, you may add effect, using the following table as guidelines.
+- General Guidelines-
+Effect
+	+10 Hits
+	+20 Hits
+	+30 Hits
+	Amount
+	Door
+- sized
+	Horse
+- sized
+	Cart
+- sized
+	Area(r)
+	10ft
+	20ft
+	40ft
+	Bonus/ Penalty
+	+/- 10% or +1 Hits
+	+/- 20% or +2 Hits
+	+/- 30% or +3 Hits
+	Condition
+	d6
+	2d6
+	3d6
+	Duration
+	d6 rounds
+	d6 minutes
+	d6 x 10 min.
+	Harm*
+	d6
+	2d6
+	3d6
+	Heal
+	1 Wound
+	2 Wound
+	3 Wound
+	Intensity
+	Mild
+	Moderate
+	Severe
+	Range
+	Medium
+	Long
+	Extreme
+	Hits for Quarrels
+	d6 as your Hits
+	2d6 as your Hits
+	3d6  as your Hits
+	Targets
+	2
+	4
+	8
+	Hit Dice
+	1
+	3
+	5
+	Ability
+	30%
+	40%
+	50%
+	Grit/Flesh
+	6/9
+	8/12
+	12/15
+	Damage
+	d6+3
+	d6+4
+	d6+5
+	+Hits†
+	+1
+	+1
+	+2
+	*(Rating)d6 for Damage Roll & deal (Rating) Wounds
+†Use for Checks they are specialized in
+Magick Miscasts
+When you roll a Miscast that includes Domain in its description, replace it with one of your Wind’s Domains.
+
+
+
+
+Example: a Magick Eruption would erupt with shards of metal for The Gold Wind, or Anguish would rack you with brutal pinpoints of light for The White Wind.
+
+
+d10
+	-Petty Miscast-
+	d10
+	-Great Miscast-
+	01
+	Foul Magick, for your next Spell, take d6 damage & gain +1 Magick
+	01
+	Corrupt Magick, for your next Spell, take 2d6 damage & gain +2 Magick
+	02
+	Carried Aloft, The spell is delayed d6 rounds.
+	02
+	Anguish, you are racked by Domain, suffer 2 Pain.
+	03
+	Toppled, you buckled under Domain, Fall Prone
+	03
+	Shatter, break anything you’re holding.
+	04
+	Jolted, you drop anything you're holding.
+	04
+	Horrors, your mind is filled with Domain gain 1 Stress.
+	05
+	Switched, the Winds control your Spell and use it unexpectedly (i.e., target someone else).
+	05
+	Reversed, the Winds control your Spell and use it least beneficially (i.e., benefits an enemy).
+	06
+	Discharge, a Domain surge jets from you, all within short range behold you but are unharmed.
+	06
+	Seized, a mischievous Demon controls you for a min and will be actively disruptive without the intent to kill.
+	07
+	Release, you suffer a fierce release of  Domain, take d10 damage or a Condition from this Domain.
+	07
+	Vent, you suffer a violent venting of  Domain, take 2d10 damage or d6 Conditions from this Domain.
+	08
+	Bewitched, a playful Demon controls you for a round and will act childishly.
+	08
+	The Dark Gods Intercept, d6 5 Hit Dice Lesser Demons are summoned
+	09
+	Disjoint, lose 1 Magick until you cultivate for 10 min.
+	09
+	Cut Off, lose 2 Magick until you cultivate for one day.
+	00
+	It’s Worse, roll Great Miscast
+	00
+	It’s Even Worse, roll Cataclysmic Miscast
+	d10
+	-Cataclysmic Miscast-
+	01
+	Wicked Magick, for your next Spell, take 3d6 damage & gain +3 Magick
+	02
+	Overwhelming Torment, you are flooded with unholy visions of Domain, suffer d6 Helpless Conditions.
+	03
+	Warped, an influx of Domain invades your body, suffer d6 Conditions.
+	04
+	Possessed, a malicious Demon controls you for 10 min and will cause maximum destruction at any cost.
+	05
+	Severed, lose 3 Magick until you cultivate for 1 month.
+	06
+	Dismembered, a Limb is violently torn off by Domain. Roll  d6 1-3: Arm, 4-6: Leg; even= left, odd= right.
+	07
+	Explosive Expulsion, roll Great Miscast  all within short range, yourself included, suffer from it, or take 5d6 damage to the head if no one is within short range.
+	08
+	Magick Eruption, your body erupts with a Domain for d6 rounds, and you suffer Stun for that time. During this time, all within short range suffer 2d6 damage or d6 Condition from this Domain each round.
+	09
+	Wicked Tempest, A Domain storm is summoned, causing destruction and hysteria for d6 hours in the local area.
+	00
+	The Dark Gods Answer,  and a Gigantic Sized 15 Hit Dice Greater Demon is summoned.
+	________________
+
+
+Magick-Tainted
+The Wicked Winds leave a taint on their practitioners. Gain one Magick-Taint for every two Spells you learn. Each Magick-Taint is based on a Domain of the Wind.
+________________
+If you roll the same Magick-Taint twice, increase its potency. For example, if you gain a +1 Skill Specialization from a Magick-Taint, it becomes a +2 Skill Specialization.
+
+
+
+
+________________
+The Blue Wind
+Domains: Weather & Fate
+- Spells of The Blue Wind-
+Commonly used spells for Blue Wind practitioners.
+Dramatic Intervention
+CH: 30
+You unleash the Blue Wind's power to intervene on your behalf. With a successful +0% Luck Check, death becomes merely a temporary setback as you miraculously survive and reset your Luck to zero.
+Loathsome Squall
+CH: 25
+You unleash the Blue Wind's fury, summoning a storm that wreaks havoc in a 20ft area within short range. Make a Quarrel with six as your Hits to send objects flying and people tumbling d6 x 5ft away.
+The Doom Curse
+CH: 15
+You curse your target's fate with the Blue Wind's power, causing them to automatically fail a Check of your choice with d6 as their -Hits within d6 x 10 minutes.
+Thunderstroke
+CH: 25
+You unleash the Blue Wind's wrath, calling forth lightning to strike four targets in medium range with 3d6 Damage Roll and deal 3 Wounds.
+Tempest's Touch
+CH: 15
+You imbue your weapon with the power of the Blue Wind, granting it the power to cut through armor as if it were nothing.
+Sky-Watcher
+CH: 15
+You call upon the Blue Wind to guide a bird as your eyes in the sky. For d6 x 10 minutes, you can see through the bird's eyes, turning it sky blue.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+Spontaneous Magick-
+CH
+	Examples
+	+0
+	The wind gusts lightly around you.
+	+5
+	You can manipulate the weather, creating small changes such as light rain or a gentle breeze.
+	+10
+	You can summon a small storm, such as a thunderstorm or a gust of wind.
+	+15
+	You can create powerful winds and storms, such as a tornado or a hurricane.
+	+20
+	You can control the weather at will, creating any type of storm or weather condition you desire.
+	+25
+	You can manipulate fate, causing small coincidences or unlikely events.
+	+30
+	You can influence the fate of others, causing them to have good or bad luck.
+	+35
+	You can control fate, causing specific events or outcomes to happen.
+	+40
+	You can alter destiny, shaping the future as you see fit.
+	+45
+	You can manipulate reality, bending the laws of physics and nature to your will.
+	+50
+	You can bend the fabric of reality itself, creating new worlds and alternate dimensions.
+	________________
+
+
+The Brown Wind
+Domains: Beasts & Savagery
+- Spells of The Brown Wind-
+Commonly used spells for Brown Wind practitioners.
+Feast for Crows
+CH: 30
+The Brown Wind calls a flock of crows. Command  a Large Mob of 1 HD, Tiny Sized crows for d6 rnds. Ability: 30% +1 Hits|Dmg: 4d6+1|Soak: 1
+Feral Javelin
+CH: 20
+The Brown Wind launches a vicious spear. A target within long range takes 3d6 dmg & d6 Bleed Conditions.
+King of Savagery
+CH: 15
+The Brown Wind controls the wild. Target a beast within short range & make a Quarrel with six as your Hits  to issue it a command that it will suicidally follow.
+Shed Skin
+CH: 20
+The Brown Wind unleashes the inner beast. You become a 5 HD, Large Sized beast for d6 x 10 min. Ability: 55% +2 Hits|Dmg: 2d6+10|Soak:10
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	The wind whispers through the trees.
+	+5
+	You can summon small wild animals, such as a mouse or birds.
+	+10
+	You can communicate with and understand the speech of nearby animals.
+	+15
+	You can summon and control groups of wild animals, such as a pack of wolves or a flock of birds.
+	+20
+	You can transform into a wild animal, such as a bear or lion.
+	+25
+	You can curse others to turn them into small animals, such as pigs or rabbits.
+	+30
+	You can summon and control large groups of wild animals, such as a swarm of bees or a herd of elephants.
+	+35
+	You can control and manipulate the wild, shaping and reshaping the natural world as you see fit.
+	+40
+	You can transform into any wild animal, including mythical creatures such as dragons or griffins.
+	+45
+	You can summon entire ecosystems of wild animals, creating a vast and terrifying army.
+	+50
+	You can control and manipulate the very essence of wildness, shaping the world and all living things as you see fit
+	The Gold Wind
+Domains: Metal & Innovation
+- Spells of The Gold Wind-
+Commonly used spells for Gold Wind practitioners.
+Flesh to Iron
+CH: 25
+The Gold Wind transmutes a creature into metal. Target a living creature within short range & make a Quarrel with eight as your hits, or they transform into solid iron.
+Golden Touch
+CH: 20
+The Gold Wind reforges an item to your specifications. You remold an item in your hands with 2d6 RP worth of Weapon or Armor Qualities for d6 x 10 minutes.
+Knight’s Demise
+CH: 20
+The Gold Wind rusts arms & armor. Target a 20ft area(r) within short range and make a Quarrel with six as your hits against all metal in the area, or they rust away.
+Polish the Mind
+CH: 20
+The Gold Wind changes dull thoughts into innovation. A target within short range may Reverse a Check related to creativity within d6 days.
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Spontaneous Magick-
+CH
+	Examples
+	+0
+	The wind rustles through metal objects.
+	+5
+	You can move a small metal object with your mind.
+	+10
+	You can create a small spark or flame.
+	+15
+	You can mold a small amount of metal into a simple shape or form.
+	+20
+	You can summon a weapon made of metal to your hand.
+	+25
+	You can infuse a metal object with electricity, causing it to shock anyone who touches it.
+	+30
+	You can transmute a small object into a different type of metal.
+	+35
+	You can summon a massive weapon made of metal, such as a giant sword or hammer.
+	+40
+	You can control and manipulate metal objects at will, shaping and reshaping them as desired.
+	+45
+	You can transmute entire structures or objects into a different type of metal.
+	+50
+	You can create new and innovative forms of metal, such as a metal that can become as flexible as cloth or as sharp as a razor.
+	________________
+The Green Wind
+Domains: Life & Nature

@@ -1,0 +1,522 @@
+﻿	20s
+	MB+3
+	Brutal 1, Infight, Superficial
+	Knuckledusters
+	0
+	10s
+	MB+2
+	Infight
+	Unarmed
+	0
+	-
+	MB+2
+	Infight, Superficial
+	–Common Weapons–
+	Buckler
+	0
+	20s
+	MB+2
+	Shield 1, Defend 1, Superficial
+	Cutlass
+	1
+	10s
+	MB+4
+	Bleeding 1
+	Dirk
+	1
+	10s
+	d6+MB
+	Infight
+	Falchion
+	1
+	20s
+	d6+MB+2
+	Brutal 2
+	Quarterstaff
+	2
+	20s
+	2d6+MB
+	Defend 1, Stun 1, Two-Handed
+	Side-Sword
+	1
+	20s
+	MB+4
+	Accurate 1, Defend 1
+	–Aristocratic Weapons–
+	Foil
+	1
+	20s
+	MB+4
+	Accurate 2, Superficial
+	Parrying Dagger
+	1
+	10s
+	d6+MB
+	Infight, Defend 1
+	Rapier
+	1
+	40s
+	d6+MB+2
+	Accurate 2, Brutal 2
+	Rondel Dagger
+	1
+	20s
+	d6+MB+1
+	Brutal 1, Infight
+	Saw-Toothed Dagger
+	1
+	20s
+	d6+MB
+	Defend 1, Blade-Trap
+	Dmg: Damage Roll Modifier | W: Inflicted Wounds
+Melee Weapons - II
+Weapon
+	Enc
+	Price
+	Dmg
+	Qualities & Flaws
+	–Battlefield Weapons–
+	Pole Cleaver
+	2
+	30s
+	d6+MB
+	Bleed 1, Rend 1, Two-Handed
+	Bayonet
+	1
+	10s
+	d6+MB+1
+	Brutal 1, Infight
+	Estoc
+	3
+	30s
+	2d6+MB+2
+	Brutal 2, Two-Handed
+	Halberd
+	3
+	50s
+	2d6+MB+1
+	Defend 1, Reach 1, Rend 1, Brutal 1, Two-Handed
+	Horseman’s Pick
+	2
+	20s
+	d6+MB+2
+	Cavalry (Brutal 2, Stun 1)
+	Phalanx Shield
+	3
+	30s
+	d6+MB
+	Shield 3, Defend 1, Superficial
+	Light Lance
+	2
+	60s
+	d6+MB+4
+	Cavalry (Brutal 4, Reach 1)
+	Polehammer
+	3
+	50s
+	2d6+MB+2
+	Brutal 2, Reach 1, Stun 1, Two-Handed
+	Morning Star
+	2
+	30s
+	2d6+MB+3
+	Brutal 3, Stun 1, Two-Handed
+	Pike
+	4
+	30s
+	2d6+MB+1
+	Brutal 1, Reach 2, Two-Handed
+	Round Shield
+	1
+	20s
+	d6+MB
+	Shield 2, Defend 1, Superficial
+	Saber
+	1
+	10s
+	d6+MB
+	Bleed 1
+	Spear
+	2
+	20s
+	2d6+MB+1
+	Brutal 1, Reach 1, Two-Handed
+	War Hammer
+	3
+	30s
+	2d6+MB+4
+	Brutal 4, Stun 1, Inaccurate 1, Two-Handed
+	Zweihander
+	3
+	30s
+	2d6+MB+3
+	Brutal 3, Rend 1, Two-Handed
+	-Tournament Weapons–
+	Arming Sword
+	1
+	10s
+	d6+MB
+	Accurate 1
+	Battle Axe
+	2
+	10s
+	d6+MB
+	Rend 1
+	Crowbill Axe
+	3
+	50s
+	2d6+MB+2
+	Brutal 2, Defend 1, Stun 1, Two-Handed
+	Great Axe
+	3
+	30s
+	2d6+MB+4
+	Brutal 4, Rend 1, Exhaust 1, Two-Handed
+	Heraldic Shield
+	1
+	30s
+	d6+MB
+	Shield 2, Defend 1, Superficial
+	Heavy Lance
+	3
+	80s
+	d6+MB+6
+	Cavalry (Brutal 6, Reach 1), Exhaust 1
+	Long Sword
+	2
+	40s
+	2d6+MB+2
+	Accurate 1, Brutal 2, Defend 1, Two-Handed
+	Mace
+	2
+	10s
+	d6+MB
+	Stun 1
+	Mercy Blade
+	1
+	10s
+	d6+MB+1
+	Brutal 1, Infight
+	Pollaxe
+	3
+	50s
+	2d6+MB+2
+	Defend 1, Rend 1, Brutal 2, Two-Handed
+	Sword-Breaker
+	1
+	10s
+	d6+MB
+	Defend 1, Blade-Trap
+	Dmg: Damage Roll Modifier | W: Inflicted Wounds
+Weapon Qualities
+Accurate (Rating)        RP:2+2
+This weapon gains (Rating) Hits when attacking.
+Area (Rating)        RP:3+3
+This weapon damages all within a (Rating) x 5ft(r).
+Balanced        RP:1
+This weapon allows the wielder to ignore the first Fumble in combat.
+Batter        RP:3
+This weapon grants +4 Hits to any Check to break down doors, walls, etc.
+Bleed (Rating)        RP:3+2
+This weapon inflicts (Rating) Bleed Condition if it deals damage to a location with one or less Armor Value.
+Brutal        RP:2+2
+This weapon grants +(Rating) to Damage Rolls.
+Aflame (Rating)        RP:4+3
+This weapon inflicts (Rating) Aflame Conditions.
+Concealed        RP:4
+This weapon may be treated as having the Brutal 4 Quality if used on a surprised target.
+Defend (Rating)        RP:2+2
+This weapon gains (Rating) Hits when defending.
+Disrupt        RP:2+1
+This weapon can force an opponent back 5ft x (Rating).
+Entangle (Rating)        RP:2+1
+This weapon inflicts (Rating) Entangle Conditions.
+Infight        RP:3
+This weapon may automatically inflict a Damage Roll instead of attacking while grappling.
+Massive        RP:2+2
+This weapon can throw an opponent 10ft x (Rating). However, can only be used by large-sized wielders or larger.
+Multi-shot        RP:3
+This weapon may fire all loaded shots with a single action if it has the Multi-Barrel Quality.
+Pistol        RP:2
+This weapon can attack in melee. (Ranged Only).
+Reach (Rating)        RP:3+3
+This weapon can Engage opponents (Rating) x 5ft + 5ft away. (Melee Only).
+Range (Rating)        RP:0+3
+This weapon fires out to (Range). (Ranged Only)
+Rating
+	Range
+	Rating
+	Range
+	1
+	Short
+(about 30ft)
+	3
+	Long
+(about 90ft)
+	2
+	Medium
+(about 60ft)
+	4
+	Extreme
+(about 120ft)
+	Rend (Rating)        RP:3+2
+This weapon damages (Rating) Armor Value.
+Multi-Barrel (Rating)        RP:2+2
+This weapon may be fired (Rating) +1 times before it needs to reload.
+Shield (Rating)        RP:2+2
+This weapon adds (Rating) Armor Value against damage, when used to defend. It may also be used with Melee to defend against Ranged attacks. You may also negate an attack by breaking this weapon.
+Stun (Rating)        RP:3+2
+This weapon inflicts (Rating) Stun Conditions if it successfully hits the Head.
+Blade-Trap        RP:4
+This weapon may disarm any weapon it successfully defends against.
+Wrap        RP:4
+This weapon can force an opponent Prone.
+Ammo (Type)        RP:-4
+This weapon needs (Type) of ammunition to fire.
+Gunpowder        RP:+7
+This weapon must have Reload and Ammo (Shot & Powder), gaining +1 Damage Dice.
+Cavalry (All Qualities)        RP:-6
+This weapon gains (All Qualities) when attacking with a mounted charge.
+Hazardous        RP:-3
+This weapon strikes its wielder to the primary arm or torso on a Fumble.
+Fragile        RP:-6
+This weapon cannot be used to contest melee rolls and is broken if struck in combat.
+Inaccurate (Rating)        RP:-2-2
+This weapon suffers a (Rating) Hits penalty when attacking.
+Single Use        RP:0
+This weapon can only be used once, gaining +2 Damage Dice or inflicting 5 Conditions.
+Reload (Rating)         RP:-3-3
+This weapon needs to be reloaded after firing, which takes (Rating) rounds.
+Exhaust (Rating)        RP:-3-3
+When you attack with this weapon you suffer (Rating) Fatigue Conditions, except when you Charge.
+Superficial        RP:-4
+This weapon doubles the effective Armor Value, for any hit location it strikes.
+Two-Handed        RP:0
+This weapon requires two hands to wield, gaining +1 Damage Dice.
+________________
+
+
+Ranged Arms- I
+Weapon
+	Enc
+	Price
+	Dmg
+	Range
+	Qualities & Flaws
+	–Frontier Arms–
+	Bolas x2
+	1
+	20s
+	d6+MB
+	Short
+	Entangling
+	Greatbow
+	3
+	90s
+	2d6+MB+4
+	Extreme
+	Accurate 1, Brutal 4, Ammo (Arrow), Reload 1, Two-Handed
+	Longbow
+	2
+	40s
+	2d6+MB+2
+	Long
+	Brutal 2, Ammo (Arrow), Two-Handed
+	Long Rifle
+	3
+	110s
+	3d6+QB+6
+	Extreme
+	Ammo (Shot & Powder), Accurate 1, Brutal 6, Hazardous, Reload 6, Two-Handed
+	Sling Staff
+	2
+	10s
+	2d6+QB
+	Medium
+	Ammo (Bullet), Two-Handed
+	Throwing Axe x4
+	1
+	20s
+	d6+MB+1
+	Short
+	Brutal 1, Rend 1
+	–Common Arms–
+	Blunderbuss
+	2
+	60s
+	3d6+QB+4
+	Short
+	Ammo (Shot & Powder), Area 1, Brutal 4, Hazardous, Reload 1, Two-Handed
+	Bow
+	2
+	10s
+	2d6+MB
+	Medium
+	Ammo (Arrow), Two-Handed
+	Crossbow
+	2
+	20s
+	2d6+QB
+	Long
+	Ammo (Bolt), Reload 1, Two-Handed
+	Dart x4
+	1
+	10s
+	d6+MB+1
+	Short
+	Brutal 1
+	Shortbow
+	1
+	10s
+	2d6+MB
+	Short
+	Ammo (Arrow), Two-Handed
+	Sling
+	0
+	10s
+	d6+QB
+	Short
+	Ammo (Bullet)
+	Whip
+	1
+	10s
+	d6+MB
+	Short
+	Entangle 1
+	–Urban Arms-
+	Crossbow Pistol
+	1
+	10s
+	d6+QB
+	Short
+	Pistol, Ammo (Bolt), Reload 1
+	Hand Cannon
+	1
+	60s
+	2d6+QB+4
+	Short
+	Ammo (Shot & Powder), Brutal 4, Hazardous, Pistol, Reload 2
+	Pistol
+	1
+	30s
+	2d6+QB+2
+	Short
+	Ammo (Shot & Powder), Brutal 2, Hazardous, Pistol, Reload 1
+	Throwing Knife x4
+	1
+	10s
+	d6+MB
+	Short
+	
+
+	Wrist Crossbow
+	1
+	10s
+	d6+QB
+	Short
+	Ammo (Bolt), Inaccurate 1, Pistol
+	Dmg: Damage Roll Modifier | W: Inflicted Wounds
+
+
+- Ranges-
+	Short  (about 30ft)
+	Long (about 90ft)
+	Medium (about 60ft)
+	Extreme (about 120ft)
+	
+
+
+
+
+
+Ranged Arms- II
+Weapon
+	Enc
+	Price
+	Dmg
+	Range
+	Qualities & Flaws
+	–Battlefield Arms–
+	Fire Flask x4
+	1
+	60s
+	d6+QB
+	Short
+	Area 3, Hazardous, Aflame 5, Single Use
+	Javelin x4
+	1
+	10s
+	d6+MB+1
+	Short
+	Brutal 1
+	Musket
+	2
+	70s
+	3d6+QB+4
+	Long
+	Ammo (Shot & Powder), Brutal 4, Hazardous, Reload 1, Two-Handed
+	Siege Crossbow
+	3
+	60s
+	2d6+QB+2
+	Extreme
+	Brutal 2, Ammo (Bolt), Reload 1, Two-Handed
+	Warbow
+	2
+	40s
+	2d6+MB+2
+	Long
+	Brutal 2, Accurate 1, Ammo (Arrow), Two-Handed
+	–Prototype Arms–
+	Bomb x4
+	1
+	80s
+	3d6+QB+6
+	Short
+	Area 1, Brutal 6, Hazardous, Single Use
+	Duck Foot
+	1
+	40s
+	2d6+QB+2
+	Short
+	Ammo (Shot & Powder), Area 1, Brutal 2, Hazardous, Reload 1, Pistol
+	Multi-Barrel Musket
+	3
+	90s
+	3d6+QB+4
+	Medium
+	Ammo (Shot & Powder), Brutal 4, Hazardous, Reload 2, Multi-Barrel 3, Two-Handed
+	Multi-Barrel Pistol
+	1
+	70s
+	2d6+QB+2
+	Short
+	Ammo (Shot & Powder), Brutal 2, Hazardous, Reload 2, Multi-Barrel 3, Multi-Shot, Pistol
+	Volley Crossbow
+	3
+	50s
+	2d6+QB
+	Medium
+	Multi-Barrel 4, Multi-Shot, Ammo (Bolt), Reload 1, Two-Handed
+	–Ammo: Shot & Powder–
+	Grapeshot x20
+	1
+	10s
+	-
+	-
+	Area 1
+	Standard Shot x20
+	1
+	10s
+	+1
+	-
+	Brutal 1
+	–Ammo: Arrow–
+	Arrow x20
+	1
+	5s
+	-
+	-
+	-
+	Hardened Arrow x20
+	1
